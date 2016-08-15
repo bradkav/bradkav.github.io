@@ -4,7 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-My full listing on inSPIRE-HEP can be found [here](https://inspirehep.net/search?p=exactauthor%3AB.J.Kavanagh.1&sf=earliestdate).
+Please find below my list of scientific publications (also available for [download in PDF format]({{ site.url }}/assets/PublicationList.pdf)). For citation information, please consult my [full listing on inSPIRE-HEP](https://inspirehep.net/search?p=exactauthor%3AB.J.Kavanagh.1&sf=earliestdate).
+
+My ORCID ID is: [orcid.org/0000-0002-3634-4679](https://orcid.org/0000-0002-3634-4679).
+
+*** 
+<br>
 
 1. *You can hide but you have to run: direct detection with vector mediators*  
 F. D'Eramo, **B. J. Kavanagh**, P. Panci  
