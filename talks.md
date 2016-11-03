@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Talks
-permalink: /talks/
+permalink: /talks.html
 weight: 4
 ---
 

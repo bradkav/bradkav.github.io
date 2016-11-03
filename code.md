@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-permalink: /code/
+permalink: /code.html
 weight: 5
 ---
 
