@@ -1,15 +1,29 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About Me
+permalink: /about.html
+weight: 2
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+## About Me
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a researcher studying Dark Matter, worrying about how it can be detected and what we can learn about it. My full CV is available [here](/assets/BradleyKAVANAGH-CV.pdf), but below you will find a brief summary of my academic history and my research interests (aimed at experts).
+ 
+
+
+### Academic history
+
+Since October 2014, I have held a NewDARK post-doctoral fellowship with [Dr. Marco Cirelli](http://www.marcocirelli.net), working first at the [IPhT](http://ipht.cea.fr) in Saclay, France and then moving with the NewDARK group to the [LPTHE](http://www.lpthe.jussieu.fr) in central Paris.
+
+I completed my PhD in September 2014 at the University of Nottingham, supervised by [Dr. Anne Green](http://anne-green.net/physics/Home.html). My thesis was entitled "*Confronting astrophysical uncertainties in the direct detection of dark matter*" and is available from the [Nottingham eTheses Repository](http://eprints.nottingham.ac.uk/14547/).
+
+I studied as an undergraduate at Homerton College, University of Cambridge, where I earned a BA in Natural Sciences and an MSci in Theoretical Physics. For my Masters' project, I ran Helium Atom Scattering simulations on graphics cards (and nearly messed up a few of the cards in the process).
+
+
+
+### Research interests
+
+I work on Dark Matter (DM) phenomenology, specialising in so-called 'Direct Detection' experiments, which search for the low energy interactions of Galactic DM with nuclei. I work on understanding what information we can glean from these experiments if we see a DM signal. During my PhD, I showed that we should be able to reconstruct the DM particle mass and interaction cross section without having to worry about the unknown velocity distribution of Galactic DM. As a bonus, we can actually measure the velocity distribution itself and learn something about the DM halo in the process.
+
+I am currently interested in looking for new signatures of DM in Direct Detection experiments, as well as in indirect and collider searches. Different models of DM lead to different types of DM-nucleon interactions and I am trying to understand how these different interactions manifest in experiments and how they might be distinguished from one another. This information should prove vital for informing future decisions about what type of detectors will give us the greatest handle on the properties of DM and the greatest chance of unveiling its identity.
