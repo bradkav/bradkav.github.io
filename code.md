@@ -17,11 +17,11 @@ Note that some of the code available on github is still under development and ma
 <br>
 **runDM** - {% include icon-github.html username="bradkav" %}/ [runDM](https://github.com/bradkav/runDM)
 
-*A tool (in Mathematica and Python) for calculating the running of the couplings of Dark Matter (DM) to the Standard Model (SM) in simplified models with vector mediators.*
+*A tool (in Mathematica and Python) for calculating the running of the couplings of Dark Matter (DM) to the Standard Model (SM) in simplified models with vector mediators. Useful for exploring the complementarity between DM direct detection (low energy) and LHC searches (high energy).*
 
-**ATLASfits** - {% include icon-github.html username="bradkav" %}/ [ATLASfits](https://github.com/bradkav/ATLASfits)
+**DiphotonFits** - {% include icon-github.html username="bradkav" %}/ [DiphotonFits](https://github.com/bradkav/DiphotonFits)
 
-*ATLASfits is a collection of Python code (and a couple of data files) which allows you to perform fits to the (binned, digitised) ATLAS diphoton invariant mass spectrum, from the initial Run-II results (Dec 2015). Essentially a worked example in statistics.*
+*DiphotonFits is a collection of Python code (and a couple of data files) which allows you to perform fits to the (binned, digitised) ATLAS diphoton invariant mass spectrum, from the initial Run-II results (Dec 2015). Essentially a worked example in statistics, allowing you to reproduce the results of [arXiv:1601.07330](http://arxiv.org/abs/1601.07330).*
 
 
 **EarthShadow** {% include icon-github.html username="bradkav" %}/ [EarthShadow](https://github.com/bradkav/EarthShadow)
