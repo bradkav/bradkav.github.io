@@ -20,13 +20,21 @@ description: > # this means to ignore newlines until "baseurl:"
   Statistics and Open Science. The site includes my publication list, CV, 
   research interests and current projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bradkav.github.io" # the base hostname & protocol for your site
+url: "http://bradkav.net" # the base hostname & protocol for your site
 twitter_username: bradleykavanagh
 github_username:  bradkav
+
+
+author: Bradley J Kavanagh
+twitter:
+  username: bradleykavanagh
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+gems:
+  - jekyll-seo-tag
 
 #kramdown:
   # use Github Flavored Markdown
