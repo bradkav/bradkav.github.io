@@ -18,7 +18,7 @@ Since October 2014, I have held a NewDARK post-doctoral fellowship with [Dr. Mar
 
 I completed my PhD in September 2014 at the University of Nottingham, supervised by [Dr. Anne Green](http://anne-green.net/physics/Home.html). My thesis was entitled "*Confronting astrophysical uncertainties in the direct detection of dark matter*" and is available from the [Nottingham eTheses Repository](http://eprints.nottingham.ac.uk/14547/).
 
-I studied as an undergraduate at Homerton College, University of Cambridge, where I earned a BA in Natural Sciences and an MSci in Theoretical Physics. For my Masters' project, I ran Helium Atom Scattering simulations on graphics cards (and nearly messed up a few of the cards in the process).
+I studied as an undergraduate at Homerton College, University of Cambridge, where I earned a BA in Natural Sciences and an MSci in Theoretical Physics. For my Master's project, I ran Helium Atom Scattering simulations on graphics cards (and nearly messed up a few of the cards in the process).
 
 
 

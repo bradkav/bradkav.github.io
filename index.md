@@ -10,7 +10,7 @@ weight: 1
 
 <img src="/assets/Me.jpg" height="250px" border="1px" style="float: right; margin-left: 15px;">
 
-I am a particle astrophysicist, currently working as a post-doc at the [LPTHE](http://www.lpthe.jussieu.fr) in Paris, holding a *distinguished* ERC NewDARK Fellowship with [Dr. Marco Cirelli](http://www.marcocirelli.net).
+I am a particle astrophysicist, currently working as a post-doc at the [LPTHE](http://www.lpthe.jussieu.fr) in Paris, holding a '*distinguished*' ERC NewDARK Fellowship with [Dr. Marco Cirelli](http://www.marcocirelli.net).
 
 My main research interest is [Dark Matter](https://en.wikipedia.org/wiki/Dark_matter) and trying to find out what it is. On this website, you'll find information and useful links associated with my research.
  
