@@ -19,6 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+12. *Signatures of Earth-scattering in the direct detection of Dark Matter*  
+**B. J. Kavanagh**, R. Catena, C. Kouvaris  
+Submitted to JCAP, [arXiv:1611.05453](http://arxiv.org/abs/1611.05453)  
+Code (and animations) available [here](https://github.com/bradkav/EarthShadow)
+
 11. *Reconstructing the three-dimensional local dark matter velocity distribution*  
 **B. J. Kavanagh**, C. A. J. O'Hare  
 Submitted to Phys. Rev. D, [arXiv:1609.08630](http://arxiv.org/abs/1609.08630)  
@@ -26,7 +31,7 @@ Submitted to Phys. Rev. D, [arXiv:1609.08630](http://arxiv.org/abs/1609.08630)
 10. *You can hide but you have to run: direct detection with vector mediators*  
 F. D'Eramo, **B. J. Kavanagh**, P. Panci  
 [J. High Energ. Phys. (2016) 2016: 111](http://dx.doi.org/10.1007/JHEP08(2016)111), [arXiv:1605.04917](http://arxiv.org/abs/1605.04917)  
-Code available [here](https://github.com/bradkav/runDM/releases/latest)
+Code available [here](https://github.com/bradkav/runDM)
 
 9. *A review of the discovery reach of directional Dark Matter detection*  
 F. Mayet, A. M. Green, J. B. R. Battat, J. Billard, N. Bozorgnia, G. B. Gelmini, P. Gondolo, **B. J. Kavanagh**, S. K. Lee, D. Loomba J. Monroe, B. Morgan, C. A. J. O'Hare, A. H. G. Peter, N. S. Phan, S. E. Vahsen  
