@@ -36,6 +36,9 @@ theme: minima
 gems:
   - jekyll-seo-tag
 
+# Google services
+google_analytics: UA-88094985-1
+
 #kramdown:
   # use Github Flavored Markdown
 #  input: GFM
