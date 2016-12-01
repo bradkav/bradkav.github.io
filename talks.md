@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- Phenomenology Overview, Journée Matière Sombre France, APC, Paris, 1 December 2016  
+Talk Title: [*Dark Matter 'Pheno' - Signatures in direct detection experiments*](/assets/slides/JMS-Kavanagh-v2.pdf)
+
 - Astro-Particle Physics Seminar, University of Zurich, Switzerland, 7 November 2016  
 Seminar Title: [*Signatures of Earth-Shadowing in the Direct Detection of Dark Matter*](/assets/slides/KAVANAGH-Zurich2016.pdf)
 
