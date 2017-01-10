@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- Astroparticle Theory Seminar, MPIK, Heidelberg, 9 January 2017  
+Seminar Title: [*Signatures of Earth-Scattering in the Direct Detection of Dark Matter*](/assets/slides/KAVANAGH-Heidelberg2017.pdf)
+
 - Phenomenology Overview, Journée Matière Sombre France, APC, Paris, 1 December 2016  
 Talk Title: [*Dark Matter 'Pheno' - Signatures in direct detection experiments*](/assets/slides/JMS-Kavanagh-v2.pdf)
 
@@ -78,7 +81,7 @@ Poster title: *WIMP astronomy in the next generation*
 Talk title: *Probing the nature of particle dark matter (and worrying about astrophysics)*
 
 - UKCosmo Meeting, Imperial College London, UK, 12 March 2013  
-Talk title: *Tackling astrophysical uncertainties in dark matter direct detection experiments*
+Talk title: [*Tackling astrophysical uncertainties in dark matter direct detection experiments*](/assets/slides/BKavanagh-UKCosmo.pdf)
 
 - Cambridge Part III Research Day, Cambridge, UK, 1 November 2012  
 Talk title: *Detecting dark matter*
