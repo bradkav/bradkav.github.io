@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- IPNL Seminar, Institut de Physique Nucléaire de Lyon, Lyon, 20 January 2017
+Seminar Title: [*Directional Dark Matter Detection: a window into DM astrophysics and particle physics*](/assets/slides/KAVANAGH-IPNL2017.pdf)  
+
 - Astroparticle Theory Seminar, MPIK, Heidelberg, 9 January 2017  
 Seminar Title: [*Signatures of Earth-Scattering in the Direct Detection of Dark Matter*](/assets/slides/KAVANAGH-Heidelberg2017.pdf)
 
