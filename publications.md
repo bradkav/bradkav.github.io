@@ -19,6 +19,10 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+13. *Probing Leptophilic Dark Sectors with Hadronic Processes*  
+F. D'Eramo, **B. J. Kavanagh**, P. Panci  
+Submitted to Phys. Lett. B, [arXiv:1702.00016](http://arxiv.org/abs/1702.00016)  
+
 12. *Signatures of Earth-scattering in the direct detection of Dark Matter*  
 **B. J. Kavanagh**, R. Catena, C. Kouvaris  
 [JCAP 01 (2017) 012](http://dx.doi.org/10.1088/1475-7516/2017/01/012), [arXiv:1611.05453](http://arxiv.org/abs/1611.05453)  
