@@ -16,7 +16,7 @@ I am a researcher studying Dark Matter, worrying about how it can be detected an
 
 Since October 2014, I have held a NewDARK post-doctoral fellowship with [Dr. Marco Cirelli](http://www.marcocirelli.net), working first at the [IPhT](http://ipht.cea.fr) in Saclay, France and then moving with the NewDARK group to the [LPTHE](http://www.lpthe.jussieu.fr) in central Paris.
 
-I completed my PhD in September 2014 at the University of Nottingham, supervised by [Dr. Anne Green](http://anne-green.net/physics/Home.html). My thesis was entitled "*Confronting astrophysical uncertainties in the direct detection of dark matter*" and is available from the [Nottingham eTheses Repository](http://eprints.nottingham.ac.uk/14547/).
+I completed my PhD in September 2014 at the University of Nottingham, supervised by [Dr. Anne Green](http://anne-green.net/physics/Home.html). My thesis was entitled "*Confronting astrophysical uncertainties in the direct detection of dark matter*". It was awarded the [2016 IOP Astroparticle physics thesis prize](http://www.iop.org/activity/groups/subject/ap/prize/page_67116.html) and is available from the [Nottingham eTheses Repository](http://eprints.nottingham.ac.uk/14547/).
 
 I studied as an undergraduate at Homerton College, University of Cambridge, where I earned a BA in Natural Sciences and an MSci in Theoretical Physics. For my Master's project, I ran Helium Atom Scattering simulations on graphics cards (and nearly messed up a few of the cards in the process).
 
