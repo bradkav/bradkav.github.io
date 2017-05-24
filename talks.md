@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+-AmsterDark Meeting, GRAPPA, University of Amsterdam, Netherlands, 24 May 2017  
+Talk Title[*Earth-Scattering of Dark Matter: from sub-GeV Dark Matter to WIMPzillas*](/assets/slides/KAVANAGH-AmsterDark.pdf)
+
 - MIAPP Talk, [Workshop on Astro-, Particle and Nuclear Physics of Dark Matter Direct Detection](http://www.munich-iapp.de/programmes-topical-workshops/2017/dark-matter-direct-detection/), Munich, 21 March 2017  
 Talk Title: [*Earth-Scattering of Dark Matter: when Dark Matter particle physics and astrophysics collide*](/assets/slides/KAVANAGH-MIAPP2017.pdf) 
 
