@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- DM Signatures Workshop, CP3-Origins, Odense, 12 June 2017  
+Talk Title: [*Signatures of Dark Matter Earth-Scattering: from sub-GeV particles to WIMPzillas*](/assets/slides/KAVANAGH-DMsignatures.pdf)
+
 - AmsterDark Meeting, GRAPPA, University of Amsterdam, Netherlands, 24 May 2017  
 Talk Title: [*Earth-Scattering of Dark Matter: from sub-GeV Dark Matter to WIMPzillas*](/assets/slides/KAVANAGH-AmsterDark.pdf)
 
