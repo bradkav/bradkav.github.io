@@ -23,7 +23,7 @@ Note that some of the code available on github is still under development and ma
 
 *A tool (in Mathematica and Python) for calculating the running of the couplings of Dark Matter (DM) to the Standard Model (SM) in simplified models with vector mediators. Useful for exploring the complementarity between DM direct detection (low energy) and LHC searches (high energy).*
 
-**AntiparticleDM** - {% include icon-github.html username="bradkav" %}/ [runDM](https://github.com/bradkav/AntiparticleDM)
+**AntiparticleDM** - {% include icon-github.html username="bradkav" %}/ [AntiparticleDM](https://github.com/bradkav/AntiparticleDM)
 
 *Code for exploring the prospects for discriminating between Majorana and Dirac Dark Matter using future direct detection data. With this code the results and plots of [arXiv:1706.07819](http://arxiv.org/abs/1706.07819) should be entirely reproducible.*
 
