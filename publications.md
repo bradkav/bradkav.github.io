@@ -19,6 +19,10 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+14. *Prospects for determining the particle/antiparticle nature of WIMP dark matter with direct detection experiments*  
+**B. J. Kavanagh**, F. S. Queiroz, W. Rodejohann, C. E. Yaguna  
+[arXiv:1706.07819](http://arxiv.org/abs/1706.07819)  
+
 13. *Probing Leptophilic Dark Sectors with Hadronic Processes*  
 F. D'Eramo, **B. J. Kavanagh**, P. Panci  
 [Phys. Lett. B 771 (2017) 339-348](https://doi.org/10.1016/j.physletb.2017.05.063), [arXiv:1702.00016](http://arxiv.org/abs/1702.00016)  
