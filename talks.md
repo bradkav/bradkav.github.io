@@ -9,7 +9,10 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
-- DM Signatures Workshop, CP3-Origins, Odense, 12 June 2017  
+- [IRN/GDR Terascale](https://indico.in2p3.fr/event/14481/), Montpellier, France, 4 July 2017  
+Talk Title: [*Connecting low-energy Dark Matter searches with high-energy physics: the role of operator mixing*](/assets/slides/KAVANAGH-IRNterascale2017.pdf)
+
+- DM Signatures Workshop, CP3-Origins, Odense, Denmark, 12 June 2017  
 Talk Title: [*Signatures of Dark Matter Earth-Scattering: from sub-GeV particles to WIMPzillas*](/assets/slides/KAVANAGH-DMsignatures.pdf)
 
 - AmsterDark Meeting, GRAPPA, University of Amsterdam, Netherlands, 24 May 2017  
