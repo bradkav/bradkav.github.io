@@ -19,6 +19,10 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+15. *Time-integrated directional detection of dark matter*  
+C. A. J. O'Hare, **B. J. Kavanagh**, A. M. Green  
+Submitted to PRD, [arXiv:1708.02959](https://arxiv.org/abs/1708.02959)
+
 14. *Prospects for determining the particle/antiparticle nature of WIMP dark matter with direct detection experiments*  
 **B. J. Kavanagh**, F. S. Queiroz, W. Rodejohann, C. E. Yaguna  
 [arXiv:1706.07819](http://arxiv.org/abs/1706.07819)  
