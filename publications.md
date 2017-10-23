@@ -21,11 +21,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 15. *Time-integrated directional detection of dark matter*  
 C. A. J. O'Hare, **B. J. Kavanagh**, A. M. Green  
-Submitted to PRD, [arXiv:1708.02959](https://arxiv.org/abs/1708.02959)
+[Phys. Rev. D 96, 083011 (2017)](https://doi.org/10.1103/PhysRevD.96.083011), [arXiv:1708.02959](https://arxiv.org/abs/1708.02959)
 
 14. *Prospects for determining the particle/antiparticle nature of WIMP dark matter with direct detection experiments*  
 **B. J. Kavanagh**, F. S. Queiroz, W. Rodejohann, C. E. Yaguna  
-Submitted to JHEP, [arXiv:1706.07819](http://arxiv.org/abs/1706.07819)  
+[J. High Energ. Phys. (2017) 2017: 59](https://doi.org/10.1007/JHEP10(2017)059), [arXiv:1706.07819](http://arxiv.org/abs/1706.07819)  
 Code available [here](https://github.com/bradkav/AntiparticleDM)
 
 13. *Probing Leptophilic Dark Sectors with Hadronic Processes*  
