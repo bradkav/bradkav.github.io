@@ -19,6 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+16. *Earth-Scattering of super-heavy Dark Matter: updated constraints from detectors old and new*  
+**B. J. Kavanagh**  
+[arXiv:1712.04901](https://arxiv.org/abs/1712.04901)  
+Code available [here](https://github.com/bradkav/verne) (archived on [Zenodo](https://doi.org/10.5281/zenodo.1115601))
+
 15. *Time-integrated directional detection of dark matter*  
 C. A. J. O'Hare, **B. J. Kavanagh**, A. M. Green  
 [Phys. Rev. D 96, 083011 (2017)](https://doi.org/10.1103/PhysRevD.96.083011), [arXiv:1708.02959](https://arxiv.org/abs/1708.02959)

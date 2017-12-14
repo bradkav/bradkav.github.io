@@ -15,6 +15,10 @@ Note that some of the code available on github is still under development and ma
 
 ---   
 <br>
+**verne** {% include icon-github.html username="bradkav" %}/ [verne](https://github.com/bradkav/verne)
+
+*Python code for calculating the Earth-stopping effect for super-heavy Dark Matter (DM).*
+
 **EarthShadow** {% include icon-github.html username="bradkav" %}/ [EarthShadow](https://github.com/bradkav/EarthShadow)
  
 *A tool for calculating the effects of Earth-scattering on the distribution of Dark Matter (DM) particles (and the resulting impact on direct detection rates). Includes (Mathematica) code, numerical results, plots and animations.*
