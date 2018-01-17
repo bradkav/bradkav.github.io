@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- LAW Physics Webinar [[Video]](https://lawphysics.wordpress.com/2018/01/10/w56-bradley-kavanagh-can-we-determine-the-particle-antiparticle-nature-of-dark-matter/), 17 January 2018  
+Talk Title: [*Can we determine the particle/antiparticle nature of Dark Matter?*](/assets/slides/KAVANAGH-LAWphysics.pdf)
+
 - [IRN/GDR Terascale](https://indico.in2p3.fr/event/14481/), Montpellier, France, 4 July 2017  
 Talk Title: [*Connecting low-energy Dark Matter searches with high-energy physics: the role of operator mixing*](/assets/slides/KAVANAGH-IRNterascale2017.pdf)
 
