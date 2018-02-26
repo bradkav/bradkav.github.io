@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- Invited Overview Talk, [DM-Stat Workshop](https://workshops.birs.ca/events/18w5095), Banff, Canada, 26 February 2018   
+Talk Title: [*An Introduction to Dark Matter*](/assets/slides/KAVANAGH-DMstat.pdf)
+
 - LAW Physics Webinar [[Video]](https://lawphysics.wordpress.com/2018/01/10/w56-bradley-kavanagh-can-we-determine-the-particle-antiparticle-nature-of-dark-matter/), 17 January 2018  
 Talk Title: [*Can we determine the particle/antiparticle nature of Dark Matter?*](/assets/slides/KAVANAGH-LAWphysics.pdf)
 
