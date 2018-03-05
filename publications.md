@@ -19,9 +19,13 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+17. *Precision constraints on radiative neutrino decay with CMB spectral distortion*  
+J. L. Aalberts, S. Ando, W. M. Borg, E. Broeils, J. Broeils, S. Broeils, **B. J. Kavanagh**, G. Leguijt, M. Reemst, D. R. van Arneman, H. Vu  
+Submitted to Phys. Rev. D, [arXiv:1803.00588](https://arxiv.org/abs/1803.00588)  
+
 16. *Earth-Scattering of super-heavy Dark Matter: updated constraints from detectors old and new*  
 **B. J. Kavanagh**  
-[arXiv:1712.04901](https://arxiv.org/abs/1712.04901)  
+Submitted to Phys. Rev. D, [arXiv:1712.04901](https://arxiv.org/abs/1712.04901)  
 Code available [here](https://github.com/bradkav/verne) (archived on [Zenodo](https://doi.org/10.5281/zenodo.1115601))
 
 15. *Time-integrated directional detection of dark matter*  
