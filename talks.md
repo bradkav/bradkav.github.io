@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- Theoretical Physics Seminar, Chalmers University of Technology, Gothenburg, Sweden, 17th April 2018  
+Seminar Title: [*Pinning down the particle properties of Dark Matter with future direct detection experiments*](/assets/slides/KAVANAGH-Chalmers-v2.pdf)
+
 - Invited Overview Talk, [DM-Stat Workshop](https://workshops.birs.ca/events/18w5095), Banff, Canada, 26 February 2018   
 Talk Title: [*An Introduction to Dark Matter*](/assets/slides/KAVANAGH-DMstat.pdf)
 
