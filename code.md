@@ -15,6 +15,10 @@ Note that some of the code available on github is still under development and ma
 
 ---   
 <br>
+**CEvNS** {% include icon-github.html username="bradkav" %}/ [CEvNS](https://github.com/bradkav/CEvNS)
+
+*Code for calculating Coherent Elastic Neutrino-Nucleus Scattering (CEvNS) cross sections and recoil spectra. Also includes code for obtaining New Physics constraints from the COHERENT-2017 results.*
+
 **verne** {% include icon-github.html username="bradkav" %}/ [verne](https://github.com/bradkav/verne)
 
 *Python code for calculating the Earth-stopping effect for super-heavy Dark Matter (DM).*
