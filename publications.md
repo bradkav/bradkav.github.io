@@ -20,7 +20,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 <br>
 
 18. *Prospects for exploring New Physics in Coherent Elastic Neutrino-Nucleus Scattering*  
-J. Billard, J. Johnston, **B. J. Kavanagh**
+J. Billard, J. Johnston, **B. J. Kavanagh**  
 [arXiv:1805.01798](https://arxiv.org/abs/1805.01798)  
 Illustrative code available [here](https://github.com/bradkav/CEvNS) (archived on [Zenodo](https://doi.org/10.5281/zenodo.1229055))
 
