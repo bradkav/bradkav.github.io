@@ -19,6 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+19. *Dark Matter Model or Mass, but Not Both: Assessing Near-Future Direct Searches with Benchmark-free Forecasting*  
+T. D. P. Edwards, **B. J. Kavanagh**, C. Weniger  
+[arXiv:1805.04117](https://arxiv.org/abs/1805.04117)  
+Code available [here](https://github.com/bradkav/WIMpy_NREFT) and [here](https://github.com/tedwards2412/benchmark_free_forecasting)
+
 18. *Prospects for exploring New Physics in Coherent Elastic Neutrino-Nucleus Scattering*  
 J. Billard, J. Johnston, **B. J. Kavanagh**  
 [arXiv:1805.01798](https://arxiv.org/abs/1805.01798)  
