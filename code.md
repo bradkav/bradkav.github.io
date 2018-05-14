@@ -15,6 +15,11 @@ Note that some of the code available on github is still under development and ma
 
 ---   
 <br>
+
+**WIMpy** {% include icon-github.html username="bradkav" %}/ [WIMpy_NREFT](https://github.com/bradkav/WIMpy_NREFT)
+
+*Python code for calculating Dark Matter direct detection rates in the framework of non-relativistic effective field theory (NREFT). This general code has been used in a number of works, but was officially released in conjunction with [arXiv:1805.04117](https://arxiv.org/abs/1805.04117).*
+
 **CEvNS** {% include icon-github.html username="bradkav" %}/ [CEvNS](https://github.com/bradkav/CEvNS)
 
 *Code for calculating Coherent Elastic Neutrino-Nucleus Scattering (CEvNS) cross sections and recoil spectra. Also includes code for obtaining New Physics constraints from the COHERENT-2017 results.*
