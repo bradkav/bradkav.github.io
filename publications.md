@@ -19,6 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+20. *Black Holes' Dark Dress: On the merger rate of a subdominant population of primordial black holes*  
+**B. J. Kavanagh**, D. Gaggero, G. Bertone  
+[arXiv:1805.09034](https://arxiv.org/abs/1805.09034)  
+Code available [here](https://github.com/bradkav/BlackHolesDarkDress) (archived on [Zenodo](https://doi.org/10.5281/zenodo.1251160)), movies available [here](https://doi.org/10.6084/m9.figshare.6298397)
+
 19. *Dark Matter Model or Mass, but Not Both: Assessing Near-Future Direct Searches with Benchmark-free Forecasting*  
 T. D. P. Edwards, **B. J. Kavanagh**, C. Weniger  
 [arXiv:1805.04117](https://arxiv.org/abs/1805.04117)  
