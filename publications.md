@@ -21,17 +21,17 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 20. *Black Holes' Dark Dress: On the merger rate of a subdominant population of primordial black holes*  
 **B. J. Kavanagh**, D. Gaggero, G. Bertone  
-[arXiv:1805.09034](https://arxiv.org/abs/1805.09034)  
+Submitted to Phys. Rev. D., [arXiv:1805.09034](https://arxiv.org/abs/1805.09034)  
 Code available [here](https://github.com/bradkav/BlackHolesDarkDress) (archived on [Zenodo](https://doi.org/10.5281/zenodo.1251160)), movies available [here](https://doi.org/10.6084/m9.figshare.6298397)
 
 19. *Dark Matter Model or Mass, but Not Both: Assessing Near-Future Direct Searches with Benchmark-free Forecasting*  
 T. D. P. Edwards, **B. J. Kavanagh**, C. Weniger  
-[arXiv:1805.04117](https://arxiv.org/abs/1805.04117)  
+Submitted to Phys. Rev. Lett., [arXiv:1805.04117](https://arxiv.org/abs/1805.04117)  
 Code available [here](https://github.com/bradkav/WIMpy_NREFT) and [here](https://github.com/tedwards2412/benchmark_free_forecasting)
 
 18. *Prospects for exploring New Physics in Coherent Elastic Neutrino-Nucleus Scattering*  
 J. Billard, J. Johnston, **B. J. Kavanagh**  
-[arXiv:1805.01798](https://arxiv.org/abs/1805.01798)  
+Submitted to JHEP, [arXiv:1805.01798](https://arxiv.org/abs/1805.01798)  
 Illustrative code available [here](https://github.com/bradkav/CEvNS) (archived on [Zenodo](https://doi.org/10.5281/zenodo.1229055))
 
 17. *Precision constraints on radiative neutrino decay with CMB spectral distortion*  
