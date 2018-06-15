@@ -19,6 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+21. *Black holes, gravitational waves and fundamental physics: a roadmap*  
+L. Barack at al. (**B. J. Kavanagh**, Section coordinator "Primordial Black Holes and Dark Matter")  
+arXiv pre-print, [arXiv:1806.05195](https://arxiv.org/abs/1806.05195)  
+White Paper for the COST action "Gravitational Waves, Black Holes, and Fundamental Physics".
+
 20. *Black Holes' Dark Dress: On the merger rate of a subdominant population of primordial black holes*  
 **B. J. Kavanagh**, D. Gaggero, G. Bertone  
 Submitted to Phys. Rev. D., [arXiv:1805.09034](https://arxiv.org/abs/1805.09034)  
