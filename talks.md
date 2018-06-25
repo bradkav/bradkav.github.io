@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- Invited Overview Talk, [Dark Side of the Universe 2018](https://indico.in2p3.fr/event/14719/overview), Annecy, France, 25th June 2018  
+Talk Title: [*Signal Diversity and EFT in Dark Matter Direct Detection*](/assets/slides/KAVANAGH-DSU2018-v2.pdf)
+
 - Theoretical Physics Seminar, Chalmers University of Technology, Gothenburg, Sweden, 17th April 2018  
 Seminar Title: [*Pinning down the particle properties of Dark Matter with future direct detection experiments*](/assets/slides/KAVANAGH-Chalmers-v2.pdf)
 
