@@ -19,6 +19,10 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+22. *Bracketing the impact of astrophysical uncertainties on local dark matter searches*  
+A. Ibarra, **B. J. Kavanagh**, A. Rappelt  
+Submitted to JCAP, [arXiv:1806.08714](https://arxiv.org/abs/1806.08714)  
+
 21. *Black holes, gravitational waves and fundamental physics: a roadmap*  
 L. Barack at al. (**B. J. Kavanagh**, Section coordinator "Primordial Black Holes and Dark Matter")  
 arXiv pre-print, [arXiv:1806.05195](https://arxiv.org/abs/1806.05195)  
