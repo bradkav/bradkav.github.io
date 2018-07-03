@@ -40,12 +40,12 @@ Code available [here](https://github.com/bradkav/WIMpy_NREFT) and [here](https:/
 
 18. *Prospects for exploring New Physics in Coherent Elastic Neutrino-Nucleus Scattering*  
 J. Billard, J. Johnston, **B. J. Kavanagh**  
-Submitted to JHEP, [arXiv:1805.01798](https://arxiv.org/abs/1805.01798)  
+Submitted to JCAP, [arXiv:1805.01798](https://arxiv.org/abs/1805.01798)  
 Illustrative code available [here](https://github.com/bradkav/CEvNS) (archived on [Zenodo](https://doi.org/10.5281/zenodo.1229055))
 
 17. *Precision constraints on radiative neutrino decay with CMB spectral distortion*  
 J. L. Aalberts, S. Ando, W. M. Borg, E. Broeils, J. Broeils, S. Broeils, **B. J. Kavanagh**, G. Leguijt, M. Reemst, D. R. van Arneman, H. Vu  
-Submitted to Phys. Rev. D, [arXiv:1803.00588](https://arxiv.org/abs/1803.00588)  
+[Phys. Rev. D 98, 023001 (2018)](https://doi.org/10.1103/PhysRevD.98.023001), [arXiv:1803.00588](https://arxiv.org/abs/1803.00588)  
 
 16. *Earth-Scattering of super-heavy Dark Matter: updated constraints from detectors old and new*  
 **B. J. Kavanagh**  
