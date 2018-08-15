@@ -105,10 +105,13 @@ Talk title: [*Measuring the dark matter mass - in spite of astrophysical uncerta
 Poster title: *WIMP astronomy in the next generation*
 
 - Particle Theory Group Talk, Nottingham, UK, 15 October 2013  
-Talk title: *Probing the nature of particle dark matter (and worrying about astrophysics)*
+Talk title: [*Probing the nature of particle dark matter (and worrying about astrophysics)*](/assets/slides/KAVANAGH-NottinghamStudentTalk.pdf)
 
 - UKCosmo Meeting, Imperial College London, UK, 12 March 2013  
 Talk title: [*Tackling astrophysical uncertainties in dark matter direct detection experiments*](/assets/slides/BKavanagh-UKCosmo.pdf)
+
+- Physics & Astronomy Postgraduate Poster Competition, Nottingham, UK, 6 February 2013  
+Poster title: [*Astronomy for WIMPs: the direct detection of dark matter*](/assets/slides/KAVANAGH-NottinghamPosterComp.pdf)
 
 - Cambridge Part III Research Day, Cambridge, UK, 1 November 2012  
 Talk title: *Detecting dark matter*
