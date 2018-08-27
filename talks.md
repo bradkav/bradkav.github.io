@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- [TeVPA 2018](https://indico.desy.de/indico/event/18204/page/5), Berlin, Germany, 27-31 August 2018  
+Poster Title: [*Black Holes’ Dark Dress: The impact of local Dark Matter halos on the mergers of primordial black hole binaries*](/assets/slides/KAVANAGH-TeVPA2018_poster.pdf)
+
 - Invited Overview Talk, [Dark Side of the Universe 2018](https://indico.in2p3.fr/event/14719/overview), Annecy, France, 25th June 2018  
 Talk Title: [*Signal Diversity and EFT in Dark Matter Direct Detection*](/assets/slides/KAVANAGH-DSU2018-v2.pdf)
 
