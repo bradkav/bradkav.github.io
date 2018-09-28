@@ -10,7 +10,7 @@ weight: 4
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
 - Invited Talk, [DESY Theory Workshop 2018](https://th-workshop2018.desy.de), DESY Hamburg, Germany, 25-28 September 2018  
-Talk Title: [*Black Holes’ Dark Dress: The impact of local Dark Matter halos on the mergers of primordial black hole binaries*](/assets/slides/KAVANAGH-DESY2018)
+Talk Title: [*Black Holes’ Dark Dress: The impact of local Dark Matter halos on the mergers of primordial black hole binaries*](/assets/slides/KAVANAGH-DESY2018.pdf)
 
 - [TeVPA 2018](https://indico.desy.de/indico/event/18204/page/5), Berlin, Germany, 27-31 August 2018  
 Poster Title: [*Black Holes’ Dark Dress: The impact of local Dark Matter halos on the mergers of primordial black hole binaries*](/assets/slides/KAVANAGH-TeVPA2018_poster.pdf)
