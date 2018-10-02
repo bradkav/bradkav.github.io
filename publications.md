@@ -19,6 +19,10 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+24. *Faint Light from Dark Matter: Classifying and Constraining Dark Matter-Photon Effective Operators*  
+**B. J. Kavanagh**, P. Panci, R. Ziegler  
+[arXiv:1810.00033](https://arxiv.org/abs/1810.00033)  
+
 23. *Statistical challenges in the search for dark matter*  
 S. Algeri et al. (Editors: T. D. P. Edwards, **B. J. Kavanagh**, P. Scott, A. Vincent)  
 [arXiv:1807.09273](https://arxiv.org/abs/1807.09273)  
