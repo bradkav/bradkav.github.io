@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- [PRISMA Colloquium](http://www.prisma.uni-mainz.de/seminars.php), University of Mainz, 17 October 2018  
+Colloquium Title: [*Can we directly measure the local distribution of Dark Matter from Earth?*](/assets/slides/KAVANAGH-Mainz2018.pdf)
+
 - Invited Talk, [DESY Theory Workshop 2018](https://th-workshop2018.desy.de), DESY Hamburg, Germany, 25-28 September 2018  
 Talk Title: [*Black Holes’ Dark Dress: The impact of local Dark Matter halos on the mergers of primordial black hole binaries*](/assets/slides/KAVANAGH-DESY2018.pdf)
 
