@@ -43,12 +43,13 @@ Code available [here](https://github.com/bradkav/BlackHolesDarkDress) (archived 
 
 19. *Dark Matter Model or Mass, but Not Both: Assessing Near-Future Direct Searches with Benchmark-free Forecasting*  
 T. D. P. Edwards, **B. J. Kavanagh**, C. Weniger  
-Submitted to Phys. Rev. Lett., [arXiv:1805.04117](https://arxiv.org/abs/1805.04117)  
-Code available [here](https://github.com/bradkav/WIMpy_NREFT) and [here](https://github.com/tedwards2412/benchmark_free_forecasting)
+[Phys. Rev. Lett. 121, 181101 (2018)](https://doi.org/10.1103/PhysRevLett.121.181101), [arXiv:1805.04117](https://arxiv.org/abs/1805.04117)  
+Code available [here](https://github.com/bradkav/WIMpy_NREFT) and [here](https://github.com/tedwards2412/benchmark_free_forecasting)  
+Featured in [University of Amsterdam News](http://iop.uva.nl/content/news/2018/11/mass-or-interaction-but-not-both.html)
 
 18. *Prospects for exploring New Physics in Coherent Elastic Neutrino-Nucleus Scattering*  
 J. Billard, J. Johnston, **B. J. Kavanagh**  
-Submitted to JCAP, [arXiv:1805.01798](https://arxiv.org/abs/1805.01798)  
+[JCAP 11 (2018) 016](https://doi.org/10.1088/1475-7516/2018/11/016), [arXiv:1805.01798](https://arxiv.org/abs/1805.01798)  
 Illustrative code available [here](https://github.com/bradkav/CEvNS) (archived on [Zenodo](https://doi.org/10.5281/zenodo.1229055))
 
 17. *Precision constraints on radiative neutrino decay with CMB spectral distortion*  
