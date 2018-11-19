@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- Particle Theory Seminar, University of Nottingham, UK, 16 November 2018  
+Seminar Title: [*Black Holes’ Dark Dress: Mergers of primordial black holes and the impact of Dark Matter halos*](/assets/slides/KAVANAGH-NottinghamNov2018.pdf))
+
 - [PRISMA Colloquium](http://www.prisma.uni-mainz.de/seminars.php), University of Mainz, 17 October 2018  
 Colloquium Title: [*Can we directly measure the local distribution of Dark Matter from Earth?*](/assets/slides/KAVANAGH-Mainz2018.pdf)
 
