@@ -20,7 +20,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 <br>
 
 25. *Digging for Dark Matter: Spectral Analysis and Discovery Potential of Paleo-Detectors*  
-T.D. P. Edwards, **B. J. Kavanagh**, C. Weniger, S. Baum, A. K. Drukier, K. Freese, M. Górski, P. Stengel  
+T. D. P. Edwards, **B. J. Kavanagh**, C. Weniger, S. Baum, A. K. Drukier, K. Freese, M. Górski, P. Stengel  
 [arXiv:1811.10549](https://arxiv.org/abs/1811.10549)    
 Code available [here](https://github.com/tedwards2412/paleo_detectors/) (archived on [Zenodo](https://zenodo.org/badge/latestdoi/142072044))
 
