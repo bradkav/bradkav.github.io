@@ -20,7 +20,7 @@ Note that some of the code available on github is still under development and ma
 
 *Python code for calculating Dark Matter direct detection rates in the framework of non-relativistic effective field theory (NREFT). This general code has been used in a number of works, but was officially released in conjunction with [arXiv:1805.04117](https://arxiv.org/abs/1805.04117).*
 
-**paleopy**{% include icon-github.html username="tedwards2412" %}/ [paleopy](https://github.com/tedwards2412/paleopy)
+**paleopy** {% include icon-github.html username="tedwards2412" %}/ [paleopy](https://github.com/tedwards2412/paleopy)
 
 *Python code for calculating signals (Dark Matter, neutrinos) and backgrounds (neutrinos, radioactive backgrounds) in paleo-detectors. Released in conjunction with [arXiv:1811.10549](https://arxiv.org/abs/1811.10549).*
 
