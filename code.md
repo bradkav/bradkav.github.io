@@ -9,7 +9,7 @@ weight: 5
 
 All of my publicly available code can be found on github: {% include icon-github.html username="bradkav" %}.
 
-I try to make my code publicly available wherever possible, both to encourage transparency and to encourage others to make the most use of the work I've already done. You can find below a brief summary of the release-version codes which I maintain on github.
+I try to make my code publicly available wherever possible, both to encourage transparency and to encourage others to make the most use of the work I've already done. You can find below a brief summary of the release-version codes which I (help to) maintain on github.
 
 Note that some of the code available on github is still under development and marked [\*\*Work in progress\*\*]. Although I guess when it comes down to it, it's all a work in progress.
 
@@ -20,21 +20,25 @@ Note that some of the code available on github is still under development and ma
 
 *Python code for calculating Dark Matter direct detection rates in the framework of non-relativistic effective field theory (NREFT). This general code has been used in a number of works, but was officially released in conjunction with [arXiv:1805.04117](https://arxiv.org/abs/1805.04117).*
 
-**CEvNS** {% include icon-github.html username="bradkav" %}/ [CEvNS](https://github.com/bradkav/CEvNS)
+**paleopy**{% include icon-github.html username="tedwards2412" %}/ [paleopy](https://github.com/tedwards2412/paleopy)
 
-*Code for calculating Coherent Elastic Neutrino-Nucleus Scattering (CEvNS) cross sections and recoil spectra. Also includes code for obtaining New Physics constraints from the COHERENT-2017 results.*
+*Python code for calculating signals (Dark Matter, neutrinos) and backgrounds (neutrinos, radioactive backgrounds) in paleo-detectors. Released in conjunction with [arXiv:1811.10549](https://arxiv.org/abs/1811.10549).*
 
 **verne** {% include icon-github.html username="bradkav" %}/ [verne](https://github.com/bradkav/verne)
 
-*Python code for calculating the Earth-stopping effect for super-heavy Dark Matter (DM).*
+*Python code for calculating the Earth-stopping effect for Dark Matter (DM). The code assumes straight-line trajectories and so is most accurate for super-heavy DM, but should also work for lighter particles. Released in conjunction with [arXiv:1712.04901](https://arxiv.org/abs/1712.04901).*
 
 **EarthShadow** {% include icon-github.html username="bradkav" %}/ [EarthShadow](https://github.com/bradkav/EarthShadow)
  
-*A tool for calculating the effects of Earth-scattering on the distribution of Dark Matter (DM) particles (and the resulting impact on direct detection rates). Includes (Mathematica) code, numerical results, plots and animations.*
+*A tool for calculating the effects of Earth-scattering on the distribution of Dark Matter (DM) particles (and the resulting impact on direct detection rates). Includes (Mathematica) code, numerical results, plots and animations. Released in conjunction with [arXiv:1611.05453](https://arxiv.org/abs/1611.05453).*
 
 **runDM** - {% include icon-github.html username="bradkav" %}/ [runDM](https://github.com/bradkav/runDM)
 
-*A tool (in Mathematica and Python) for calculating the running of the couplings of Dark Matter (DM) to the Standard Model (SM) in simplified models with vector mediators. Useful for exploring the complementarity between DM direct detection (low energy) and LHC searches (high energy).*
+*A tool (in Mathematica and Python) for calculating the running of the couplings of Dark Matter (DM) to the Standard Model (SM) in simplified models with vector mediators. Useful for exploring the complementarity between DM direct detection (low energy) and LHC searches (high energy). Released in conjunction with [arXiv:1605.04917](https://arxiv.org/abs/1605.04917).*
+
+**CEvNS** {% include icon-github.html username="bradkav" %}/ [CEvNS](https://github.com/bradkav/CEvNS)
+
+*Code for calculating Coherent Elastic Neutrino-Nucleus Scattering (CEvNS) cross sections and recoil spectra. Also includes code for obtaining New Physics constraints from the COHERENT-2017 results. Released in conjunction with [arXiv:1805.01798](https://arxiv.org/abs/1805.01798).*
 
 **AntiparticleDM** - {% include icon-github.html username="bradkav" %}/ [AntiparticleDM](https://github.com/bradkav/AntiparticleDM)
 
