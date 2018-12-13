@@ -34,7 +34,7 @@ S. Algeri et al. (Editors: T. D. P. Edwards, **B. J. Kavanagh**, P. Scott, A. Vi
 
 22. *Bracketing the impact of astrophysical uncertainties on local dark matter searches*  
 A. Ibarra, **B. J. Kavanagh**, A. Rappelt  
-Submitted to JCAP, [arXiv:1806.08714](https://arxiv.org/abs/1806.08714)  
+[JCAP 12 (2018) 018](https://doi.org/10.1088/1475-7516/2018/12/018), [arXiv:1806.08714](https://arxiv.org/abs/1806.08714)  
 
 21. *Black holes, gravitational waves and fundamental physics: a roadmap*  
 L. Barack at al. (**B. J. Kavanagh**, Section coordinator "Primordial Black Holes and Dark Matter")  
