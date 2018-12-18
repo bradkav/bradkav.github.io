@@ -31,10 +31,10 @@ Talk Title: [*Signal Diversity and EFT in Dark Matter Direct Detection*](/assets
 Seminar Title: [*Pinning down the particle properties of Dark Matter with future direct detection experiments*](/assets/slides/KAVANAGH-Chalmers-v2.pdf)
 
 - Invited Overview Talk, [DM-Stat Workshop](https://workshops.birs.ca/events/18w5095), Banff, Canada, 26 February 2018   
-Talk Title: [*An Introduction to Dark Matter*](/assets/slides/KAVANAGH-DMstat.pdf)
+Talk Title: [*An Introduction to Dark Matter*](/assets/slides/KAVANAGH-DMstat.pdf) [[Video]](http://www.birs.ca/events/2018/5-day-workshops/18w5095/videos/watch/201802260913-Kavanagh.html)
 
-- LAW Physics Webinar [[Video]](https://lawphysics.wordpress.com/2018/01/10/w56-bradley-kavanagh-can-we-determine-the-particle-antiparticle-nature-of-dark-matter/), 17 January 2018  
-Talk Title: [*Can we determine the particle/antiparticle nature of Dark Matter?*](/assets/slides/KAVANAGH-LAWphysics.pdf)
+- LAW Physics Webinar, 17 January 2018  
+Talk Title: [*Can we determine the particle/antiparticle nature of Dark Matter?*](/assets/slides/KAVANAGH-LAWphysics.pdf) [[Video]](https://lawphysics.wordpress.com/2018/01/10/w56-bradley-kavanagh-can-we-determine-the-particle-antiparticle-nature-of-dark-matter/)
 
 - [IRN/GDR Terascale](https://indico.in2p3.fr/event/14481/), Montpellier, France, 4 July 2017  
 Talk Title: [*Connecting low-energy Dark Matter searches with high-energy physics: the role of operator mixing*](/assets/slides/KAVANAGH-IRNterascale2017.pdf)
