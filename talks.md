@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- [SLAP 2018](https://sites.google.com/view/slap2018/home), King's College London, 18 December 2018  
+Talk Title: [*Black Holes’ Dark Dress: Merging Black Holes and the Dark Matter around them*](/assets/slides/KAVANAGH-SLAP2018.pdf)
+
 - Particle Theory Seminar, University of Nottingham, UK, 16 November 2018  
 Seminar Title: [*Black Holes’ Dark Dress: Mergers of primordial black holes and the impact of Dark Matter halos*](/assets/slides/KAVANAGH-NottinghamNov2018.pdf)
 
