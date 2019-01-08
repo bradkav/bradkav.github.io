@@ -23,7 +23,6 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 T. D. P. Edwards, **B. J. Kavanagh**, C. Weniger, S. Baum, A. K. Drukier, K. Freese, M. Górski, P. Stengel  
 [arXiv:1811.10549](https://arxiv.org/abs/1811.10549)    
 Code available [here](https://github.com/tedwards2412/paleopy/) and  [here](https://github.com/tedwards2412/paleo_detectors/) (archived on [Zenodo](https://zenodo.org/badge/latestdoi/142072044))  
-Featured in [Quanta Magazine](https://www.quantamagazine.org/why-the-best-place-to-find-dark-matter-may-be-in-a-rock-20190107/)
 
 24. *Faint Light from Dark Matter: Classifying and Constraining Dark Matter-Photon Effective Operators*  
 Submitted to JHEP, **B. J. Kavanagh**, P. Panci, R. Ziegler  
