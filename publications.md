@@ -21,16 +21,16 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 26. *Searching for low-mass dark matter particles with a massive Ge bolometer operated above-ground*  
 EDELWEISS Collaboration and **B. J. Kavanagh**  
-Submitted to Phys. Rev. D, [arXiv:1901.03588](https://arxiv.org/abs/1901.03588)  
+Accepted in Phys. Rev. D, [arXiv:1901.03588](https://arxiv.org/abs/1901.03588)  
 
 25. *Digging for Dark Matter: Spectral Analysis and Discovery Potential of Paleo-Detectors*  
 T. D. P. Edwards, **B. J. Kavanagh**, C. Weniger, S. Baum, A. K. Drukier, K. Freese, M. Górski, P. Stengel  
-Submitted to Phys. Rev. D, [arXiv:1811.10549](https://arxiv.org/abs/1811.10549)    
+[Phys. Rev. D 99, 043541 (2019)](https://doi.org/10.1103/PhysRevD.99.043541), [arXiv:1811.10549](https://arxiv.org/abs/1811.10549)    
 Code available [here](https://github.com/tedwards2412/paleopy/) and  [here](https://github.com/tedwards2412/paleo_detectors/) (archived on [Zenodo](https://zenodo.org/badge/latestdoi/142072044))  
 
 24. *Faint Light from Dark Matter: Classifying and Constraining Dark Matter-Photon Effective Operators*  
 **B. J. Kavanagh**, P. Panci, R. Ziegler  
-Submitted to JHEP, [arXiv:1810.00033](https://arxiv.org/abs/1810.00033)  
+[J. High Energ. Phys. (2019) 2019: 89](https://doi.org/10.1007/JHEP04(2019)089), [arXiv:1810.00033](https://arxiv.org/abs/1810.00033)  
 
 23. *Statistical challenges in the search for dark matter*  
 S. Algeri et al. (Editors: T. D. P. Edwards, **B. J. Kavanagh**, P. Scott, A. Vincent)  
