@@ -19,9 +19,14 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+27. *Primordial Black Holes as Silver Bullets for New Physics at the Weak Scale*  
+G. Bertone, A. Coogan, D. Gaggero, **B. J. Kavanagh**, C. Weniger  
+Submitted to Phys. Rev. Lett., [arXiv:1905.01238](https://arxiv.org/abs/1905.01238)  
+Code available [here](https://github.com/adam-coogan/pbhs_vs_wimps) (archived on [Zenodo](https://zenodo.org/badge/latestdoi/169754838))
+
 26. *Searching for low-mass dark matter particles with a massive Ge bolometer operated above-ground*  
 EDELWEISS Collaboration and **B. J. Kavanagh**  
-Accepted in Phys. Rev. D, [arXiv:1901.03588](https://arxiv.org/abs/1901.03588)  
+[Phys. Rev. D 99, 082003 (2019)](https://doi.org/10.1103/PhysRevD.99.082003), [arXiv:1901.03588](https://arxiv.org/abs/1901.03588)  
 
 25. *Digging for Dark Matter: Spectral Analysis and Discovery Potential of Paleo-Detectors*  
 T. D. P. Edwards, **B. J. Kavanagh**, C. Weniger, S. Baum, A. K. Drukier, K. Freese, M. Górski, P. Stengel  
