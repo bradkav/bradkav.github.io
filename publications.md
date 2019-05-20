@@ -20,7 +20,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 <br>
 
 29. *Discovery prospects of dwarf spheroidal galaxies for indirect dark matter searches*  
-S. Ando, **B. J. Kavanagh**, O. Macias, et al.
+S. Ando, **B. J. Kavanagh**, O. Macias, et al.  
 Submitted to JCAP, [arXiv:1905.07128](https://arxiv.org/abs/1905.07128)  
 Completed as part of the bachelors 'ITFA Workshop' (Jan 2019)
 
