@@ -21,13 +21,12 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 29. *Discovery prospects of dwarf spheroidal galaxies for indirect dark matter searches*  
 S. Ando, **B. J. Kavanagh**, O. Macias, et al.
-Submitted to JCAP, [arXiv:1905.07128](https://arxiv.org/abs/1905.07128)
+Submitted to JCAP, [arXiv:1905.07128](https://arxiv.org/abs/1905.07128)  
 Completed as part of the bachelors 'ITFA Workshop' (Jan 2019)
 
 28. *A Unique Multi-Messenger Signal of QCD Axion Dark Matter*  
 T. D. P. Edwards, M. Chianese, **B. J. Kavanagh**, S. M. Nissanke, C. Weniger  
-Submitted to Phys. Rev. Lett.,  
-[arXiv:1905.04686](https://arxiv.org/abs/1905.04686)
+Submitted to Phys. Rev. Lett., [arXiv:1905.04686](https://arxiv.org/abs/1905.04686)
 
 27. *Primordial Black Holes as Silver Bullets for New Physics at the Weak Scale*  
 G. Bertone, A. Coogan, D. Gaggero, **B. J. Kavanagh**, C. Weniger  
