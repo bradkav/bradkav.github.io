@@ -19,6 +19,16 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+29. *Discovery prospects of dwarf spheroidal galaxies for indirect dark matter searches*  
+S. Ando, **B. J. Kavanagh**, O. Macias, et al.
+Submitted to JCAP, [arXiv:1905.07128](https://arxiv.org/abs/1905.07128)
+Completed as part of the bachelors 'ITFA Workshop' (Jan 2019)
+
+28. *A Unique Multi-Messenger Signal of QCD Axion Dark Matter*  
+T. D. P. Edwards, M. Chianese, **B. J. Kavanagh**, S. M. Nissanke, C. Weniger  
+Submitted to Phys. Rev. Lett.,  
+[arXiv:1905.04686](https://arxiv.org/abs/1905.04686)
+
 27. *Primordial Black Holes as Silver Bullets for New Physics at the Weak Scale*  
 G. Bertone, A. Coogan, D. Gaggero, **B. J. Kavanagh**, C. Weniger  
 Submitted to Phys. Rev. Lett., [arXiv:1905.01238](https://arxiv.org/abs/1905.01238)  
@@ -69,6 +79,7 @@ Illustrative code available [here](https://github.com/bradkav/CEvNS) (archived o
 17. *Precision constraints on radiative neutrino decay with CMB spectral distortion*  
 J. L. Aalberts, S. Ando, W. M. Borg, E. Broeils, J. Broeils, S. Broeils, **B. J. Kavanagh**, G. Leguijt, M. Reemst, D. R. van Arneman, H. Vu  
 [Phys. Rev. D 98, 023001 (2018)](https://doi.org/10.1103/PhysRevD.98.023001), [arXiv:1803.00588](https://arxiv.org/abs/1803.00588)  
+Completed as part of the [bachelors 'ITFA Workshop' (Jan 2018)](https://iop.uva.nl/content/news/2018/07/bachelor-workshop-results-in-publication-on-neutrino-decay.html)
 
 16. *Earth-Scattering of super-heavy Dark Matter: updated constraints from detectors old and new*  
 **B. J. Kavanagh**  
