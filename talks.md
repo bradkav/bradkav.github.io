@@ -9,7 +9,7 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
-- [LHC Results Forum Webinar](https://particles.golem.ph.utexas.edu/forum/), 29 May 2019  
+- [LHC Results Forum Webinar](https://particles.golem.ph.utexas.edu/forum/), 3 June 2019  
 Webinar Title: [*Looking for tiny and tough WIMPs with EDELWEISS-surf*](/assets/slides/KAVANAGH-LHCForum2019.pdf)
 
 - [SLAP 2018](https://sites.google.com/view/slap2018/home), King's College London, 18 December 2018  
