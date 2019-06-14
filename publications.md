@@ -21,7 +21,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 30. *Paleo-Detectors for Galactic Supernova Neutrinos*  
 S. Baum, T. D. P. Edwards, **B. J. Kavanagh**, P. Stengel, A. K. Drukier, K. Freese, M. Gorski, C. Weniger  
-Submitted to MNRAS, [arXiv:1906.05800](https://arxiv.org/abs/1906.05800)
+Submitted to MNRAS, [arXiv:1906.05800](https://arxiv.org/abs/1906.05800)  
 Code available [here](https://github.com/tedwards2412/SN-paleology) (archived on [Zenodo](https://doi.org/10.5281/zenodo.3066206))
 
 29. *Discovery prospects of dwarf spheroidal galaxies for indirect dark matter searches*  
