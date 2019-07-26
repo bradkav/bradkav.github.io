@@ -19,6 +19,10 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+31. *Gravitational wave probes of dark matter: challenges and opportunities*  
+G. Bertone, D. Croon, M. A. Amin, K. K. Boddy, **B. J. Kavanagh**, K. J. Mack, P. Natarajan, T. Opferkuch, K. Schutz, V. Takhistov, C. Weniger, T.-T. Yu  
+arXiv pre-print, [arXiv:1907.10610](https://arxiv.org/abs/1907.10610)  
+
 30. *Paleo-Detectors for Galactic Supernova Neutrinos*  
 S. Baum, T. D. P. Edwards, **B. J. Kavanagh**, P. Stengel, A. K. Drukier, K. Freese, M. Gorski, C. Weniger  
 Submitted to MNRAS, [arXiv:1906.05800](https://arxiv.org/abs/1906.05800)  
