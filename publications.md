@@ -19,6 +19,10 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+32. *Impact of substructure on local dark matter searches*  
+A. Ibarra, **B. J. Kavanagh**, A. Rappelt  
+Submitted to JCAP, [arXiv:1908.00747](https://arxiv.org/abs/1908.00747)  
+
 31. *Gravitational wave probes of dark matter: challenges and opportunities*  
 G. Bertone, D. Croon, M. A. Amin, K. K. Boddy, **B. J. Kavanagh**, K. J. Mack, P. Natarajan, T. Opferkuch, K. Schutz, V. Takhistov, C. Weniger, T.-T. Yu  
 arXiv pre-print, [arXiv:1907.10610](https://arxiv.org/abs/1907.10610)  
