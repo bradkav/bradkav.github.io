@@ -9,7 +9,7 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
-- [PALS (SLAP?) 2019](), Sorbonne University, Paris, France  
+- [PALS (SLAP?) 2019](https://indico.cern.ch/event/806812/overview), Sorbonne University, Paris, France, 25-27 September 2019
 Talk Title: ["Detecting Dark Matter in the LISA era: Gravitational Waves from Intermediate Mass Ratio Inspirals"](/assets/slides/KAVANAGH-SLAP2019.pdf)
 
 - [LHC Results Forum Webinar](https://particles.golem.ph.utexas.edu/forum/), 3 June 2019  
