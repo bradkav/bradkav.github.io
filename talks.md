@@ -9,8 +9,11 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- IFCA Colloquium, Santander, Spain, 7 October 2019  
+Colloquium Title: [*Dark Matter, Black Holes, Gravitational Waves and Werewolves*](/assets/slides/KAVANAGH-Santander2019.pdf)
+
 - [PALS (SLAP?) 2019](https://indico.cern.ch/event/806812/overview), Sorbonne University, Paris, France, 25-27 September 2019  
-Talk Title: ["Detecting Dark Matter in the LISA era: Gravitational Waves from Intermediate Mass Ratio Inspirals"](/assets/slides/KAVANAGH-SLAP2019.pdf)
+Talk Title: [Detecting Dark Matter in the LISA era: Gravitational Waves from Intermediate Mass Ratio Inspirals](/assets/slides/KAVANAGH-SLAP2019.pdf)
 
 - [LHC Results Forum Webinar](https://particles.golem.ph.utexas.edu/forum/), 3 June 2019  
 Webinar Title: [*Looking for tiny and tough WIMPs with EDELWEISS-surf*](/assets/slides/KAVANAGH-LHCForum2019.pdf)
