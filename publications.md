@@ -19,9 +19,14 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-32. *Impact of substructure on local dark matter searches*  
+33. *Impact of substructure on local dark matter searches*  
 A. Ibarra, **B. J. Kavanagh**, A. Rappelt  
 Submitted to JCAP, [arXiv:1908.00747](https://arxiv.org/abs/1908.00747)  
+
+32. *AEDGE: Atomic Experiment for Dark Matter and Gravity Exploration in Space*  
+Y. A. El-Neaj et al.  
+Submitted to EPJ Quantum Technology, [arXiv:1908.00802](https://arxiv.org/abs/1908.00802)  
+Signed as a supporting author
 
 31. *Gravitational wave probes of dark matter: challenges and opportunities*  
 G. Bertone, D. Croon, M. A. Amin, K. K. Boddy, **B. J. Kavanagh**, K. J. Mack, P. Natarajan, T. Opferkuch, K. Schutz, V. Takhistov, C. Weniger, T.-T. Yu  
