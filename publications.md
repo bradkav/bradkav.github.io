@@ -39,8 +39,8 @@ Code available [here](https://github.com/tedwards2412/SN-paleology) (archived on
 
 29. *Discovery prospects of dwarf spheroidal galaxies for indirect dark matter searches*  
 S. Ando, **B. J. Kavanagh**, O. Macias, et al.  
-Submitted to JCAP, [arXiv:1905.07128](https://arxiv.org/abs/1905.07128)  
-Completed as part of the bachelors 'ITFA Workshop' (Jan 2019)
+[JCAP 10 (2019) 040](https://doi.org/10.1088/1475-7516/2019/10/040), [arXiv:1905.07128](https://arxiv.org/abs/1905.07128)  
+Completed as part of the [bachelors 'ITFA Workshop' (Jan 2019)](https://iop.uva.nl/content/news/2019/10/bachelor-students-publish-research-on-dwarf-galaxies.html)
 
 28. *A Unique Multi-Messenger Signal of QCD Axion Dark Matter*  
 T. D. P. Edwards, M. Chianese, **B. J. Kavanagh**, S. M. Nissanke, C. Weniger  
