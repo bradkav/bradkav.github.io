@@ -16,6 +16,10 @@ Note that some of the code available on github is still under development and ma
 ---   
 <br>
 
+**PBHbounds** {% include icon-github.html username="bradkav" %}/ [PBHbounds](https://github.com/bradkav/PBHbounds)
+
+*Collected constraints on primordial black holes (PBHs) and python code for plotting them.*
+
 **WIMpy** {% include icon-github.html username="bradkav" %}/ [WIMpy_NREFT](https://github.com/bradkav/WIMpy_NREFT)
 
 *Python code for calculating Dark Matter direct detection rates in the framework of non-relativistic effective field theory (NREFT). This general code has been used in a number of works, but was officially released in conjunction with [arXiv:1805.04117](https://arxiv.org/abs/1805.04117).*
