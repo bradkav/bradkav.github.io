@@ -11,8 +11,6 @@ All of my publicly available code can be found on github: {% include icon-github
 
 I try to make my code publicly available wherever possible, both to encourage transparency and to encourage others to make the most use of the work I've already done. You can find below a brief summary of the release-version codes which I (help to) maintain on github.
 
-Note that some of the code available on github is still under development and marked [\*\*Work in progress\*\*]. Although I guess when it comes down to it, it's all a work in progress.
-
 ---   
 <br>
 
