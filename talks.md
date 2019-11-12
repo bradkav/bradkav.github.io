@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- Invited Overview Talk, [Gravitational Wave probes of Fundamental Physics (GW4FP)](https://indico.cern.ch/event/843270/), Amsterdam, 12 November 2019  
+Talk title: [*Hearing the sirens of the early Universe: Primordial Black Holes & Gravitational Waves*](/assets/slides/KAVANAGH-PBHs-GW4FP2019.pdf) 
+
 - IFCA Colloquium, Santander, Spain, 7 October 2019  
 Colloquium Title: [*Dark Matter, Black Holes, Gravitational Waves and Werewolves*](/assets/slides/KAVANAGH-Santander2019.pdf)
 
