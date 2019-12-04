@@ -21,7 +21,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 33. *Impact of substructure on local dark matter searches*  
 A. Ibarra, **B. J. Kavanagh**, A. Rappelt  
-Submitted to JCAP, [arXiv:1908.00747](https://arxiv.org/abs/1908.00747)  
+[JCAP 12 (2019) 013](https://doi.org/10.1088/1475-7516/2019/12/013), [arXiv:1908.00747](https://arxiv.org/abs/1908.00747)  
 
 32. *AEDGE: Atomic Experiment for Dark Matter and Gravity Exploration in Space*  
 Y. A. El-Neaj et al.  
