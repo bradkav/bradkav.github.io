@@ -48,7 +48,7 @@ Submitted to Phys. Rev. Lett., [arXiv:1905.04686](https://arxiv.org/abs/1905.046
 
 27. *Primordial Black Holes as Silver Bullets for New Physics at the Weak Scale*  
 G. Bertone, A. Coogan, D. Gaggero, **B. J. Kavanagh**, C. Weniger  
-Submitted to Phys. Rev. Lett., [arXiv:1905.01238](https://arxiv.org/abs/1905.01238)  
+[Phys. Rev. D 100, 123013 (2019)](https://doi.org/10.1103/PhysRevD.100.123013), [arXiv:1905.01238](https://arxiv.org/abs/1905.01238)  
 Code available [here](https://github.com/adam-coogan/pbhs_vs_wimps) (archived on [Zenodo](https://zenodo.org/badge/latestdoi/169754838))
 
 26. *Searching for low-mass dark matter particles with a massive Ge bolometer operated above-ground*  
