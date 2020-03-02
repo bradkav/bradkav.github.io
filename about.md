@@ -14,7 +14,9 @@ I am a researcher studying Dark Matter, worrying about how it can be detected an
 
 ### Academic history
 
-Since September 2017, I have been working as a post-doc at [GRAPPA](https://iop.fnwi.uva.nl/grappa/) (an institute of the University of Amsterdam) with [Dr. Gianfranco Bertone](http://gianfrancobertone.net).
+Since March 2020, I have been a post-doc at the [Instituto de Física de Cantabria (IFCA)](https://ifca.unican.es/en-us#), in Santander in Northern Spain. My position is associated with the [María de Maeztu Centre of Excellence](https://ifca.unican.es/en-us/mdm/Description) grant, and my goal is to encourage collaboration between the observational cosmology and high-energy physics groups, on the topic of Dark Matter.
+
+From September 2017 to February 2020, I was a post-doc at [GRAPPA](https://iop.fnwi.uva.nl/grappa/) (an institute of the University of Amsterdam) with [Dr. Gianfranco Bertone](http://gianfrancobertone.net).
 
 Before that, from October 2014 onwards, I held a NewDARK post-doctoral fellowship with [Dr. Marco Cirelli](http://www.marcocirelli.net), working first at the [IPhT](http://ipht.cea.fr) in Saclay, France and then moving with the NewDARK group to the [LPTHE](http://www.lpthe.jussieu.fr) in central Paris.
 
