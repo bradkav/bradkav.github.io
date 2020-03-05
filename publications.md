@@ -30,7 +30,7 @@ A. Ibarra, **B. J. Kavanagh**, A. Rappelt
 
 32. *AEDGE: Atomic Experiment for Dark Matter and Gravity Exploration in Space*  
 Y. A. El-Neaj et al.  
-Submitted to EPJ Quantum Technology, [arXiv:1908.00802](https://arxiv.org/abs/1908.00802)  
+[EPJ Quantum Technology 7, 6 (2020)](https://doi.org/10.1140/epjqt/s40507-020-0080-0), [arXiv:1908.00802](https://arxiv.org/abs/1908.00802)  
 Signed as a supporting author
 
 31. *Gravitational wave probes of dark matter: challenges and opportunities*  
