@@ -22,7 +22,8 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 34. *Detecting dark matter around black holes with gravitational waves: Effects of dark-matter dynamics on the gravitational waveform*  
 **B. J. Kavanagh**, D. A. Nichols, G. Bertone, D. Gaggero  
 arXiv pre-print, [arXiv:2002.12811](https://arxiv.org/abs/2002.12811)  
-Code available [here](https://github.com/bradkav/HaloFeedback) (archived on [Zenodo](https://doi.org/10.5281/zenodo.3688812)), movies available [here](https://doi.org/10.6084/m9.figshare.11663676)
+Code available [here](https://github.com/bradkav/HaloFeedback) (archived on [Zenodo](https://doi.org/10.5281/zenodo.3688812)), movies available [here](https://doi.org/10.6084/m9.figshare.11663676)  
+Featured in [His Dark CMBlog](https://www.sunnyvagnozzi.com/blog/top-arxiv-week-10-2020)
 
 33. *Impact of substructure on local dark matter searches*  
 A. Ibarra, **B. J. Kavanagh**, A. Rappelt  
