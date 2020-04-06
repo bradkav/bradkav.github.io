@@ -19,6 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+35. *Measuring the local Dark Matter density in the laboratory*  
+**B. J. Kavanagh**, T. Emken, R. Catena  
+Submitted to Phys. Rev. Lett., [arXiv:2004.01621](https://arxiv.org/abs/2004.01621)  
+Code available [here](https://github.com/bradkav/EarthScatterLikelihood) (archived on [Zenodo](https://doi.org/10.5281/zenodo.3725882)) and [here](https://github.com/temken/DaMaSCUS/tree/v1.1)
+
 34. *Detecting dark matter around black holes with gravitational waves: Effects of dark-matter dynamics on the gravitational waveform*  
 **B. J. Kavanagh**, D. A. Nichols, G. Bertone, D. Gaggero  
 arXiv pre-print, [arXiv:2002.12811](https://arxiv.org/abs/2002.12811)  

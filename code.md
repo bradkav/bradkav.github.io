@@ -14,6 +14,14 @@ I try to make my code publicly available wherever possible, both to encourage tr
 ---   
 <br>
 
+**EarthScatterLikelihood** {% include icon-github.html username="bradkav" %}/ [EarthScatterLikelihood](https://github.com/bradkav/EarthScatterLikelihood)
+
+*Code for calculating event rates and likelihoods for Dark Matter direct detection experiments in the presence of Earth-Scattering. Released in conjunction with [arXiv:2004.01621](https://arxiv.org/abs/2004.01621).*
+
+**HaloFeedback** {% include icon-github.html username="bradkav" %}/ [HaloFeedback](https://github.com/bradkav/HaloFeedback)
+
+*Code for evolving a Dark Matter minispike under the influence of a perturbing body, injecting energy through dynamical friction. Released in conjunction with [arXiv:2002.12811](https://arxiv.org/abs/2002.12811).*
+
 **PBHbounds** {% include icon-github.html username="bradkav" %}/ [PBHbounds](https://github.com/bradkav/PBHbounds)
 
 *Collected constraints on primordial black holes (PBHs) and python code for plotting them.*
