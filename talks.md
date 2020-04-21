@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- [HIDDeN Webinar](https://projects.ift.uam-csic.es/VirtualInstitute/index.php/elusives-webinar/100-elusives/webinar/2020/92-upcoming-webinar-april-21-bradley-kavanagh-u-amsterdam-grappa), HIDDeN Network (formerly Elusives)  
+Seminar Title: [*Detecting (Axion?) Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-HiddenNetwork2020.pdf)
+
 - [DESY Theory Seminar](https://indico.desy.de/indico/event/24042/), Hamburg, 27 January 2020  
 Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-SeminarDESY2020.pdf)
 

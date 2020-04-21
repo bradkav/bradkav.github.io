@@ -55,7 +55,8 @@ Completed as part of the [bachelors 'ITFA Workshop' (Jan 2019)](https://iop.uva.
 
 28. *A Unique Multi-Messenger Signal of QCD Axion Dark Matter*  
 T. D. P. Edwards, M. Chianese, **B. J. Kavanagh**, S. M. Nissanke, C. Weniger  
-Submitted to Phys. Rev. Lett., [arXiv:1905.04686](https://arxiv.org/abs/1905.04686)
+[Phys. Rev. Lett. 124, 161101 (2020)](https://doi.org/10.1103/PhysRevLett.124.161101), [arXiv:1905.04686](https://arxiv.org/abs/1905.04686)  
+Featured in [University of Amsterdam News](https://iop.uva.nl/content/news/2020/04/black-holes-may-shed-light-on-dark-matter.html)
 
 27. *Primordial Black Holes as Silver Bullets for New Physics at the Weak Scale*  
 G. Bertone, A. Coogan, D. Gaggero, **B. J. Kavanagh**, C. Weniger  
