@@ -45,7 +45,7 @@ arXiv pre-print, [arXiv:1907.10610](https://arxiv.org/abs/1907.10610)
 
 30. *Paleo-Detectors for Galactic Supernova Neutrinos*  
 S. Baum, T. D. P. Edwards, **B. J. Kavanagh**, P. Stengel, A. K. Drukier, K. Freese, M. Gorski, C. Weniger  
-Submitted to MNRAS, [arXiv:1906.05800](https://arxiv.org/abs/1906.05800)  
+[Phys. Rev. D 101, 103017 (2020)](https://doi.org/10.1103/PhysRevD.101.103017), [arXiv:1906.05800](https://arxiv.org/abs/1906.05800)  
 Code available [here](https://github.com/tedwards2412/SN-paleology) (archived on [Zenodo](https://doi.org/10.5281/zenodo.3066206))
 
 29. *Discovery prospects of dwarf spheroidal galaxies for indirect dark matter searches*  
