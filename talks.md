@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+- Theoretical Physics Seminar, UPV/EHU, Bilbao (Online), 27th May 2020   
+Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-UPV_EHU-May2020.pdf)
+
 - Theoretical Particle Physics & Cosmology Seminar, King's College London (Online), 6 May 2020  
 Seminar Title: [*Detecting (Axion?) Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-KCL-May2020.pdf)
 
