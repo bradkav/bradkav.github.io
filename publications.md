@@ -19,6 +19,15 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+37. *Integral X-ray constraints on sub-GeV Dark Matter*  
+M. Cirelli, N. Fornengo, **B. J. Kavanagh**, E. Pinetti  
+Submitted to PRD, [arXiv:2007.11493](https://arxiv.org/abs/2007.11493)
+
+36. *Primordial Black Holes as a dark matter candidate*  
+A. M. Green, **B. J. Kavanagh**  
+PBH Review article, [arXiv:2007.10722](https://arxiv.org/abs/2007.10722)  
+Code and constraints available [here](https://github.com/bradkav/PBHbounds)
+
 35. *Measuring the local Dark Matter density in the laboratory*  
 **B. J. Kavanagh**, T. Emken, R. Catena  
 Submitted to Phys. Rev. Lett., [arXiv:2004.01621](https://arxiv.org/abs/2004.01621)  
