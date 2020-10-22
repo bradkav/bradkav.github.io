@@ -30,7 +30,8 @@ twitter:
   username: bradleykavanagh
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+markdown: CommonMarkGhPages
 theme: minima
 
 gems:

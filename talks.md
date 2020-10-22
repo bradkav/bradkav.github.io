@@ -9,6 +9,9 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+<details>
+    <summary>2020</summary>
+
 - Joint U. Sydney-UNSW Seminar (Online), 22 October 2020  
 Seminar Title: [*Primordial Black Holes, Gravitational Waves and Werewolves*](/assets/slides/KAVANAGH-Sydney-UNSW-Seminar-Oct2020.pdf) [[Video]](https://youtu.be/xVQAZxtn-7o)
 
@@ -26,6 +29,8 @@ Seminar Title: [*Detecting (Axion?) Dark Matter around Black Holes with Gravitat
 
 - [DESY Theory Seminar](https://indico.desy.de/indico/event/24042/), Hamburg, 27 January 2020  
 Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-SeminarDESY2020.pdf)
+
+</details>
 
 - Invited Overview Talk, [Gravitational Wave probes of Fundamental Physics (GW4FP)](https://indico.cern.ch/event/843270/), Amsterdam, 12 November 2019  
 Talk title: [*Hearing the sirens of the early Universe: Primordial Black Holes & Gravitational Waves*](/assets/slides/KAVANAGH-PBHs-GW4FP2019.pdf) 

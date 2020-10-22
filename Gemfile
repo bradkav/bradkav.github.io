@@ -23,3 +23,6 @@ gem 'jekyll-seo-tag'
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+group :jekyll_plugins do
+  gem 'jekyll-commonmark-ghpages'
+end
