@@ -10,7 +10,7 @@ weight: 4
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
 <details>
-    <summary><p style="font-size:large">2020</p></summary>
+    <summary style="font-size:x-large">2020</summary>
 
 - Joint U. Sydney-UNSW Seminar (Online), 22 October 2020  
 Seminar Title: [*Primordial Black Holes, Gravitational Waves and Werewolves*](/assets/slides/KAVANAGH-Sydney-UNSW-Seminar-Oct2020.pdf) [[Video]](https://youtu.be/xVQAZxtn-7o)
@@ -35,7 +35,7 @@ Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Wav
 </details>
 
 <details>
-    <summary style="font-size:large">2019</summary>
+    <summary style="font-size:x-large">2019</summary>
 
 
 
@@ -56,7 +56,7 @@ Webinar Title: [*Looking for tiny and tough WIMPs with EDELWEISS-surf*](/assets/
 </details>
 
 <details>
-    <summary><p style="font-size:large">2018</p></summary>
+    <summary style="font-size:x-large">2018</summary>
 
 
 
@@ -92,7 +92,7 @@ Talk Title: [*Can we determine the particle/antiparticle nature of Dark Matter?*
 </details>
 
 <details>
-    <summary><p style="font-size:large">2017</p></summary>
+    <summary style="font-size:x-large">2017</summary>
 
 
 
@@ -119,7 +119,7 @@ Seminar Title: [*Signatures of Earth-Scattering in the Direct Detection of Dark 
 </details>
 
 <details>
-    <summary><p style="font-size:large">2016</p></summary>
+    <summary style="font-size:x-large">2016</summary>
 
 
 
@@ -161,7 +161,7 @@ Talk title: [*Taming astrophysics and particle physics in the direct detection o
 </details>
 
 <details>
-    <summary><p style="font-size:large">2015</p></summary>
+    <summary style="font-size:x-large">2015</summary>
 
 
 
@@ -195,7 +195,7 @@ Talk title: [*Astrophysical uncertainties in direct detection experiments*](/ass
 </details>
 
 <details>
-    <summary><p style="font-size:large">2014</p></summary>
+    <summary style="font-size:x-large">2014</summary>
 
 
 
@@ -207,7 +207,7 @@ Talk title: [*Measuring the dark matter mass - in spite of astrophysical uncerta
 </details>
 
 <details>
-    <summary><p style="font-size:large">2013</p></summary>
+    <summary style="font-size:x-large">2013</summary>
 
 
 
@@ -228,7 +228,7 @@ Poster title: [*Astronomy for WIMPs: the direct detection of dark matter*](/asse
 </details>
 
 <details>
-    <summary><p style="font-size:large">2012</p></summary>
+    <summary style="font-size:x-large">2012</summary>
 
 
 
