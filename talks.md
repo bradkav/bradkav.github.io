@@ -10,7 +10,7 @@ weight: 4
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
 <details>
-    <summary><p style="font-size:large"><p style="font-size:large">2020</p></p></summary>
+    <summary><p style="font-size:large">2020</p></summary>
 
 - Joint U. Sydney-UNSW Seminar (Online), 22 October 2020  
 Seminar Title: [*Primordial Black Holes, Gravitational Waves and Werewolves*](/assets/slides/KAVANAGH-Sydney-UNSW-Seminar-Oct2020.pdf) [[Video]](https://youtu.be/xVQAZxtn-7o)
@@ -35,7 +35,7 @@ Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Wav
 </details>
 
 <details>
-    <summary><p style="font-size:large">2019</p></summary>
+    <summary style="font-size:large">2019</summary>
 
 
 
