@@ -191,4 +191,4 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 1. *Improved determination of the WIMP mass from direct detection data*  
 **B. J. Kavanagh** and A. M. Green  
 [Phys. Rev. D 86, 065027 (2012)](http://dx.doi.org/10.1103/PhysRevD.86.065027), [arXiv:1207.2039](http://arxiv.org/abs/1207.2039)
-{: reversed="reversed"}
+
