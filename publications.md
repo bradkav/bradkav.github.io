@@ -19,7 +19,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-37. *Integral X-ray constraints on sub-GeV Dark Matter*  
+1. *Integral X-ray constraints on sub-GeV Dark Matter*  
 M. Cirelli, N. Fornengo, **B. J. Kavanagh**, E. Pinetti  
 Submitted to PRD, [arXiv:2007.11493](https://arxiv.org/abs/2007.11493)
 
