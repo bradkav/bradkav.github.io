@@ -19,13 +19,23 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Integral X-ray constraints on sub-GeV Dark Matter*  
+1. *Transient Radio Signatures from Neutron Star Encounters with QCD Axion Miniclusters*  
+T. D. P. Edwards, **B. J. Kavanagh**, L. Visinelli, C. Weniger  
+Submitted to PRL, [arXiv:2011.05378](https://arxiv.org/abs/2011.05378)  
+Code available [here](https://github.com/bradkav/axion-miniclusters/) (archived on [Zenodo](https://doi.org/10.5281/zenodo.4006128))
+
+38. *Stellar Disruption of Axion Miniclusters in the Milky Way*  
+**B. J. Kavanagh**, T. D. P. Edwards, L. Visinelli, C. Weniger  
+Submitted to PRD, [arXiv:2011.05377](https://arxiv.org/abs/2011.05377)  
+Code available [here](https://github.com/bradkav/axion-miniclusters/) (archived on [Zenodo](https://doi.org/10.5281/zenodo.4006128))
+
+37. *Integral X-ray constraints on sub-GeV Dark Matter*  
 M. Cirelli, N. Fornengo, **B. J. Kavanagh**, E. Pinetti  
 Submitted to PRD, [arXiv:2007.11493](https://arxiv.org/abs/2007.11493)
 
 36. *Primordial Black Holes as a dark matter candidate*  
 A. M. Green, **B. J. Kavanagh**  
-PBH Review article, [arXiv:2007.10722](https://arxiv.org/abs/2007.10722)  
+[J. Phys. G: Nucl. Part. Phys., in press](https://doi.org/10.1088/1361-6471/abc534), [arXiv:2007.10722](https://arxiv.org/abs/2007.10722)  
 Code and constraints available [here](https://github.com/bradkav/PBHbounds)
 
 35. *Measuring the local Dark Matter density in the laboratory*  
@@ -35,7 +45,7 @@ Code available [here](https://github.com/bradkav/EarthScatterLikelihood) (archiv
 
 34. *Detecting dark matter around black holes with gravitational waves: Effects of dark-matter dynamics on the gravitational waveform*  
 **B. J. Kavanagh**, D. A. Nichols, G. Bertone, D. Gaggero  
-arXiv pre-print, [arXiv:2002.12811](https://arxiv.org/abs/2002.12811)  
+[Phys. Rev. D 102, 083006 (2020)](https://doi.org/10.1103/PhysRevD.102.083006), [arXiv:2002.12811](https://arxiv.org/abs/2002.12811)  
 Code available [here](https://github.com/bradkav/HaloFeedback) (archived on [Zenodo](https://doi.org/10.5281/zenodo.3688812)), movies available [here](https://doi.org/10.6084/m9.figshare.11663676)  
 Featured in [His Dark CMBlog](https://www.sunnyvagnozzi.com/blog/top-arxiv-week-10-2020)
 
@@ -50,7 +60,7 @@ Signed as a supporting author
 
 31. *Gravitational wave probes of dark matter: challenges and opportunities*  
 G. Bertone, D. Croon, M. A. Amin, K. K. Boddy, **B. J. Kavanagh**, K. J. Mack, P. Natarajan, T. Opferkuch, K. Schutz, V. Takhistov, C. Weniger, T.-T. Yu  
-arXiv pre-print, [arXiv:1907.10610](https://arxiv.org/abs/1907.10610)  
+[SciPost Phys. Core 3, 007 (2020)](https://doi.org/10.21468/SciPostPhysCore.3.2.007), [arXiv:1907.10610](https://arxiv.org/abs/1907.10610)  
 
 30. *Paleo-Detectors for Galactic Supernova Neutrinos*  
 S. Baum, T. D. P. Edwards, **B. J. Kavanagh**, P. Stengel, A. K. Drukier, K. Freese, M. Gorski, C. Weniger  

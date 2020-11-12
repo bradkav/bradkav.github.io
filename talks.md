@@ -14,7 +14,7 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 <details>
     <summary style="font-size:large">2020</summary>
 
-- Invited Overview, [IRN@Zoom](https://indico.in2p3.fr/event/22572/), IRN Terascale Meeting (Online)  
+- Invited Overview, [IRN@Zoom](https://indico.in2p3.fr/event/22572/), IRN Terascale Meeting (Online), 5 November 2020  
 Talk Title: [*Constantly changing constraints on Primordial Black Hole Dark Matter*](/assets/slides/KAVANAGH-IRN_Nov2020.pdf)
 
 - Joint U. Sydney-UNSW Seminar (Online), 22 October 2020  
