@@ -14,6 +14,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 <details>
     <summary style="font-size:large">2020</summary>
 
+- [3rd South American Dark Matter (SADM3) Workshop](https://www.ictp-saifr.org/dmw2020/), ICTP-SAIFR (Online), 2 - 4 December 2020  
+Talk Title: [*Detecting Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-SADM3-Dec2020.pdf)
+
 - Invited Overview, [IRN@Zoom](https://indico.in2p3.fr/event/22572/), IRN Terascale Meeting (Online), 5 November 2020  
 Talk Title: [*Constantly changing constraints on Primordial Black Hole Dark Matter*](/assets/slides/KAVANAGH-IRN_Nov2020.pdf)
 
