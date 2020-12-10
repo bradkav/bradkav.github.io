@@ -14,6 +14,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 <details>
     <summary style="font-size:large">2020</summary>
 
+- CAPA Seminar, Universidad Zaragoza (Online), 10 December 2020  
+Talk Title: [*Axion Miniclusters hitting (neutron) stars*](/assets/slides/AxionSeminar-Dec2020.pdf)
+
 - [3rd South American Dark Matter (SADM3) Workshop](https://www.ictp-saifr.org/dmw2020/), ICTP-SAIFR (Online), 2 - 4 December 2020  
 Talk Title: [*Detecting Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-SADM3-Dec2020.pdf)
 
