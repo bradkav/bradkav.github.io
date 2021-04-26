@@ -10,6 +10,7 @@ weight: 2
 
 I am a researcher studying Dark Matter, worrying about how it can be detected and what we can learn about it. **My full CV is available [here](/assets/BradleyKAVANAGH-CV.pdf)**, but below you will find a brief summary of my academic history and my research interests (aimed at experts).
  
+ ---------
 
 ### Academic history
 
@@ -24,7 +25,7 @@ I completed my PhD in September 2014 at the University of Nottingham, supervised
 I studied as an undergraduate at Homerton College, University of Cambridge, where I earned a BA in Natural Sciences and an MSci in Theoretical Physics. For my Master's project, I ran Helium Atom Scattering simulations on graphics cards (and nearly messed up a few of the cards in the process).
 
 
-
+-----------
 ### Research interests
 
 I work on Dark Matter (DM) phenomenology, aiming to understand how we can search for DM, what it might look like in experimental data and what we might learn from its discovery. 
