@@ -31,11 +31,11 @@ Code available [here](https://github.com/bradkav/axion-miniclusters/) (archived 
 
 37. *Integral X-ray constraints on sub-GeV Dark Matter*  
 M. Cirelli, N. Fornengo, **B. J. Kavanagh**, E. Pinetti  
-Submitted to PRD, [arXiv:2007.11493](https://arxiv.org/abs/2007.11493)
+[Phys. Rev. D 103, 063022 (2021)](https://doi.org/10.1103/PhysRevD.103.063022), [arXiv:2007.11493](https://arxiv.org/abs/2007.11493)
 
 36. *Primordial Black Holes as a dark matter candidate*  
 A. M. Green, **B. J. Kavanagh**  
-[J. Phys. G: Nucl. Part. Phys., in press](https://doi.org/10.1088/1361-6471/abc534), [arXiv:2007.10722](https://arxiv.org/abs/2007.10722)  
+[J. Phys. G 48 (2021) 4, 043001](https://doi.org/10.1088/1361-6471/abc534), [arXiv:2007.10722](https://arxiv.org/abs/2007.10722)  
 Code and constraints available [here](https://github.com/bradkav/PBHbounds)
 
 35. *Measuring the local Dark Matter density in the laboratory*  

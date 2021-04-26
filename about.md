@@ -8,9 +8,8 @@ weight: 2
 
 ## About Me
 
-I am a researcher studying Dark Matter, worrying about how it can be detected and what we can learn about it. My full CV is available [here](/assets/BradleyKAVANAGH-CV.pdf), but below you will find a brief summary of my academic history and my research interests (aimed at experts).
+I am a researcher studying Dark Matter, worrying about how it can be detected and what we can learn about it. **My full CV is available [here](/assets/BradleyKAVANAGH-CV.pdf)**, but below you will find a brief summary of my academic history and my research interests (aimed at experts).
  
-
 
 ### Academic history
 
@@ -28,8 +27,8 @@ I studied as an undergraduate at Homerton College, University of Cambridge, wher
 
 ### Research interests
 
-I work on Dark Matter (DM) phenomenology, specialising in so-called 'Direct Detection' experiments, which search for the low energy interactions of Galactic DM with nuclei. I work on understanding what information we can glean from these experiments if we see a DM signal. During my PhD, I showed that we should be able to reconstruct the DM particle mass and interaction cross section without having to worry about the unknown velocity distribution of Galactic DM. As a bonus, we can actually measure the velocity distribution itself and learn something about the DM halo in the process.
+I work on Dark Matter (DM) phenomenology, aiming to understand how we can search for DM, what it might look like in experimental data and what we might learn from its discovery. 
 
-I am currently interested in looking for new signatures of DM in Direct Detection experiments, as well as in indirect and collider searches. Different models of DM lead to different types of DM-nucleon interactions and I am trying to understand how these different interactions manifest in experiments and how they might be distinguished from one another. This information should prove vital for informing future decisions about what type of detectors will give us the greatest handle on the properties of DM and the greatest chance of unveiling its identity.
+During my early career in specialised in in so-called 'Direct Detection' experiments, which search for the low energy interactions of Galactic DM with nuclei. During my PhD, I showed that [we should be able to reconstruct the DM particle mass and interaction cross section](https://arxiv.org/abs/1303.6868) without having to worry about the unknown velocity distribution of Galactic DM. As a bonus, [we can actually measure the velocity distribution itself](https://arxiv.org/abs/1312.1852) and learn something about the DM halo in the process. I have also studied [signatures of strongly-interacting DM](https://arxiv.org/abs/1712.04901), and alongside the EDELWEISS collaboration I produced [world-leading constraints on light, strongly-interacting DM](https://arxiv.org/abs/1901.03588). 
 
-A description of the projects I'm current working on will be available soon.
+More recently, I have turned my focus also to [signatures of DM in Gravitational Wave observations](https://arxiv.org/abs/1907.10610). This includes constraints on [Primordial Black Holes (PBHs)](https://arxiv.org/abs/2007.10722), which may produced in the early Universe and may contribute to the DM we observe today. I am also studying the [subtle effects of particle DM around black hole binaries](https://arxiv.org/abs/2002.12811), which might influence the gravitational wave signals they produce. These systems require careful, detailed modelling, but hold great promise for detecting a wide range of particle DM candidates.
