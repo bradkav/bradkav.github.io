@@ -9,7 +9,15 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+<details>
+    <summary style="font-size:large">2021</summary>
 
+- Invited Overview, [First EuCAPT Annual Symposium](https://indico.cern.ch/event/853904/overview) (Online), 06 May 2021  
+Talk Title: [*Indirect Probes of Dark Matter*](/assets/slides/KAVANAGH-EuCAPT_v3.pdf)
+
+----------------------------
+
+</details>
 
 <details>
     <summary style="font-size:large">2020</summary>
