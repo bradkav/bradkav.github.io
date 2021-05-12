@@ -33,3 +33,9 @@ I work on Dark Matter (DM) phenomenology, aiming to understand how we can search
 During my early career in specialised in in so-called 'Direct Detection' experiments, which search for the low energy interactions of Galactic DM with nuclei. During my PhD, I showed that [we should be able to reconstruct the DM particle mass and interaction cross section](https://arxiv.org/abs/1303.6868) without having to worry about the unknown velocity distribution of Galactic DM. As a bonus, [we can actually measure the velocity distribution itself](https://arxiv.org/abs/1312.1852) and learn something about the DM halo in the process. I have also studied [signatures of strongly-interacting DM](https://arxiv.org/abs/1712.04901), and alongside the EDELWEISS collaboration I produced [world-leading constraints on light, strongly-interacting DM](https://arxiv.org/abs/1901.03588). 
 
 More recently, I have turned my focus also to [signatures of DM in Gravitational Wave observations](https://arxiv.org/abs/1907.10610). This includes constraints on [Primordial Black Holes (PBHs)](https://arxiv.org/abs/2007.10722), which may produced in the early Universe and may contribute to the DM we observe today. I am also studying the [subtle effects of particle DM around black hole binaries](https://arxiv.org/abs/2002.12811), which might influence the gravitational wave signals they produce. These systems require careful, detailed modelling, but hold great promise for detecting a wide range of particle DM candidates.
+
+I am currently a member of a number of experimental working groups, including:
+* Square Kilometer Array (SKA) `Gravitational Waves' working group  
+* Laser Interferometer Space Antenna (LISA) Consortium (associate member)  
+* Lunar Gravitational Wave Antenna (LGWA) working group  
+* Athena X-ray observatory `Physics Beyond the Standard Model' working group
