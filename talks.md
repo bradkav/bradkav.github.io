@@ -12,6 +12,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 <details>
     <summary style="font-size:large">2021</summary>
 
+- Invited Community Talk, [iDMEu Kick-off Meeting](https://indico.cern.ch/event/1016060/) (Online), 10 May 2021  
+Talk Title: [*Dark matter, gravitational waves and primordial black holes*](/assets/slides/iDMEu2021_v2.pdf) (delivered jointly with [Djuna Croon](http://djunacroon.com))
+
 - Invited Overview, [First EuCAPT Annual Symposium](https://indico.cern.ch/event/853904/overview) (Online), 06 May 2021  
 Talk Title: [*Indirect Probes of Dark Matter*](/assets/slides/KAVANAGH-EuCAPT_v3.pdf)
 
