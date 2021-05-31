@@ -12,6 +12,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 <details>
     <summary style="font-size:large">2021</summary>
 
+- Frontier Research in Astrophysics and Particle Physics Masters Seminar, IFCA, Santander, Spain, 31 May 2021  
+Seminar Title: [*Can the Dark Matter in the Universe be Black Holes?*](/assets/slides/IFCA-FrontierMastersSeminar-May2021.pdf)
+
 - Invited Community Talk, [iDMEu Kick-off Meeting](https://indico.cern.ch/event/1016060/) (Online), 10 May 2021  
 Talk Title: [*Dark matter, gravitational waves and primordial black holes*](/assets/slides/iDMEu2021_v2.pdf) (delivered jointly with [Djuna Croon](http://djunacroon.com))
 
