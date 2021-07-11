@@ -12,7 +12,10 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 <details>
     <summary style="font-size:large">2021</summary>
 
-- Frontier Research in Astrophysics and Particle Physics Masters Seminar, IFCA, Santander, Spain, 31 May 2021  
+- Astroparticle Physics Lectures, CERN Summer School (Online), 13-14 July 2021  
+Links: [*Lecture 1*](/assets/slides/Astroparticle_CERN_summer_school_2021_Lecture1.pdf)
+
+- Frontier Research in Astrophysics and Particle Physics Masters Seminar, IFCA, Santander, Spain (Online), 31 May 2021  
 Seminar Title: [*Can the Dark Matter in the Universe be Black Holes?*](/assets/slides/IFCA-FrontierMastersSeminar-May2021.pdf)
 
 - Invited Community Talk, [iDMEu Kick-off Meeting](https://indico.cern.ch/event/1016060/) (Online), 10 May 2021  
