@@ -24,8 +24,8 @@ A. Coogan, G. Bertone, D. Gaggero, **B. J. Kavanagh**, D. A. Nichols
 arXiv pre-print, [arXiv:2108.04154](https://arxiv.org/abs/2108.04154)  
 Code available [here](https://github.com/adam-coogan/pydd)
 
-40. *The Effect of Mission Duration on LISA Science Objectives*  
-P. Amaro Seoane et al.  
+2. *The Effect of Mission Duration on LISA Science Objectives*  
+P. Amaro-Seoane et al.  
 arXiv pre-print, [arXiv:2107.09665](https://arxiv.org/abs/2107.09665)  
 
 
