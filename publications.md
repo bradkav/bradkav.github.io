@@ -19,7 +19,17 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Transient Radio Signatures from Neutron Star Encounters with QCD Axion Miniclusters*  
+41. *Measuring the dark matter environments of black hole binaries with gravitational waves*  
+A. Coogan, G. Bertone, D. Gaggero, **B. J. Kavanagh**, D. A. Nichols  
+arXiv pre-print, [arXiv:2108.04154](https://arxiv.org/abs/2108.04154)  
+Code available [here](https://github.com/adam-coogan/pydd)
+
+40. *The Effect of Mission Duration on LISA Science Objectives*  
+Amaro Seoane et al.  
+arXiv pre-print, [arXiv:2107.09665](https://arxiv.org/abs/2107.09665)  
+
+
+39. *Transient Radio Signatures from Neutron Star Encounters with QCD Axion Miniclusters*  
 T. D. P. Edwards, **B. J. Kavanagh**, L. Visinelli, C. Weniger  
 Submitted to PRL, [arXiv:2011.05378](https://arxiv.org/abs/2011.05378)  
 Code available [here](https://github.com/bradkav/axion-miniclusters/) (archived on [Zenodo](https://doi.org/10.5281/zenodo.4006128))
