@@ -22,7 +22,8 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 1. *Measuring the dark matter environments of black hole binaries with gravitational waves*  
 A. Coogan, G. Bertone, D. Gaggero, **B. J. Kavanagh**, D. A. Nichols  
 arXiv pre-print, [arXiv:2108.04154](https://arxiv.org/abs/2108.04154)  
-Code available [here](https://github.com/adam-coogan/pydd)
+Code available [here](https://github.com/adam-coogan/pydd)  
+Featured on [NewScientist.nl](https://www.newscientist.nl/nieuws/zwaartekrachtsgolven-kunnen-zwarte-gaten-met-donkere-jurken-onthullen/)
 
 2. *The Effect of Mission Duration on LISA Science Objectives*  
 P. Amaro-Seoane et al.  
