@@ -19,7 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Measuring the dark matter environments of black hole binaries with gravitational waves*  
+1. *Scattering searches for dark matter in subhalos: neutron stars, cosmic rays, and old rocks*  
+J. Bramante, **B. J. Kavanagh**, N. Raj  
+Submitted to PRL, [arXiv:2109.04582](https://arxiv.org/abs/2109.04582)  
+
+2. *Measuring the dark matter environments of black hole binaries with gravitational waves*  
 A. Coogan, G. Bertone, D. Gaggero, **B. J. Kavanagh**, D. A. Nichols  
 arXiv pre-print, [arXiv:2108.04154](https://arxiv.org/abs/2108.04154)  
 Code available [here](https://github.com/adam-coogan/pydd)  
