@@ -33,15 +33,14 @@ Featured on [NewScientist.nl](https://www.newscientist.nl/nieuws/zwaartekrachtsg
 P. Amaro-Seoane et al.  
 arXiv pre-print, [arXiv:2107.09665](https://arxiv.org/abs/2107.09665)  
 
-
 39. *Transient Radio Signatures from Neutron Star Encounters with QCD Axion Miniclusters*  
 T. D. P. Edwards, **B. J. Kavanagh**, L. Visinelli, C. Weniger  
-Submitted to PRL, [arXiv:2011.05378](https://arxiv.org/abs/2011.05378)  
+[Phys. Rev. Lett. 127, 131103 (2021)](https://doi.org/10.1103/PhysRevLett.127.131103), [arXiv:2011.05378](https://arxiv.org/abs/2011.05378)  
 Code available [here](https://github.com/bradkav/axion-miniclusters/) (archived on [Zenodo](https://doi.org/10.5281/zenodo.4006128))
 
 38. *Stellar Disruption of Axion Miniclusters in the Milky Way*  
 **B. J. Kavanagh**, T. D. P. Edwards, L. Visinelli, C. Weniger  
-Submitted to PRD, [arXiv:2011.05377](https://arxiv.org/abs/2011.05377)  
+[Phys. Rev. D 104, 063038 (2021)](https://doi.org/10.1103/PhysRevD.104.063038), [arXiv:2011.05377](https://arxiv.org/abs/2011.05377)  
 Code available [here](https://github.com/bradkav/axion-miniclusters/) (archived on [Zenodo](https://doi.org/10.5281/zenodo.4006128))
 
 37. *Integral X-ray constraints on sub-GeV Dark Matter*  
@@ -55,7 +54,7 @@ Code and constraints available [here](https://github.com/bradkav/PBHbounds)
 
 35. *Measuring the local Dark Matter density in the laboratory*  
 **B. J. Kavanagh**, T. Emken, R. Catena  
-Submitted to Phys. Rev. Lett., [arXiv:2004.01621](https://arxiv.org/abs/2004.01621)  
+Accepted in PRD, [arXiv:2004.01621](https://arxiv.org/abs/2004.01621)  
 Code available [here](https://github.com/bradkav/EarthScatterLikelihood) (archived on [Zenodo](https://doi.org/10.5281/zenodo.3725882)) and [here](https://github.com/temken/DaMaSCUS/tree/v1.1)
 
 34. *Detecting dark matter around black holes with gravitational waves: Effects of dark-matter dynamics on the gravitational waveform*  
