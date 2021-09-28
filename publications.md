@@ -36,7 +36,8 @@ arXiv pre-print, [arXiv:2107.09665](https://arxiv.org/abs/2107.09665)
 39. *Transient Radio Signatures from Neutron Star Encounters with QCD Axion Miniclusters*  
 T. D. P. Edwards, **B. J. Kavanagh**, L. Visinelli, C. Weniger  
 [Phys. Rev. Lett. 127, 131103 (2021)](https://doi.org/10.1103/PhysRevLett.127.131103), [arXiv:2011.05378](https://arxiv.org/abs/2011.05378)  
-Code available [here](https://github.com/bradkav/axion-miniclusters/) (archived on [Zenodo](https://doi.org/10.5281/zenodo.4006128))
+Code available [here](https://github.com/bradkav/axion-miniclusters/) (archived on [Zenodo](https://doi.org/10.5281/zenodo.4006128))  
+Featured in the blog [Ça Se Passe Là-Haut](https://web.archive.org/web/20210928180326/https://www.ca-se-passe-la-haut.fr/2021/09/les-axions-detectables-sous-forme-de.html)
 
 38. *Stellar Disruption of Axion Miniclusters in the Milky Way*  
 **B. J. Kavanagh**, T. D. P. Edwards, L. Visinelli, C. Weniger  
