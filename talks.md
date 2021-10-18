@@ -13,7 +13,7 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
     <summary style="font-size:large">2021</summary>
 
 - NBIA Astroparticle Seminar, University of Copenhagen (Online), 18 Oct 2021  
-Seminar Title: [*Detecting, Discovering and Measuring Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-NBIA-Copenhagen-Oct2021.pdf)
+Seminar Title: [*Detecting, Discovering and Measuring Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-NBIA-Copenhagen-Oct2021.pdf) [[Video]](https://youtu.be/joYJYxQABzU)
 
 - Astroparticle Physics Lectures, CERN Summer School (Online), 13-14 July 2021  
 Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2021_Lecture1.pdf) [[Video]](https://cds.cern.ch/record/2775497), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2021_Lecture2.pdf) [[Video]](https://indico.cern.ch/event/1050677/)
