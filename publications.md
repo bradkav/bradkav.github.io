@@ -55,7 +55,7 @@ Code and constraints available [here](https://github.com/bradkav/PBHbounds)
 
 35. *Measuring the local Dark Matter density in the laboratory*  
 **B. J. Kavanagh**, T. Emken, R. Catena  
-Accepted in PRD, [arXiv:2004.01621](https://arxiv.org/abs/2004.01621)  
+[Phys. Rev. D 104, 083023 (2021)](https://link.aps.org/doi/10.1103/PhysRevD.104.083023), [arXiv:2004.01621](https://arxiv.org/abs/2004.01621)  
 Code available [here](https://github.com/bradkav/EarthScatterLikelihood) (archived on [Zenodo](https://doi.org/10.5281/zenodo.3725882)) and [here](https://github.com/temken/DaMaSCUS/tree/v1.1)
 
 34. *Detecting dark matter around black holes with gravitational waves: Effects of dark-matter dynamics on the gravitational waveform*  
