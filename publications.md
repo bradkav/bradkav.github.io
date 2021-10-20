@@ -19,7 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Scattering searches for dark matter in subhalos: neutron stars, cosmic rays, and old rocks*  
+1. *EuCAPT White Paper: Opportunities and Challenges for Theoretical Astroparticle Physics in the Next Decade*  
+R. Alves Batista et al. (Including **B. J. Kavanagh**, edited by G. Bertone)  
+White paper of the [European Consortium for Astroparticle Theory (EuCAPT)](https://www.eucapt.org), [arXiv:2110.10074](https://arxiv.org/abs/2110.10074)
+
+2. *Scattering searches for dark matter in subhalos: neutron stars, cosmic rays, and old rocks*  
 J. Bramante, **B. J. Kavanagh**, N. Raj  
 Submitted to PRL, [arXiv:2109.04582](https://arxiv.org/abs/2109.04582)  
 
