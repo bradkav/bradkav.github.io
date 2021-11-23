@@ -12,6 +12,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 <details>
     <summary style="font-size:large">2021</summary>
 
+- AstroCoffee Seminar, Frankfurt (Online), 23 Nov 2021  
+Seminar Title: [*Detecting, Discovering and Measuring Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-Frankfurt-AstroCoffee-Nov2021.pdf)
+
 - British-German WE-Heraeus-Seminar "Astrophysical Windows on Dark Matter", Royal Society, London, 3-5 Nov 2021  
 Talk Title: [*Detecting, Discovering and Measuring Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-Heraeus-London-Nov2021_wide.pdf)
 
