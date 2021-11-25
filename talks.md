@@ -12,6 +12,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 <details>
     <summary style="font-size:large">2021</summary>
 
+- IFT Seminar, Madrid, 25 Nov 2021  
+Seminar Title: [*Detecting, Discovering and Measuring Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-IFT-Madrid-Nov2021.pdf)
+
 - AstroCoffee Seminar, Frankfurt (Online), 23 Nov 2021  
 Seminar Title: [*Detecting, Discovering and Measuring Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-Frankfurt-AstroCoffee-Nov2021.pdf)
 
