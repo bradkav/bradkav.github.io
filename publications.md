@@ -19,7 +19,12 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *EuCAPT White Paper: Opportunities and Challenges for Theoretical Astroparticle Physics in the Next Decade*  
+1. *Cosmology and direct detection of the Dark Axion Portal*  
+J. Cortabitarte Gutiérrez, **B. J. Kavanagh**, N. Castelló-Mor, F. J. Casas, J. M. Diego, E. Martínez-González, R. Vilar Cortabitarte  
+Submitted to PRD, [arXiv:2112.11387](https://arxiv.org/abs/2112.11387)  
+Code available [here](https://github.com/bradkav/DarkAxionPortal) (archived on [Zenodo](https://doi.org/10.5281/zenodo.5794543))
+
+2. *EuCAPT White Paper: Opportunities and Challenges for Theoretical Astroparticle Physics in the Next Decade*  
 R. Alves Batista et al. (Including **B. J. Kavanagh**, edited by G. Bertone & A. Riotto)  
 White paper of the [European Consortium for Astroparticle Theory (EuCAPT)](https://www.eucapt.org), [arXiv:2110.10074](https://arxiv.org/abs/2110.10074)
 
