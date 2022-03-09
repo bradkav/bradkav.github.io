@@ -19,7 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Cosmology and direct detection of the Dark Axion Portal*  
+1. *Search for sub-GeV Dark Matter via Migdal effect with an EDELWEISS germanium detector with NbSi TES sensors*  
+EDELWEISS Collaboration and **B. J. Kavanagh**  
+arXiv pre-print, [arXiv:2203.03993](https://arxiv.org/abs/2203.03993)  
+
+2. *Cosmology and direct detection of the Dark Axion Portal*  
 J. Cortabitarte Gutiérrez, **B. J. Kavanagh**, N. Castelló-Mor, F. J. Casas, J. M. Diego, E. Martínez-González, R. Vilar Cortabitarte  
 Submitted to PRD, [arXiv:2112.11387](https://arxiv.org/abs/2112.11387)  
 Code available [here](https://github.com/bradkav/DarkAxionPortal) (archived on [Zenodo](https://doi.org/10.5281/zenodo.5794543))
