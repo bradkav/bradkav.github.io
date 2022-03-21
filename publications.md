@@ -226,7 +226,7 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 ***
 <br>
 
-#### White Papers
+### White Papers
 
 1. *Dark Matter In Extreme Astrophysical Environments*  
 M. Baryakhtar et al. (Including **B. J. Kavanagh**)  
