@@ -7,7 +7,7 @@ weight: 3
 
 ## Publications
 
-Please find below my list of scientific publications (also available for [download in PDF format](/assets/BradleyKAVANAGH-PublicationList.pdf)). 
+Please find below my list of scientific publications (also available for [download in PDF format](/assets/BradleyKAVANAGH-PublicationList.pdf)). A list of [White Papers](#white-papers) I've contributed to can be found at the bottom of the page.
 
 For citation information, please consult my [full listing](https://inspirehep.net/search?p=exactauthor%3AB.J.Kavanagh.1&sf=earliestdate) or my [author profile](http://inspirehep.net/author/profile/B.J.Kavanagh.1) on inSPIRE-HEP.
 
@@ -15,10 +15,10 @@ My ORCID ID is [orcid.org/0000-0002-3634-4679](https://orcid.org/0000-0002-3634-
 
 My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https://impactstory.org/u/0000-0002-3634-4679).
 
-A list of [White Papers](#white-papers) I've contributed to can be found at the bottom of the page.
+
 
 *** 
-<br>
+<br><br>
 
 1. *Godzilla, a monster lurks in the Sunburst galaxy*  
 J. M. Diego, M. Pascale, **B. J. Kavanagh**, P. Kelly, L. Dai, B. Frye, T. Broadhurst  
