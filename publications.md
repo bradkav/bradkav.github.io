@@ -15,11 +15,16 @@ My ORCID ID is [orcid.org/0000-0002-3634-4679](https://orcid.org/0000-0002-3634-
 
 My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https://impactstory.org/u/0000-0002-3634-4679).
 
+A list of [White Papers](#white-papers) I've contributed to can be found at the bottom of the page.
 
 *** 
 <br>
 
-1. *Search for sub-GeV Dark Matter via Migdal effect with an EDELWEISS germanium detector with NbSi TES sensors*  
+1. *Godzilla, a monster lurks in the Sunburst galaxy*  
+J. M. Diego, M. Pascale, **B. J. Kavanagh**, P. Kelly, L. Dai, B. Frye, T. Broadhurst  
+arXiv pre-print, [arXiv:2203.08158](https://arxiv.org/abs/2203.08158)
+
+2. *Search for sub-GeV Dark Matter via Migdal effect with an EDELWEISS germanium detector with NbSi TES sensors*  
 EDELWEISS Collaboration and **B. J. Kavanagh**  
 arXiv pre-print, [arXiv:2203.03993](https://arxiv.org/abs/2203.03993)  
 
@@ -28,9 +33,6 @@ J. Cortabitarte Gutiérrez, **B. J. Kavanagh**, N. Castelló-Mor, F. J. Casas, J
 Submitted to PRD, [arXiv:2112.11387](https://arxiv.org/abs/2112.11387)  
 Code available [here](https://github.com/bradkav/DarkAxionPortal) (archived on [Zenodo](https://doi.org/10.5281/zenodo.5794543))
 
-2. *EuCAPT White Paper: Opportunities and Challenges for Theoretical Astroparticle Physics in the Next Decade*  
-R. Alves Batista et al. (Including **B. J. Kavanagh**, edited by G. Bertone & A. Riotto)  
-White paper of the [European Consortium for Astroparticle Theory (EuCAPT)](https://www.eucapt.org), [arXiv:2110.10074](https://arxiv.org/abs/2110.10074)
 
 2. *Scattering searches for dark matter in subhalos: neutron stars, cosmic rays, and old rocks*  
 J. Bramante, **B. J. Kavanagh**, N. Raj  
@@ -38,13 +40,13 @@ Submitted to PRL, [arXiv:2109.04582](https://arxiv.org/abs/2109.04582)
 
 2. *Measuring the dark matter environments of black hole binaries with gravitational waves*  
 A. Coogan, G. Bertone, D. Gaggero, **B. J. Kavanagh**, D. A. Nichols  
-arXiv pre-print, [arXiv:2108.04154](https://arxiv.org/abs/2108.04154)  
+[Phys. Rev. D 105, 043009 (2022)](https://doi.org/10.1103/PhysRevD.105.043009), [arXiv:2108.04154](https://arxiv.org/abs/2108.04154)  
 Code available [here](https://github.com/adam-coogan/pydd)  
 Featured on [NewScientist.nl](https://www.newscientist.nl/nieuws/zwaartekrachtsgolven-kunnen-zwarte-gaten-met-donkere-jurken-onthullen/)
 
 2. *The Effect of Mission Duration on LISA Science Objectives*  
 P. Amaro-Seoane et al.  
-arXiv pre-print, [arXiv:2107.09665](https://arxiv.org/abs/2107.09665)  
+[Gen Relativ Gravit 54, 3 (2022)](https://doi.org/10.1007/s10714-021-02889-x), [arXiv:2107.09665](https://arxiv.org/abs/2107.09665)  
 
 39. *Transient Radio Signatures from Neutron Star Encounters with QCD Axion Miniclusters*  
 T. D. P. Edwards, **B. J. Kavanagh**, L. Visinelli, C. Weniger  
@@ -81,10 +83,6 @@ Featured in [His Dark CMBlog](https://www.sunnyvagnozzi.com/blog/top-arxiv-week-
 A. Ibarra, **B. J. Kavanagh**, A. Rappelt  
 [JCAP 12 (2019) 013](https://doi.org/10.1088/1475-7516/2019/12/013), [arXiv:1908.00747](https://arxiv.org/abs/1908.00747)  
 
-32. *AEDGE: Atomic Experiment for Dark Matter and Gravity Exploration in Space*  
-Y. A. El-Neaj et al.  
-[EPJ Quantum Technology 7, 6 (2020)](https://doi.org/10.1140/epjqt/s40507-020-0080-0), [arXiv:1908.00802](https://arxiv.org/abs/1908.00802)  
-Signed as a supporting author
 
 31. *Gravitational wave probes of dark matter: challenges and opportunities*  
 G. Bertone, D. Croon, M. A. Amin, K. K. Boddy, **B. J. Kavanagh**, K. J. Mack, P. Natarajan, T. Opferkuch, K. Schutz, V. Takhistov, C. Weniger, T.-T. Yu  
@@ -131,11 +129,6 @@ S. Algeri et al. (Editors: T. D. P. Edwards, **B. J. Kavanagh**, P. Scott, A. Vi
 A. Ibarra, **B. J. Kavanagh**, A. Rappelt  
 [JCAP 12 (2018) 018](https://doi.org/10.1088/1475-7516/2018/12/018), [arXiv:1806.08714](https://arxiv.org/abs/1806.08714)  
 
-21. *Black holes, gravitational waves and fundamental physics: a roadmap*  
-L. Barack at al. (**B. J. Kavanagh**, Section coordinator "Primordial Black Holes and Dark Matter")  
-[Class. Quantum Grav. 36 143001 (2019)](https://doi.org/10.1088/1361-6382/ab0587), [arXiv:1806.05195](https://arxiv.org/abs/1806.05195)  
-White Paper for the COST action "Gravitational Waves, Black Holes, and Fundamental Physics"  
-Featured in [Physics World](https://physicsworld.com/a/roadmap-offers-expert-insight-into-gravitational-wave-astronomy/)
 
 20. *Black Holes' Dark Dress: On the merger rate of a subdominant population of primordial black holes*  
 **B. J. Kavanagh**, D. Gaggero, G. Bertone  
@@ -230,3 +223,26 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 **B. J. Kavanagh** and A. M. Green  
 [Phys. Rev. D 86, 065027 (2012)](http://dx.doi.org/10.1103/PhysRevD.86.065027), [arXiv:1207.2039](http://arxiv.org/abs/1207.2039)
 
+***
+<br>
+
+#### White Papers
+
+1. *Dark Matter In Extreme Astrophysical Environments*  
+M. Baryakhtar et al. (Including **B. J. Kavanagh**)  
+White paper for the [SNOWMASS 2022 Summer Study](https://snowmass21.org/), [arXiv:2203.07984](https://arxiv.org/abs/2203.07984)
+
+2. *EuCAPT White Paper: Opportunities and Challenges for Theoretical Astroparticle Physics in the Next Decade*  
+R. Alves Batista et al. (Including **B. J. Kavanagh**, edited by G. Bertone & A. Riotto)  
+White paper of the [European Consortium for Astroparticle Theory (EuCAPT)](https://www.eucapt.org), [arXiv:2110.10074](https://arxiv.org/abs/2110.10074)
+
+32. *AEDGE: Atomic Experiment for Dark Matter and Gravity Exploration in Space*  
+Y. A. El-Neaj et al.  
+[EPJ Quantum Technology 7, 6 (2020)](https://doi.org/10.1140/epjqt/s40507-020-0080-0), [arXiv:1908.00802](https://arxiv.org/abs/1908.00802)  
+Signed as a supporting author
+
+21. *Black holes, gravitational waves and fundamental physics: a roadmap*  
+L. Barack at al. (**B. J. Kavanagh**, Section coordinator "Primordial Black Holes and Dark Matter")  
+[Class. Quantum Grav. 36 143001 (2019)](https://doi.org/10.1088/1361-6382/ab0587), [arXiv:1806.05195](https://arxiv.org/abs/1806.05195)  
+White Paper for the COST action "Gravitational Waves, Black Holes, and Fundamental Physics"  
+Featured in [Physics World](https://physicsworld.com/a/roadmap-offers-expert-insight-into-gravitational-wave-astronomy/)
