@@ -9,8 +9,8 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
-<details markdown='span'>
-    <summary style="font-size:large">2022</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2022</summary>
 
 - Invited Overview Talk, [3rd Dark Ghosts Workshop](https://indico.cern.ch/event/1075227/), Granada, 1 Apr 2022  
 Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*](/assets/slides/KAVANAGH-DarkGhosts_2022_April2022.pdf)
@@ -20,8 +20,8 @@ Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*]
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2021</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2021</summary>
 
 - IFT Seminar, Madrid, 25 Nov 2021  
 Seminar Title: [*Detecting, Discovering and Measuring Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-IFT-Madrid-Nov2021.pdf)
@@ -51,8 +51,8 @@ Talk Title: [*Indirect Probes of Dark Matter*](/assets/slides/KAVANAGH-EuCAPT_v3
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2020</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2020</summary>
 
 - CAPA Seminar, Universidad Zaragoza (Online), 10 December 2020  
 Talk Title: [*Axion Miniclusters hitting (neutron) stars*](/assets/slides/AxionSeminar-Dec2020.pdf)
@@ -85,8 +85,8 @@ Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Wav
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2019</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2019</summary>
 
 
 
@@ -106,8 +106,8 @@ Webinar Title: [*Looking for tiny and tough WIMPs with EDELWEISS-surf*](/assets/
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2018</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2018</summary>
 
 
 
@@ -142,8 +142,8 @@ Talk Title: [*Can we determine the particle/antiparticle nature of Dark Matter?*
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2017</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2017</summary>
 
 
 
@@ -169,8 +169,8 @@ Seminar Title: [*Signatures of Earth-Scattering in the Direct Detection of Dark 
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2016</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2016</summary>
 
 
 
@@ -211,8 +211,8 @@ Talk title: [*Taming astrophysics and particle physics in the direct detection o
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2015</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2015</summary>
 
 
 
@@ -245,8 +245,8 @@ Talk title: [*Astrophysical uncertainties in direct detection experiments*](/ass
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2014</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2014</summary>
 
 
 
@@ -258,7 +258,7 @@ Talk title: [*Measuring the dark matter mass - in spite of astrophysical uncerta
 </details>
 
 <details>
-    <summary style="font-size:large">2013</summary>
+    <summary style="font-size:large" markdown='span'>2013</summary>
 
 
 
@@ -278,8 +278,8 @@ Poster title: [*Astronomy for WIMPs: the direct detection of dark matter*](/asse
 
 </details>
 
-<details markdown='span'>
-    <summary style="font-size:large">2012</summary>
+<details>
+    <summary style="font-size:large" markdown='span'>2012</summary>
 
 
 

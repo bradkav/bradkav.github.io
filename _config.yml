@@ -30,8 +30,13 @@ twitter:
   username: bradleykavanagh
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 #markdown: CommonMarkGhPages
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
 theme: minima
 
 #commonmark:
@@ -50,5 +55,5 @@ google_analytics: UA-88094985-1
   # do not replace newlines by <br>s
 #  hard_wrap: false
   # parse markdown inside block-level HTML tag
-kramdown: 
-  parse_block_html: true
+#kramdown: 
+#  parse_block_html: true
