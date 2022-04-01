@@ -17,6 +17,8 @@ Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*]
 
 </details>
 
+----------------------------
+
 <details>
     <summary style="font-size:large">2021</summary>
 
