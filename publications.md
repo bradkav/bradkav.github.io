@@ -18,7 +18,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 
 *** 
-<br><br>
+<br>
 
 1. *Godzilla, a monster lurks in the Sunburst galaxy*  
 J. M. Diego, M. Pascale, **B. J. Kavanagh**, P. Kelly, L. Dai, B. Frye, T. Broadhurst  

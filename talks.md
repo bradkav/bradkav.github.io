@@ -9,8 +9,7 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
-<details>
-    <summary style="font-size:large" markdown='span'>2022</summary>
+###### 2022
 
 - Invited Overview Talk, [3rd Dark Ghosts Workshop](https://indico.cern.ch/event/1075227/), Granada, 1 Apr 2022  
 Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*](/assets/slides/KAVANAGH-DarkGhosts_2022_April2022.pdf)
@@ -18,10 +17,7 @@ Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*]
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2021</summary>
+###### 2021
 
 - IFT Seminar, Madrid, 25 Nov 2021  
 Seminar Title: [*Detecting, Discovering and Measuring Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-IFT-Madrid-Nov2021.pdf)
@@ -49,10 +45,7 @@ Talk Title: [*Indirect Probes of Dark Matter*](/assets/slides/KAVANAGH-EuCAPT_v3
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2020</summary>
+###### 2020
 
 - CAPA Seminar, Universidad Zaragoza (Online), 10 December 2020  
 Talk Title: [*Axion Miniclusters hitting (neutron) stars*](/assets/slides/AxionSeminar-Dec2020.pdf)
@@ -83,12 +76,7 @@ Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Wav
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2019</summary>
-
-
+###### 2019
 
 - Invited Overview Talk, [Gravitational Wave probes of Fundamental Physics (GW4FP)](https://indico.cern.ch/event/843270/), Amsterdam, 12 November 2019  
 Talk title: [*Hearing the sirens of the early Universe: Primordial Black Holes & Gravitational Waves*](/assets/slides/KAVANAGH-PBHs-GW4FP2019.pdf) 
@@ -104,12 +92,7 @@ Webinar Title: [*Looking for tiny and tough WIMPs with EDELWEISS-surf*](/assets/
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2018</summary>
-
-
+###### 2018
 
 - [SLAP 2018](https://sites.google.com/view/slap2018/home), King's College London, 18 December 2018  
 Talk Title: [*Black Holes’ Dark Dress: Merging Black Holes and the Dark Matter around them*](/assets/slides/KAVANAGH-SLAP2018.pdf)
@@ -140,12 +123,7 @@ Talk Title: [*Can we determine the particle/antiparticle nature of Dark Matter?*
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2017</summary>
-
-
+###### 2017
 
 - [IRN/GDR Terascale](https://indico.in2p3.fr/event/14481/), Montpellier, France, 4 July 2017  
 Talk Title: [*Connecting low-energy Dark Matter searches with high-energy physics: the role of operator mixing*](/assets/slides/KAVANAGH-IRNterascale2017.pdf)
@@ -167,12 +145,7 @@ Seminar Title: [*Signatures of Earth-Scattering in the Direct Detection of Dark 
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2016</summary>
-
-
+###### 2016
 
 - Phenomenology Overview, Journée Matière Sombre France, APC, Paris, 1 December 2016  
 Talk Title: [*Dark Matter 'Pheno' - Signatures in direct detection experiments*](/assets/slides/JMS-Kavanagh-v2.pdf)
@@ -209,12 +182,7 @@ Talk title: [*Taming astrophysics and particle physics in the direct detection o
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2015</summary>
-
-
+###### 2015
 
 - [GDR Terascale @ Grenoble](https://indico.in2p3.fr/event/11846/), Grenoble, France, 23 - 25 November 2015  
 Talk title: [*Dark Matter from the bottom up: constraining effective field theories beyond the Standard Model using low energy DM searches*](/assets/slides/KAVANAGH-GDRterascale.pdf)
@@ -243,24 +211,14 @@ Talk title: [*Astrophysical uncertainties in direct detection experiments*](/ass
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2014</summary>
-
-
+###### 2014
 
 - [TeVPA/IDM 2014](https://indico.cern.ch/event/278032/overview), Amsterdam, Holland, 23-28 June 2014  
 Talk title: [*Measuring the dark matter mass - in spite of astrophysical uncertainties*](/assets/slides/KAVANAGH-TeVPA2014.pdf)
 
 ----------------------------
 
-</details>
-
-<details>
-    <summary style="font-size:large" markdown='span'>2013</summary>
-
-
+###### 2013
 
 - [The Violent Universe](https://www.iopconferences.org/iop/frontend/reg/thome.csp?pageID=178427&eventID=405&traceRedir=2&eventID=405), Institute of Physics, London, UK, 31 October - 1 November 2013  
 Poster title: *WIMP astronomy in the next generation*
@@ -276,12 +234,8 @@ Poster title: [*Astronomy for WIMPs: the direct detection of dark matter*](/asse
 
 ----------------------------
 
-</details>
 
-<details>
-    <summary style="font-size:large" markdown='span'>2012</summary>
-
-
+###### 2012
 
 - Cambridge Part III Research Day, Cambridge, UK, 1 November 2012  
 Talk title: *Detecting dark matter*
@@ -290,5 +244,3 @@ Talk title: *Detecting dark matter*
 Talk title: [*Improving dark matter direct detection analysis*](/assets/slides/KAVANAGH-BUSSTEPP.pdf) 
 
 ----------------------------
-
-</details>
