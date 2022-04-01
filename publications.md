@@ -7,7 +7,7 @@ weight: 3
 
 ## Publications
 
-Please find below my list of scientific publications (also available for [download in PDF format](/assets/BradleyKAVANAGH-PublicationList.pdf)). A list of [White Papers](#white-papers) I've contributed to can be found at the bottom of the page.
+Please find below my list of scientific publications (also available for [download in PDF format](/assets/BradleyKAVANAGH-PublicationList.pdf)). <!--- A list of [White Papers](#white-papers) I've contributed to can be found at the bottom of the page. -->
 
 For citation information, please consult my [full listing](https://inspirehep.net/search?p=exactauthor%3AB.J.Kavanagh.1&sf=earliestdate) or my [author profile](http://inspirehep.net/author/profile/B.J.Kavanagh.1) on inSPIRE-HEP.
 
@@ -227,8 +227,9 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 <br>
 
 ### White Papers
+<!---
 {: #white-papers }
-
+-->
 1. *Dark Matter In Extreme Astrophysical Environments*  
 M. Baryakhtar et al. (Including **B. J. Kavanagh**)  
 White paper for the [SNOWMASS 2022 Summer Study](https://snowmass21.org/), [arXiv:2203.07984](https://arxiv.org/abs/2203.07984)
