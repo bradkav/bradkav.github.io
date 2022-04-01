@@ -34,6 +34,10 @@ twitter:
 markdown: CommonMarkGhPages
 theme: minima
 
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "tables"]
+
 gems:
   - jekyll-seo-tag
 
