@@ -9,7 +9,7 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2022</summary>
 
 - Invited Overview Talk, [3rd Dark Ghosts Workshop](https://indico.cern.ch/event/1075227/), Granada, 1 Apr 2022  
@@ -19,7 +19,7 @@ Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*]
 
 ----------------------------
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2021</summary>
 
 - IFT Seminar, Madrid, 25 Nov 2021  
@@ -50,7 +50,7 @@ Talk Title: [*Indirect Probes of Dark Matter*](/assets/slides/KAVANAGH-EuCAPT_v3
 
 </details>
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2020</summary>
 
 - CAPA Seminar, Universidad Zaragoza (Online), 10 December 2020  
@@ -84,7 +84,7 @@ Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Wav
 
 </details>
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2019</summary>
 
 
@@ -105,7 +105,7 @@ Webinar Title: [*Looking for tiny and tough WIMPs with EDELWEISS-surf*](/assets/
 
 </details>
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2018</summary>
 
 
@@ -141,7 +141,7 @@ Talk Title: [*Can we determine the particle/antiparticle nature of Dark Matter?*
 
 </details>
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2017</summary>
 
 
@@ -168,7 +168,7 @@ Seminar Title: [*Signatures of Earth-Scattering in the Direct Detection of Dark 
 
 </details>
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2016</summary>
 
 
@@ -210,7 +210,7 @@ Talk title: [*Taming astrophysics and particle physics in the direct detection o
 
 </details>
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2015</summary>
 
 
@@ -244,7 +244,7 @@ Talk title: [*Astrophysical uncertainties in direct detection experiments*](/ass
 
 </details>
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2014</summary>
 
 
@@ -277,7 +277,7 @@ Poster title: [*Astronomy for WIMPs: the direct detection of dark matter*](/asse
 
 </details>
 
-<details>
+<details markdown="1">
     <summary style="font-size:large">2012</summary>
 
 

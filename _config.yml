@@ -34,9 +34,9 @@ markdown: kramdown
 #markdown: CommonMarkGhPages
 theme: minima
 
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "tables"]
+#commonmark:
+#  options: ["SMART", "FOOTNOTES"]
+#  extensions: ["strikethrough", "autolink", "tables"]
 
 gems:
   - jekyll-seo-tag
@@ -50,4 +50,5 @@ google_analytics: UA-88094985-1
   # do not replace newlines by <br>s
 #  hard_wrap: false
   # parse markdown inside block-level HTML tag
-parse_block_html: true
+kramdown: 
+  parse_block_html: true
