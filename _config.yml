@@ -40,8 +40,8 @@ gems:
 # Google services
 google_analytics: UA-88094985-1
 
-kramdown:
-    auto_ids: true
+#kramdown:
+#    auto_ids: true
 
 #kramdown:
   # use Github Flavored Markdown

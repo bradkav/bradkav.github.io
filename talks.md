@@ -10,6 +10,14 @@ weight: 4
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
 <details>
+    <summary style="font-size:large">2022</summary>
+
+- Invited Overview Talk, [3rd Dark Ghosts Workshop](https://indico.cern.ch/event/1075227/), Granada, 1 Apr 2022  
+Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*](/assets/slides/KAVANAGH-DarkGhosts_2022_April2022.pdf)
+
+</details>
+
+<details>
     <summary style="font-size:large">2021</summary>
 
 - IFT Seminar, Madrid, 25 Nov 2021  
