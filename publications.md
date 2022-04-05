@@ -20,7 +20,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Godzilla, a monster lurks in the Sunburst galaxy*  
+1. *Complementarity of direct detection experiments in search of light Dark Matter*  
+J. R. Angevaare, G. Bertone, A. P. Colijn, M. P. Decowski, **B. J. Kavanagh**  
+Submitted to JCAP, [arXiv:2204.01580](https://arxiv.org/abs/2204.01580)
+
+2. *Godzilla, a monster lurks in the Sunburst galaxy*  
 J. M. Diego, M. Pascale, **B. J. Kavanagh**, P. Kelly, L. Dai, B. Frye, T. Broadhurst  
 arXiv pre-print, [arXiv:2203.08158](https://arxiv.org/abs/2203.08158)
 
