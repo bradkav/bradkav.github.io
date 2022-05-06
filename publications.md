@@ -22,7 +22,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 1. *Dancing in the dark: detecting a population of distant primordial black holes*  
 M. Martinelli, F. Scarcella, N. B. Hogg, **B. J. Kavanagh**, D. Gaggero, P. Fleury  
-Submitted to JCAP [arXiv:2205.02639](https://arxiv.org/abs/2205.02639)
+Submitted to JCAP, [arXiv:2205.02639](https://arxiv.org/abs/2205.02639)
 
 
 2. *Complementarity of direct detection experiments in search of light Dark Matter*  
