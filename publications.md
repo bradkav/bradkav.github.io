@@ -20,7 +20,12 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Complementarity of direct detection experiments in search of light Dark Matter*  
+1. *Dancing in the dark: detecting a population of distant primordial black holes*  
+M. Martinelli, F. Scarcella, N. B. Hogg, **B. J. Kavanagh**, D. Gaggero, P. Fleury  
+Submitted to JCAP [arXiv:2205.02639](https://arxiv.org/abs/2205.02639)
+
+
+2. *Complementarity of direct detection experiments in search of light Dark Matter*  
 J. R. Angevaare, G. Bertone, A. P. Colijn, M. P. Decowski, **B. J. Kavanagh**  
 Submitted to JCAP, [arXiv:2204.01580](https://arxiv.org/abs/2204.01580)
 
@@ -233,7 +238,11 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 ### White Papers
 {: #white-papers }
 
-1. *Dark Matter In Extreme Astrophysical Environments*  
+1. *New Horizons for Fundamental Physics with LISA*  
+K. G. Arun at al. (Including **B. J. Kavanagh**)  
+Accepted in Living Reviews in Relativity, [arXiv:2205.01597](https://arxiv.org/abs/2205.01597)
+
+2. *Dark Matter In Extreme Astrophysical Environments*  
 M. Baryakhtar et al. (Including **B. J. Kavanagh**)  
 White paper for the [SNOWMASS 2022 Summer Study](https://snowmass21.org/), [arXiv:2203.07984](https://arxiv.org/abs/2203.07984)
 
