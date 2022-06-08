@@ -20,7 +20,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Dancing in the dark: detecting a population of distant primordial black holes*  
+1. *The Canfranc Axion Detection Experiment (CADEx): Search for axions at 90 GHz with Kinetic Inductance Detectors*  
+B. Aja et al., including **B. J. Kavanagh** (CADEx Collaboration)  
+Submitted to JCAP, [arXiv:2206.02980](https://arxiv.org/abs/2206.02980)
+
+2. *Dancing in the dark: detecting a population of distant primordial black holes*  
 M. Martinelli, F. Scarcella, N. B. Hogg, **B. J. Kavanagh**, D. Gaggero, P. Fleury  
 Submitted to JCAP, [arXiv:2205.02639](https://arxiv.org/abs/2205.02639)
 
