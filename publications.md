@@ -49,7 +49,7 @@ Code available [here](https://github.com/bradkav/DarkAxionPortal) (archived on [
 
 2. *Scattering searches for dark matter in subhalos: neutron stars, cosmic rays, and old rocks*  
 J. Bramante, **B. J. Kavanagh**, N. Raj  
-Submitted to PRL, [arXiv:2109.04582](https://arxiv.org/abs/2109.04582)  
+[Phys. Rev. Lett. 128, 231801 (2022)](https://doi.org/10.1103/PhysRevLett.128.231801), [arXiv:2109.04582](https://arxiv.org/abs/2109.04582)  
 
 2. *Measuring the dark matter environments of black hole binaries with gravitational waves*  
 A. Coogan, G. Bertone, D. Gaggero, **B. J. Kavanagh**, D. A. Nichols  
@@ -59,7 +59,7 @@ Featured on [NewScientist.nl](https://www.newscientist.nl/nieuws/zwaartekrachtsg
 
 2. *The Effect of Mission Duration on LISA Science Objectives*  
 P. Amaro-Seoane et al.  
-[Gen Relativ Gravit 54, 3 (2022)](https://doi.org/10.1007/s10714-021-02889-x), [arXiv:2107.09665](https://arxiv.org/abs/2107.09665)  
+[Gen. Relativ. Gravit. 54, 3 (2022)](https://doi.org/10.1007/s10714-021-02889-x), [arXiv:2107.09665](https://arxiv.org/abs/2107.09665)  
 
 39. *Transient Radio Signatures from Neutron Star Encounters with QCD Axion Miniclusters*  
 T. D. P. Edwards, **B. J. Kavanagh**, L. Visinelli, C. Weniger  
