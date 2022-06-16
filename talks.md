@@ -11,8 +11,12 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2022
 
+- Invited Overview Talk, [EuCAPT Workshop: Gravitational wave probes of black hole environments](https://agenda.infn.it/event/30620/), Rome, 15-17 June 2022  
+Talk Title: [*Collisionless Dark Matter Spikes: Open questions in formation, evolution and gravitational wave detection*](/assets/slides/KAVANAGH_BHenvironments_Rome_June2022.pdf)
+
 - Invited Overview Talk, [3rd Dark Ghosts Workshop](https://indico.cern.ch/event/1075227/), Granada, 1 Apr 2022  
 Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*](/assets/slides/KAVANAGH-DarkGhosts_2022_April2022.pdf)
+
 
 
 ----------------------------
