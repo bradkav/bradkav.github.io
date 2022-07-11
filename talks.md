@@ -63,7 +63,7 @@ Talk Title: [*Constantly changing constraints on Primordial Black Hole Dark Matt
 - Joint U. Sydney-UNSW Seminar (Online), 22 October 2020  
 Seminar Title: [*Primordial Black Holes, Gravitational Waves and Werewolves*](/assets/slides/KAVANAGH-Sydney-UNSW-Seminar-Oct2020.pdf) [[Video]](https://youtu.be/xVQAZxtn-7o)
 
-- INPA Seminar at LBL, Berkeley, USA (Online), 19th June 2020   
+- INPA Seminar at LBL, Berkeley, USA (Online), 19 June 2020   
 Seminar Title: [*Detecting Dark Matter around Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-INPA-LBL-June2020.pdf)
 
 - Theoretical Physics Seminar, UPV/EHU, Bilbao (Online), 27th May 2020   

@@ -244,7 +244,7 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 
 1. *New Horizons for Fundamental Physics with LISA*  
 K. G. Arun at al. (Including **B. J. Kavanagh**)  
-Accepted in Living Reviews in Relativity, [arXiv:2205.01597](https://arxiv.org/abs/2205.01597)
+[Living Reviews in Relativity, 25, 4 (2022)](https://doi.org/10.1007/s41114-022-00036-9), [arXiv:2205.01597](https://arxiv.org/abs/2205.01597)
 
 2. *Dark Matter In Extreme Astrophysical Environments*  
 M. Baryakhtar et al. (Including **B. J. Kavanagh**)  
