@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2022
 
+- Astroparticle Physics Lectures, CERN Summer School (Online), 14-15 July 2022  
+Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2022_Lecture1.pdf)
+
 - Invited Overview Talk, [EuCAPT Workshop: Gravitational wave probes of black hole environments](https://agenda.infn.it/event/30620/), Rome, 15-17 June 2022  
 Talk Title: [*Collisionless Dark Matter Spikes: Open questions in formation, evolution and gravitational wave detection*](/assets/slides/KAVANAGH_BHenvironments_Rome_June2022.pdf)
 
