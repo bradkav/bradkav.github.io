@@ -20,7 +20,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *The Canfranc Axion Detection Experiment (CADEx): Search for axions at 90 GHz with Kinetic Inductance Detectors*  
+1. *Measuring dark matter spikes around primordial black holes with Einstein Telescope and Cosmic Explorer*  
+P. S. Cole, A. Coogan, **B. J. Kavanagh**, G. Bertone  
+arXiv pre-print, [arXiv:2207.07576](https://arxiv.org/abs/2207.07576)
+
+2. *The Canfranc Axion Detection Experiment (CADEx): Search for axions at 90 GHz with Kinetic Inductance Detectors*  
 B. Aja et al., including **B. J. Kavanagh** (CADEx Collaboration)  
 Submitted to JCAP, [arXiv:2206.02980](https://arxiv.org/abs/2206.02980)
 
