@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2022
 
+- Invited Overview Talk, [TeVPA 2022](https://indico.cern.ch/event/1082486/), Kingston, Ontario, 8-12 August 2022  
+Talk Title: [*Dark Matter in Extreme Environments*](/assets/slides/KAVANAGH-TeVPA_2022.pdf)
+
 - Astroparticle Physics Lectures, CERN Summer School (Online), 14-15 July 2022  
 Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2022_Lecture1.pdf), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2022_Lecture2.pdf)
 
