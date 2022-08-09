@@ -30,7 +30,7 @@ Submitted to JCAP, [arXiv:2206.02980](https://arxiv.org/abs/2206.02980)
 
 2. *Dancing in the dark: detecting a population of distant primordial black holes*  
 M. Martinelli, F. Scarcella, N. B. Hogg, **B. J. Kavanagh**, D. Gaggero, P. Fleury  
-Submitted to JCAP, [arXiv:2205.02639](https://arxiv.org/abs/2205.02639)
+[JCAP 08 (2022) 006](https://doi.org/10.1088/1475-7516/2022/08/006), [arXiv:2205.02639](https://arxiv.org/abs/2205.02639)
 
 
 2. *Complementarity of direct detection experiments in search of light Dark Matter*  
