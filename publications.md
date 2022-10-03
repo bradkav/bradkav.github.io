@@ -39,11 +39,11 @@ J. R. Angevaare, G. Bertone, A. P. Colijn, M. P. Decowski, **B. J. Kavanagh**
 
 2. *Godzilla, a monster lurks in the Sunburst galaxy*  
 J. M. Diego, M. Pascale, **B. J. Kavanagh**, P. Kelly, L. Dai, B. Frye, T. Broadhurst  
-[Astron. & Astrophys., 665 (2022) A134](https://doi.org/10.1051/0004-6361/202243605}), [arXiv:2203.08158](https://arxiv.org/abs/2203.08158)
+[Astron. & Astrophys., 665 (2022) A134](https://doi.org/10.1051/0004-6361/202243605), [arXiv:2203.08158](https://arxiv.org/abs/2203.08158)
 
 2. *Search for sub-GeV Dark Matter via Migdal effect with an EDELWEISS germanium detector with NbSi TES sensors*  
 EDELWEISS Collaboration and **B. J. Kavanagh**  
-[Phys. Rev. D 106, 062004 (2022)](https://doi.org/10.1103/PhysRevD.106.062004}), [arXiv:2203.03993](https://arxiv.org/abs/2203.03993)  
+[Phys. Rev. D 106, 062004 (2022)](https://doi.org/10.1103/PhysRevD.106.062004), [arXiv:2203.03993](https://arxiv.org/abs/2203.03993)  
 
 2. *Cosmology and direct detection of the Dark Axion Portal*  
 J. Cortabitarte Gutiérrez, **B. J. Kavanagh**, N. Castelló-Mor, F. J. Casas, J. M. Diego, E. Martínez-González, R. Vilar Cortabitarte  
