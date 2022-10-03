@@ -35,15 +35,15 @@ M. Martinelli, F. Scarcella, N. B. Hogg, **B. J. Kavanagh**, D. Gaggero, P. Fleu
 
 2. *Complementarity of direct detection experiments in search of light Dark Matter*  
 J. R. Angevaare, G. Bertone, A. P. Colijn, M. P. Decowski, **B. J. Kavanagh**  
-Submitted to JCAP, [arXiv:2204.01580](https://arxiv.org/abs/2204.01580)
+[JCAP 10 (2022) 004](https://doi.org/10.1088/1475-7516/2022/10/004), [arXiv:2204.01580](https://arxiv.org/abs/2204.01580)
 
 2. *Godzilla, a monster lurks in the Sunburst galaxy*  
 J. M. Diego, M. Pascale, **B. J. Kavanagh**, P. Kelly, L. Dai, B. Frye, T. Broadhurst  
-arXiv pre-print, [arXiv:2203.08158](https://arxiv.org/abs/2203.08158)
+[Astron. & Astrophys., 665 (2022) A134](https://doi.org/10.1051/0004-6361/202243605}), [arXiv:2203.08158](https://arxiv.org/abs/2203.08158)
 
 2. *Search for sub-GeV Dark Matter via Migdal effect with an EDELWEISS germanium detector with NbSi TES sensors*  
 EDELWEISS Collaboration and **B. J. Kavanagh**  
-arXiv pre-print, [arXiv:2203.03993](https://arxiv.org/abs/2203.03993)  
+[Phys. Rev. D 106, 062004 (2022)](https://doi.org/10.1103/PhysRevD.106.062004}), [arXiv:2203.03993](https://arxiv.org/abs/2203.03993)  
 
 2. *Cosmology and direct detection of the Dark Axion Portal*  
 J. Cortabitarte Gutiérrez, **B. J. Kavanagh**, N. Castelló-Mor, F. J. Casas, J. M. Diego, E. Martínez-González, R. Vilar Cortabitarte  
