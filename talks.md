@@ -11,7 +11,10 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2022
 
-- Invited Overview Talk, [TeVPA 2022](https://indico.cern.ch/event/1082486/), Kingston, Ontario, 8-12 August 2022  
+- Invited Overview Talk, [Mineral Detection of Dark Matter and Neutrinos (MDDMv)](https://www.ifpu.it/?page_id=2810), IFPU, Trieste, 17-21 Oct 2022  
+Talk Title: [*Mineral Detectors for Dark Matter*](/assets/slides/KAVANAGH_MDDMv_Trieste_Oct2022.pdf) [Blackboard Talk]
+
+- Invited Overview Talk, [TeVPA 2022](https://indico.cern.ch/event/1082486/), Kingston, Ontario, 8-12 Aug 2022  
 Talk Title: [*Dark Matter in Extreme Environments*](/assets/slides/KAVANAGH-TeVPA_2022.pdf)
 
 - Astroparticle Physics Lectures, CERN Summer School (Online), 14-15 July 2022  
