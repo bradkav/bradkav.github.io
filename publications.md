@@ -30,7 +30,7 @@ arXiv pre-print, [arXiv:2207.07576](https://arxiv.org/abs/2207.07576)
 
 2. *The Canfranc Axion Detection Experiment (CADEx): Search for axions at 90 GHz with Kinetic Inductance Detectors*  
 B. Aja et al., including **B. J. Kavanagh** (CADEx Collaboration)  
-Accepted in JCAP, [arXiv:2206.02980](https://arxiv.org/abs/2206.02980)
+[JCAP 11 (2022) 044](http://doi.org/10.1088/1475-7516/2022/11/044), [arXiv:2206.02980](https://arxiv.org/abs/2206.02980)
 
 2. *Dancing in the dark: detecting a population of distant primordial black holes*  
 M. Martinelli, F. Scarcella, N. B. Hogg, **B. J. Kavanagh**, D. Gaggero, P. Fleury  
