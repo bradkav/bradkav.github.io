@@ -251,7 +251,11 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 ### White Papers
 {: #white-papers }
 
-1. *New Horizons for Fundamental Physics with LISA*  
+1. *Mineral Detection of Neutrinos and Dark Matter. A Whitepaper*  
+S. Baum (Including **B. J. Kavanagh**)  
+White paper on paleodetectors, [arXiv:2301.07118](https://arxiv.org/abs/2301.07118)  
+
+2. *New Horizons for Fundamental Physics with LISA*  
 K. G. Arun at al. (Including **B. J. Kavanagh**)  
 [Living Reviews in Relativity, 25, 4 (2022)](https://doi.org/10.1007/s41114-022-00036-9), [arXiv:2205.01597](https://arxiv.org/abs/2205.01597)
 
