@@ -9,6 +9,11 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+#### 2023
+
+- Invited Overview Talk, [Lunar Gravitational-Wave Antenna (LGWA) White Paper Kick-off Meeting](https://indico.gssi.it/event/450/), GSSI, L'Aquila, 09-10 Feb 2023  
+Talk Title: [*Decihertz Dark Matter: Gravitational Waves from Dark Matter Spikes and Primordial Black Holes*](/assets/slides/KAVANAGH_LGWA_KickOffMeeting_Feb2023.pdf)
+
 #### 2022
 
 - Invited Overview Talk, [Mineral Detection of Dark Matter and Neutrinos (MDDMv)](https://www.ifpu.it/?page_id=2810), IFPU, Trieste, 17-21 Oct 2022  
