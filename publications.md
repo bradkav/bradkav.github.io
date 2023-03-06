@@ -20,7 +20,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms*  
+1. *Tagging and localisation of ionizing events using NbSi transition edge phonon sensors for Dark Matter searches*  
+EDELWEISS Collaboration and **B. J. Kavanagh**  
+Submitted to PRD, [arXiv:2303.02067](https://arxiv.org/abs/2303.02067)
+
+2. *Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms*  
 P. S. Cole, G. Bertone, A. Coogan, D. Gaggero, T. Karydas, **B. J. Kavanagh**, T. F. M. Spieksma, G. M. Tomaselli  
 arXiv pre-print, [arXiv:2211.01362](https://arxiv.org/abs/2211.01362)
 
