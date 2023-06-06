@@ -30,11 +30,12 @@ Submitted to PRD, [arXiv:2303.02067](https://arxiv.org/abs/2303.02067)
 
 2. *Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms*  
 P. S. Cole, G. Bertone, A. Coogan, D. Gaggero, T. Karydas, **B. J. Kavanagh**, T. F. M. Spieksma, G. M. Tomaselli  
-arXiv pre-print, [arXiv:2211.01362](https://arxiv.org/abs/2211.01362)
+[Nature Astronomy (2023)](https://doi.org/10.1038/s41550-023-01990-2), [arXiv:2211.01362](https://arxiv.org/abs/2211.01362)
 
 2. *Measuring dark matter spikes around primordial black holes with Einstein Telescope and Cosmic Explorer*  
 P. S. Cole, A. Coogan, **B. J. Kavanagh**, G. Bertone  
-arXiv pre-print, [arXiv:2207.07576](https://arxiv.org/abs/2207.07576)
+[Phys. Rev. D 107, 083006 (2023)](https://doi.org/10.1103/PhysRevD.107.083006), [arXiv:2207.07576](https://arxiv.org/abs/2207.07576)  
+Highlighted in [Nature Astronomy 7, 511 (2023)](https://doi.org/10.1038/s41550-023-01987-x)
 
 2. *The Canfranc Axion Detection Experiment (CADEx): Search for axions at 90 GHz with Kinetic Inductance Detectors*  
 B. Aja et al., including **B. J. Kavanagh** (CADEx Collaboration)  
@@ -261,7 +262,7 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 
 1. *Mineral Detection of Neutrinos and Dark Matter. A Whitepaper*  
 S. Baum (Including **B. J. Kavanagh**)  
-White paper on paleodetectors, [arXiv:2301.07118](https://arxiv.org/abs/2301.07118)  
+[Phys. Dark Univ. 41 (2023) 101245](https://doi.org/10.1016/j.dark.2023.101245), [arXiv:2301.07118](https://arxiv.org/abs/2301.07118)  
 
 2. *New Horizons for Fundamental Physics with LISA*  
 K. G. Arun at al. (Including **B. J. Kavanagh**)  
