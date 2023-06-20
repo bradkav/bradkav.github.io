@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2023
 
+- Invited Talk, [New Horizons in Primordial Black Hole Physics (NEHOP)](https://conference.ippp.dur.ac.uk/event/1130/), Naples, Italy, 19-21 Jun 2023  
+Talk Title: [*Black Holes’ Dark Dress - Detecting Particle Dark Matter around Primordial Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-NEHOP_Naples_2023.pdf)
+
 - Invited Overview Talk, [Lunar Gravitational-Wave Antenna (LGWA) White Paper Kick-off Meeting](https://indico.gssi.it/event/450/), GSSI, L'Aquila, 09-10 Feb 2023  
 Talk Title: [*Decihertz Dark Matter: Gravitational Waves from Dark Matter Spikes and Primordial Black Holes*](/assets/slides/KAVANAGH_LGWA_KickOffMeeting_Feb2023.pdf)
 
