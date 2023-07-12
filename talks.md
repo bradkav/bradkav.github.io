@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2023
 
+- Invited Talk, [GRAPPA@10](https://indico.nikhef.nl/event/4325/), Amsterdam, Netherlands, 3-5 Jul 2023  
+Talk Title: [*Gravitational Wave Signatures of Dark Matter around Black Holes*](/assets/slides/KAVANAGH-GRAPPA@10_2023.pdf)
+
 - Invited Talk, [New Horizons in Primordial Black Hole Physics (NEHOP)](https://conference.ippp.dur.ac.uk/event/1130/), Naples, Italy, 19-21 Jun 2023  
 Talk Title: [*Black Holes’ Dark Dress - Detecting Particle Dark Matter around Primordial Black Holes with Gravitational Waves*](/assets/slides/KAVANAGH-NEHOP_Naples_2023.pdf)
 
