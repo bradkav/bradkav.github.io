@@ -20,7 +20,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Impact of dark matter spikes on the merger rates of Primordial Black Holes*  
+1. *Search for Daily Modulation of MeV Dark Matter Signals with DAMIC-M*  
+I. Arnquist et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
+Submitted to PRL, [arXiv:2307.07251](https://arxiv.org/abs/2307.07251)  
+
+2. *Impact of dark matter spikes on the merger rates of Primordial Black Holes*  
 P. Jangra, **B. J. Kavanagh**, J. M. Diego  
 Submitted to JCAP, [arXiv:2304.05892](https://arxiv.org/abs/2304.05892)
 
