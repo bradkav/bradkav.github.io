@@ -11,7 +11,7 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2023
 
-- Astroparticle Physics Lectures, CERN Summer School, 18-19 July 2022  
+- Astroparticle Physics Lectures, CERN Summer School, 18-19 July 2023  
 Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2023_Lecture1.pdf), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2023_Lecture2.pdf)
 
 - Invited Talk, [GRAPPA@10](https://indico.nikhef.nl/event/4325/), Amsterdam, Netherlands, 3-5 Jul 2023  
