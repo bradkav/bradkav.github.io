@@ -19,8 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 *** 
 <br>
+1. *Statistics of magnification for extremely lensed high redshift stars*  
+J. M. Palencia, J. M. Diego, **B. J. Kavanagh**, J. Martinez  
+Submitted to Astronomy & Astrophysics, [arXiv:2307.09505](https://arxiv.org/abs/2307.09505)
 
-1. *Search for Daily Modulation of MeV Dark Matter Signals with DAMIC-M*  
+2. *Search for Daily Modulation of MeV Dark Matter Signals with DAMIC-M*  
 I. Arnquist et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
 Submitted to PRL, [arXiv:2307.07251](https://arxiv.org/abs/2307.07251)  
 
