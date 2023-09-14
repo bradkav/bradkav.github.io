@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2023
 
+- Contributed Talk, [TeVPA 2023](https://agenda.infn.it/event/33457/), Naples, Italy, 11-15 Sep 2023  
+Talk Title: [*Canfranc Axion Detection Experiment (CADEx): A novel haloscope search for Dark Matter axions in the mass range 330–460 μeV*](/assets/slides/KAVANAGH_CADEx_TeVPA2023_Naples.pdf)  
+
 - Astroparticle Physics Lectures, CERN Summer School, 18-19 July 2023  
 Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2023_Lecture1.pdf) [[Video]](https://cds.cern.ch/record/2865560), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2023_Lecture2.pdf) [[Video]](https://cds.cern.ch/record/2865660)
 
