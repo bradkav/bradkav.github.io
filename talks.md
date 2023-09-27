@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2023
 
+- Lectures on Astrophysics and Dark Matter, [12th IDPASC PhD School](https://indico.cern.ch/event/1271437/), Granada, Spain, 18-28 Sep 2023  
+Links: [*Lecture 1/3*](/assets/slides/IDPASC2023_DarkMatter_Lecture1.pdf), [*Lecture 2/3*](/assets/slides/IDPASC2023_DarkMatter_Lecture2.pdf), [*Lecture 3/3*](/assets/slides/IDPASC2023_DarkMatter_Lecture3.pdf)
+
 - Contributed Talk, [TeVPA 2023](https://agenda.infn.it/event/33457/), Naples, Italy, 11-15 Sep 2023  
 Talk Title: [*Canfranc Axion Detection Experiment (CADEx): A novel haloscope search for Dark Matter axions in the mass range 330–460 μeV*](/assets/slides/KAVANAGH_CADEx_TeVPA2023_Naples.pdf)  
 
