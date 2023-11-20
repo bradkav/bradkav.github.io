@@ -29,11 +29,11 @@ Submitted to PRL, [arXiv:2307.07251](https://arxiv.org/abs/2307.07251)
 
 2. *Impact of dark matter spikes on the merger rates of Primordial Black Holes*  
 P. Jangra, **B. J. Kavanagh**, J. M. Diego  
-Submitted to JCAP, [arXiv:2304.05892](https://arxiv.org/abs/2304.05892)
+[JCAP 11 (2023) 069](http://doi.org/10.1088/1475-7516/2023/11/069), [arXiv:2304.05892](https://arxiv.org/abs/2304.05892)
 
 2. *Tagging and localisation of ionizing events using NbSi transition edge phonon sensors for Dark Matter searches*  
 EDELWEISS Collaboration and **B. J. Kavanagh**  
-Submitted to PRD, [arXiv:2303.02067](https://arxiv.org/abs/2303.02067)
+[Phys. Rev. D 108, 022006](https://doi.org/10.1103/PhysRevD.108.022006), [arXiv:2303.02067](https://arxiv.org/abs/2303.02067)
 
 2. *Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms*  
 P. S. Cole, G. Bertone, A. Coogan, D. Gaggero, T. Karydas, **B. J. Kavanagh**, T. F. M. Spieksma, G. M. Tomaselli  
