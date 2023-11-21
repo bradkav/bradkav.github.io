@@ -19,7 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 *** 
 <br>
-1. *Statistics of magnification for extremely lensed high redshift stars*  
+1. *Phonon dynamics for light dark matter detection*  
+M. Raya-Moreno, **B. J. Kavanagh**, L. Fàbrega, R. Rurali  
+Submitted to PRX, [arXiv:2311.11930](https://arxiv.org/abs/2311.11930)
+
+2. *Statistics of magnification for extremely lensed high redshift stars*  
 J. M. Palencia, J. M. Diego, **B. J. Kavanagh**, J. Martinez  
 Submitted to Astronomy & Astrophysics, [arXiv:2307.09505](https://arxiv.org/abs/2307.09505)
 
