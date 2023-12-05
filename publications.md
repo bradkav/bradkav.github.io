@@ -41,7 +41,7 @@ EDELWEISS Collaboration and **B. J. Kavanagh**
 
 2. *Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms*  
 P. S. Cole, G. Bertone, A. Coogan, D. Gaggero, T. Karydas, **B. J. Kavanagh**, T. F. M. Spieksma, G. M. Tomaselli  
-[Nature Astronomy (2023)](https://doi.org/10.1038/s41550-023-01990-2), [arXiv:2211.01362](https://arxiv.org/abs/2211.01362)
+[Nature Astronomy 7, 943–950 (2023)](https://doi.org/10.1038/s41550-023-01990-2), [arXiv:2211.01362](https://arxiv.org/abs/2211.01362)
 
 2. *Measuring dark matter spikes around primordial black holes with Einstein Telescope and Cosmic Explorer*  
 P. S. Cole, A. Coogan, **B. J. Kavanagh**, G. Bertone  
