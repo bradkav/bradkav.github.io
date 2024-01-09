@@ -14,7 +14,7 @@ I am a researcher studying Dark Matter, worrying about how it can be detected an
 
 ### Academic history
 
-Since March 2020, I have been a post-doc at the [Instituto de Física de Cantabria (IFCA)](https://ifca.unican.es/en-us#), in Santander in Northern Spain. My position is associated with the [María de Maeztu Centre of Excellence](https://ifca.unican.es/en-us/mdm/Description) grant, and my goal is to encourage collaboration between the observational cosmology and high-energy physics groups, on the topic of Dark Matter.
+Since January 2024, I have been a *Científico Titular* (Tenured Scientist) of the Spanish Scientific Research Council (CSIC) at the [Instituto de Física de Cantabria (IFCA)](https://ifca.unican.es/en-us#), in Santander in Northern Spain. I have been working at IFCA since March 2020, with the goal of encouraging collaboration between the observational cosmology and high-energy physics groups, on the topic of Dark Matter.
 
 From September 2017 to February 2020, I was a post-doc at [GRAPPA](https://iop.fnwi.uva.nl/grappa/) (an institute of the University of Amsterdam) with [Dr. Gianfranco Bertone](http://gianfrancobertone.net).
 
