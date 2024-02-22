@@ -14,6 +14,10 @@ I try to make my code publicly available wherever possible, both to encourage tr
 ---   
 <br>
 
+**NbodyIMRI** {% include icon-github.html username="bradkav" %}/ [NbodyIMRI](https://github.com/bradkav/NbodyIMRI)
+
+*Code for simulating binaries embedded in DM Spikes, in order to study dynamical friction and accretion. Released in conjunction with [arXiv:2402.13053](https://arxiv.org/abs/2402.13053) and [2402.13762](https://arxiv.org/abs/2402.13762).*
+
 **EarthScatterLikelihood** {% include icon-github.html username="bradkav" %}/ [EarthScatterLikelihood](https://github.com/bradkav/EarthScatterLikelihood)
 
 *Code for calculating event rates and likelihoods for Dark Matter direct detection experiments in the presence of Earth-Scattering. Released in conjunction with [arXiv:2004.01621](https://arxiv.org/abs/2004.01621).*

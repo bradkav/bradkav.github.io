@@ -19,7 +19,16 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 *** 
 <br>
-1. *Phonon dynamics for light dark matter detection*  
+1. *Sharpening the dark matter signature in gravitational waveforms II: Numerical simulations with the NbodyIMRI code*  
+T. K. Karydas, **B. J. Kavanagh**, G. Bertone, P. Di Cintio, M. Pasquato  
+Submitted to PRD, [arXiv:2402.13762](https://arxiv.org/abs/2402.13762)  
+Code available [here](https://github.com/bradkav/NbodyIMRI) (archived on [Zenodo](https://doi.org/10.5281/zenodo.10641173))
+
+2. *Sharpening the dark matter signature in gravitational waveforms I: Accretion and eccentricity evolution*  
+T. K. Karydas, **B. J. Kavanagh**, G. Bertone  
+Submitted to PRD, [arXiv:2402.13053](https://arxiv.org/abs/2402.13053) 
+
+2. *Phonon dynamics for light dark matter detection*  
 M. Raya-Moreno, **B. J. Kavanagh**, L. Fàbrega, R. Rurali  
 Submitted to PRX, [arXiv:2311.11930](https://arxiv.org/abs/2311.11930)
 
