@@ -20,7 +20,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 1. *Sharpening the dark matter signature in gravitational waveforms II: Numerical simulations with the NbodyIMRI code*  
-T. K. Karydas, **B. J. Kavanagh**, G. Bertone, P. Di Cintio, M. Pasquato  
+**B. J. Kavanagh**, T. K. Karydas, G. Bertone, P. Di Cintio, M. Pasquato  
 Submitted to PRD, [arXiv:2402.13762](https://arxiv.org/abs/2402.13762)  
 Code available [here](https://github.com/bradkav/NbodyIMRI) (archived on [Zenodo](https://doi.org/10.5281/zenodo.10641173))
 
