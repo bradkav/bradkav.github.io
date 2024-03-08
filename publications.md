@@ -38,7 +38,7 @@ Submitted to Astronomy & Astrophysics, [arXiv:2307.09505](https://arxiv.org/abs/
 
 2. *Search for Daily Modulation of MeV Dark Matter Signals with DAMIC-M*  
 I. Arnquist et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
-Submitted to PRL, [arXiv:2307.07251](https://arxiv.org/abs/2307.07251)  
+[Phys. Rev. Lett. 132, 101006](https://doi.org/10.1103/PhysRevLett.132.101006), [arXiv:2307.07251](https://arxiv.org/abs/2307.07251)
 
 2. *Impact of dark matter spikes on the merger rates of Primordial Black Holes*  
 P. Jangra, **B. J. Kavanagh**, J. M. Diego  
