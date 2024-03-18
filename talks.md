@@ -9,6 +9,11 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+#### 2024
+
+- ICMAB Seminar, Barcelona, 18 Mar 2024  
+Seminar Title: [*New Directions in the Search for Dark Matter*](/assets/slides/KAVANAGH_ICMAB_DarkMatter.pdf)
+
 #### 2023
 
 - Theory Seminar at INFN Pisa, 26 Oct 2023  
