@@ -19,7 +19,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 *** 
 <br>
-1. *Sharpening the dark matter signature in gravitational waveforms II: Numerical simulations with the NbodyIMRI code*  
+1. *Dark Matter Mounds: towards a realistic description of dark matter overdensities around black holes*  
+G. Bertone, A. R. A. C. Wierda, D. Gaggero, **B. J. Kavanagh**, M. Volonteri, N. Yoshida  
+Submitted to PRL, [arXiv:2404.08731](https://arxiv.org/abs/2404.08731)  
+
+2. *Sharpening the dark matter signature in gravitational waveforms II: Numerical simulations with the NbodyIMRI code*  
 **B. J. Kavanagh**, T. K. Karydas, G. Bertone, P. Di Cintio, M. Pasquato  
 Submitted to PRD, [arXiv:2402.13762](https://arxiv.org/abs/2402.13762)  
 Code available [here](https://github.com/bradkav/NbodyIMRI) (archived on [Zenodo](https://doi.org/10.5281/zenodo.10641173))
@@ -280,7 +284,11 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 ### White Papers
 {: #white-papers }
 
-1. *Mineral Detection of Neutrinos and Dark Matter. A Whitepaper*  
+1. *The Lunar Gravitational-wave Antenna: Mission Studies and Science Case*  
+P. Ajith et al. (LGWA Collaboration, including **B. J. Kavanagh**)  
+Submitted to JCAP, [arXiv:2404.09181](https://arxiv.org/abs/2404.09181)
+
+2. *Mineral Detection of Neutrinos and Dark Matter. A Whitepaper*  
 S. Baum (Including **B. J. Kavanagh**)  
 [Phys. Dark Univ. 41 (2023) 101245](https://doi.org/10.1016/j.dark.2023.101245), [arXiv:2301.07118](https://arxiv.org/abs/2301.07118)  
 
