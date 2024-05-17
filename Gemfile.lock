@@ -38,18 +38,20 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (1.0.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    rexml (3.2.5)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     rouge (1.11.1)
     ruby-enum (0.9.0)
       i18n
     safe_yaml (1.0.4)
     sass (3.4.22)
+    serif (0.0.0)
+    strscan (3.1.0)
 
 PLATFORMS
   ruby
@@ -59,7 +61,7 @@ DEPENDENCIES
   jekyll-commonmark-ghpages
   jekyll-seo-tag
   kramdown (>= 2.3.0)
-  minima
+  serif
 
 RUBY VERSION
    ruby 2.0.0p645
