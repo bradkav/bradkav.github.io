@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2024
 
+- Invited Plenary Talk, Invisibles 2024, Bologna, 1-5 Jul 2024  
+Talk Title: [*Black Hole Inspirals: Lessons for Dark Matter*](/assets/slides/KAVANAGH-Invisibles_Bologna_July2024.pdf)  
+
 - ICMAB Seminar, Barcelona, 18 Mar 2024  
 Seminar Title: [*New Directions in the Search for Dark Matter*](/assets/slides/KAVANAGH_ICMAB_DarkMatter.pdf)
 
