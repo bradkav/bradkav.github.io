@@ -12,7 +12,7 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 #### 2024
 
 - Astroparticle Physics Lectures, CERN Summer School, 17-18 July 2024  
-Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2024_Lecture1.pdf)  
+Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2024_Lecture1.pdf), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2024_Lecture2.pdf)
 
 - Invited Plenary Talk, Invisibles 2024, Bologna, 1-5 Jul 2024  
 Talk Title: [*Black Hole Inspirals: Lessons for Dark Matter*](/assets/slides/KAVANAGH-Invisibles_Bologna_July2024.pdf)  
