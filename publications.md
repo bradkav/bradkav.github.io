@@ -19,7 +19,12 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 *** 
 <br>
-1. *Dark Matter Mounds: towards a realistic description of dark matter overdensities around black holes*  
+
+1. *Axions in Andromeda: Searching for Minicluster -- Neutron Star Encounters with the Green Bank Telescope*  
+L. Walters, J. Shroyer, M. Edenton, P. Agrawal, B. Johnson, **B. J. Kavanagh**, D. J. E. Marsh, L. Visinelli  
+Submitted to PRD, [arXiv:2407.13060](https://arxiv.org/abs/2407.13060) 
+
+2. *Dark Matter Mounds: towards a realistic description of dark matter overdensities around black holes*  
 G. Bertone, A. R. A. C. Wierda, D. Gaggero, **B. J. Kavanagh**, M. Volonteri, N. Yoshida  
 Submitted to PRL, [arXiv:2404.08731](https://arxiv.org/abs/2404.08731)  
 
