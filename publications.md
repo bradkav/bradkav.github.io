@@ -7,7 +7,9 @@ weight: 3
 
 ## Publications
 
-Please find below my list of scientific publications (also available for [download in PDF format](/assets/BradleyKAVANAGH-PublicationList.pdf)). A list of [White Papers](#white-papers) I've contributed to can be found at the bottom of the page.
+Please find below my list of scientific publications (also available for [download in PDF format](/assets/BradleyKAVANAGH-PublicationList.pdf)). 
+
+A list of [White Papers](#white-papers) I've contributed to can be found at the bottom of the page.
 
 For citation information, please consult my [full listing](https://inspirehep.net/search?p=exactauthor%3AB.J.Kavanagh.1&sf=earliestdate) or my [author profile](http://inspirehep.net/author/profile/B.J.Kavanagh.1) on inSPIRE-HEP.
 
@@ -20,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Axions in Andromeda: Searching for Minicluster -- Neutron Star Encounters with the Green Bank Telescope*  
+1. *Unexplained correlation between the Cosmic Microwave Background temperature and the local matter density distribution*  
+M. Cruz, E. Martínez-González, C. Gimeno-Amo, **B. J. Kavanagh**, M. Tucci   
+Submitted to JCAP, [arXiv:2407.17599](https://arxiv.org/abs/2407.17599)   
+
+2. *Axions in Andromeda: Searching for Minicluster -- Neutron Star Encounters with the Green Bank Telescope*  
 L. Walters, J. Shroyer, M. Edenton, P. Agrawal, B. Johnson, **B. J. Kavanagh**, D. J. E. Marsh, L. Visinelli  
 Submitted to PRD, [arXiv:2407.13060](https://arxiv.org/abs/2407.13060) 
 
