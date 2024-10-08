@@ -10,6 +10,8 @@ weight: 4
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
 #### 2024
+- Invited Overview Talk, Joint RENATA-MultiDark Meeting, Santander, 8-11 Oct 2024  
+Talk Title: [*Light WIMPs and Light DM*](/assets/slides/KAVANAGH_RENATA_MultiDark_Oct2024.pdf)  
 
 - Astroparticle Physics Lectures, CERN Summer School, 17-18 July 2024  
 Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2024_Lecture1.pdf) [[Video]](https://cds.cern.ch/record/2904813), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2024_Lecture2.pdf) [[Video]](https://cds.cern.ch/record/2904907)
