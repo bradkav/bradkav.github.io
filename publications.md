@@ -49,7 +49,7 @@ Submitted to PRX, [arXiv:2311.11930](https://arxiv.org/abs/2311.11930)
 
 2. *Statistics of magnification for extremely lensed high redshift stars*  
 J. M. Palencia, J. M. Diego, **B. J. Kavanagh**, J. Martinez  
-Submitted to Astronomy & Astrophysics, [arXiv:2307.09505](https://arxiv.org/abs/2307.09505)
+[Astronomy & Astrophysics 687, A81 (2024)](https://doi.org/10.1051/0004-6361/202347492), [arXiv:2307.09505](https://arxiv.org/abs/2307.09505)
 
 2. *Search for Daily Modulation of MeV Dark Matter Signals with DAMIC-M*  
 I. Arnquist et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
