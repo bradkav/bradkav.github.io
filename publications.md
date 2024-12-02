@@ -28,7 +28,7 @@ Submitted to JCAP, [arXiv:2407.17599](https://arxiv.org/abs/2407.17599)
 
 2. *Axions in Andromeda: Searching for Minicluster -- Neutron Star Encounters with the Green Bank Telescope*  
 L. Walters, J. Shroyer, M. Edenton, P. Agrawal, B. Johnson, **B. J. Kavanagh**, D. J. E. Marsh, L. Visinelli  
-Submitted to PRD, [arXiv:2407.13060](https://arxiv.org/abs/2407.13060) 
+[Phys. Rev. D 110, 123002 (2024)](https://doi.org/10.1103/PhysRevD.110.123002), [arXiv:2407.13060](https://arxiv.org/abs/2407.13060) 
 
 2. *Dark Matter Mounds: towards a realistic description of dark matter overdensities around black holes*  
 G. Bertone, A. R. A. C. Wierda, D. Gaggero, **B. J. Kavanagh**, M. Volonteri, N. Yoshida  
