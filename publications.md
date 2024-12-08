@@ -45,7 +45,7 @@ Submitted to PRD, [arXiv:2402.13053](https://arxiv.org/abs/2402.13053)
 
 2. *Phonon dynamics for light dark matter detection*  
 M. Raya-Moreno, **B. J. Kavanagh**, L. Fàbrega, R. Rurali  
-Submitted to PRX, [arXiv:2311.11930](https://arxiv.org/abs/2311.11930)
+[Phys. Rev. D 110, 112007 (2024)](https://doi.org/10.1103/PhysRevD.110.112007), [arXiv:2311.11930](https://arxiv.org/abs/2311.11930)
 
 2. *Statistics of magnification for extremely lensed high redshift stars*  
 J. M. Palencia, J. M. Diego, **B. J. Kavanagh**, J. Martinez  
