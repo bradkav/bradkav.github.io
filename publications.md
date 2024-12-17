@@ -23,7 +23,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 <br>
 
 1. *The cosmic history of Primordial Black Hole accretion and its uncertainties*  
-P. Jangra, D. Gaggero, B. J. Kavanagh, J. M. Diego  
+P. Jangra, D. Gaggero, **B. J. Kavanagh**, J. M. Diego  
 Submitted to JCAP, [arXiv:2412.11921](https://arxiv.org/abs/2412.11921)  
 
 2. *Unexplained correlation between the Cosmic Microwave Background temperature and the local matter density distribution*  
