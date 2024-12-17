@@ -22,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Unexplained correlation between the Cosmic Microwave Background temperature and the local matter density distribution*  
+1. *The cosmic history of Primordial Black Hole accretion and its uncertainties*  
+P. Jangra, D. Gaggero, B. J. Kavanagh, J. M. Diego  
+Submitted to JCAP, [arXiv:2412.11921](https://arxiv.org/abs/2412.11921)  
+
+2. *Unexplained correlation between the Cosmic Microwave Background temperature and the local matter density distribution*  
 M. Cruz, E. Martínez-González, C. Gimeno-Amo, **B. J. Kavanagh**, M. Tucci   
 Submitted to JCAP, [arXiv:2407.17599](https://arxiv.org/abs/2407.17599)   
 
