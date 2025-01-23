@@ -9,6 +9,11 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+#### 2025
+
+- IFIC Colloquium, IFIC, Valencia, 23 Jan 2025  
+Colloquium Title: [*Dark Matter on All Scales*](/assets/slides/DarkMatter_IFIC_KAVANAGH_small.pdf)  
+
 #### 2024
 - Invited Overview Talk, Joint RENATA-MultiDark Meeting, Santander, 8-11 Oct 2024  
 Talk Title: [*Light WIMPs and Light DM*](/assets/slides/KAVANAGH_RENATA_MultiDark_Oct2024.pdf)  
