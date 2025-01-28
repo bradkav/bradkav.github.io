@@ -301,7 +301,7 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 
 1. *The Lunar Gravitational-wave Antenna: Mission Studies and Science Case*  
 P. Ajith et al. (LGWA Collaboration, including **B. J. Kavanagh**)  
-Submitted to JCAP, [arXiv:2404.09181](https://arxiv.org/abs/2404.09181)
+[JCAP 01 (2025) 108](https://iopscience.iop.org/article/10.1088/1475-7516/2025/01/108), [arXiv:2404.09181](https://arxiv.org/abs/2404.09181)
 
 2. *Mineral Detection of Neutrinos and Dark Matter. A Whitepaper*  
 S. Baum (Including **B. J. Kavanagh**)  
