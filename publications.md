@@ -22,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *The cosmic history of Primordial Black Hole accretion and its uncertainties*  
+1. *Probing Benchmark Models of Hidden-Sector Dark Matter with DAMIC-M*  
+K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
+Submitted to PRL, [arXiv:2503.14617](https://arxiv.org/abs/2503.14617)  
+
+2. *The cosmic history of Primordial Black Hole accretion and its uncertainties*  
 P. Jangra, D. Gaggero, **B. J. Kavanagh**, J. M. Diego  
 Submitted to JCAP, [arXiv:2412.11921](https://arxiv.org/abs/2412.11921)  
 
