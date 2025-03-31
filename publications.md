@@ -44,12 +44,12 @@ Submitted to PRL, [arXiv:2404.08731](https://arxiv.org/abs/2404.08731)
 
 2. *Sharpening the dark matter signature in gravitational waveforms II: Numerical simulations with the NbodyIMRI code*  
 **B. J. Kavanagh**, T. K. Karydas, G. Bertone, P. Di Cintio, M. Pasquato  
-Submitted to PRD, [arXiv:2402.13762](https://arxiv.org/abs/2402.13762)  
+[Phys. Rev. D 111, 063071 (2025)](https://doi.org/10.1103/PhysRevD.111.063071), [arXiv:2402.13762](https://arxiv.org/abs/2402.13762)  
 Code available [here](https://github.com/bradkav/NbodyIMRI) (archived on [Zenodo](https://doi.org/10.5281/zenodo.10641173))
 
 2. *Sharpening the dark matter signature in gravitational waveforms I: Accretion and eccentricity evolution*  
 T. K. Karydas, **B. J. Kavanagh**, G. Bertone  
-Submitted to PRD, [arXiv:2402.13053](https://arxiv.org/abs/2402.13053) 
+[Phys. Rev. D 111, 063070 (2025)](https://doi.org/10.1103/PhysRevD.111.063070), [arXiv:2402.13053](https://arxiv.org/abs/2402.13053) 
 
 2. *Phonon dynamics for light dark matter detection*  
 M. Raya-Moreno, **B. J. Kavanagh**, L. Fàbrega, R. Rurali  
