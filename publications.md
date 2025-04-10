@@ -22,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Probing Benchmark Models of Hidden-Sector Dark Matter with DAMIC-M*  
+1. *Microlensing at Cosmological Distances: Event Rate Predictions in the Warhol Arc of MACS 0416*  
+J. M. Palencia, J. M. Diego, L. Dai et al., (including **B. J. Kavanagh**)  
+arXiv pre-print, [arXiv:2504.07039](https://arxiv.org/abs/2504.07039)  
+
+2. *Probing Benchmark Models of Hidden-Sector Dark Matter with DAMIC-M*  
 K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
 Submitted to PRL, [arXiv:2503.14617](https://arxiv.org/abs/2503.14617)  
 
