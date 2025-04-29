@@ -36,7 +36,7 @@ Submitted to JCAP, [arXiv:2412.11921](https://arxiv.org/abs/2412.11921)
 
 2. *Unexplained correlation between the Cosmic Microwave Background temperature and the local matter density distribution*  
 M. Cruz, E. Martínez-González, C. Gimeno-Amo, **B. J. Kavanagh**, M. Tucci   
-Submitted to JCAP, [arXiv:2407.17599](https://arxiv.org/abs/2407.17599)   
+[JCAP 04 (2025) 079](https://doi.org/10.1088/1475-7516/2025/04/079), [arXiv:2407.17599](https://arxiv.org/abs/2407.17599)   
 
 2. *Axions in Andromeda: Searching for Minicluster -- Neutron Star Encounters with the Green Bank Telescope*  
 L. Walters, J. Shroyer, M. Edenton, P. Agrawal, B. Johnson, **B. J. Kavanagh**, D. J. E. Marsh, L. Visinelli  
