@@ -12,7 +12,7 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 #### 2025
 
 - Astroparticle Physics Lectures, CERN Summer School, 16-17 July 2025  
-Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2025_Lecture1.pdf) [Video]](https://cds.cern.ch/record/2938363), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2025_Lecture2.pdf) [Video]](https://cds.cern.ch/record/2938461)
+Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2025_Lecture1.pdf) [[Video]](https://cds.cern.ch/record/2938363), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2025_Lecture2.pdf) [[Video]](https://cds.cern.ch/record/2938461)
 
 - IFIC Colloquium, IFIC, Valencia, 23 Jan 2025  
 Colloquium Title: [*Dark Matter on All Scales*](/assets/slides/DarkMatter_IFIC_KAVANAGH_small.pdf)  
