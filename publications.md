@@ -24,15 +24,15 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 1. *Microlensing at Cosmological Distances: Event Rate Predictions in the Warhol Arc of MACS 0416*  
 J. M. Palencia, J. M. Diego, L. Dai et al., (including **B. J. Kavanagh**)  
-arXiv pre-print, [arXiv:2504.07039](https://arxiv.org/abs/2504.07039)  
+[Astronomy & Astrophysics 699, A295 (2025)](https://doi.org/10.1051/0004-6361/202555447), [arXiv:2504.07039](https://arxiv.org/abs/2504.07039)  
 
 2. *Probing Benchmark Models of Hidden-Sector Dark Matter with DAMIC-M*  
 K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
-Submitted to PRL, [arXiv:2503.14617](https://arxiv.org/abs/2503.14617)  
+[Phys. Rev. Lett. 135, 071002 (2025)](https://doi.org/10.1103/2tcc-bqck), [arXiv:2503.14617](https://arxiv.org/abs/2503.14617)  
 
 2. *The cosmic history of Primordial Black Hole accretion and its uncertainties*  
 P. Jangra, D. Gaggero, **B. J. Kavanagh**, J. M. Diego  
-Submitted to JCAP, [arXiv:2412.11921](https://arxiv.org/abs/2412.11921)  
+[JCAP 08 (2025) 006](https://doi.org/10.1088/1475-7516/2025/08/006), [arXiv:2412.11921](https://arxiv.org/abs/2412.11921)  
 
 2. *Unexplained correlation between the Cosmic Microwave Background temperature and the local matter density distribution*  
 M. Cruz, E. Martínez-González, C. Gimeno-Amo, **B. J. Kavanagh**, M. Tucci   
@@ -44,7 +44,7 @@ L. Walters, J. Shroyer, M. Edenton, P. Agrawal, B. Johnson, **B. J. Kavanagh**, 
 
 2. *Dark Matter Mounds: towards a realistic description of dark matter overdensities around black holes*  
 G. Bertone, A. R. A. C. Wierda, D. Gaggero, **B. J. Kavanagh**, M. Volonteri, N. Yoshida  
-Submitted to PRL, [arXiv:2404.08731](https://arxiv.org/abs/2404.08731)  
+[Phys. Rev. D 112, 043537 (2025)](https://doi.org/10.1103/5nnf-8fz9), [arXiv:2404.08731](https://arxiv.org/abs/2404.08731)  
 
 2. *Sharpening the dark matter signature in gravitational waveforms II: Numerical simulations with the NbodyIMRI code*  
 **B. J. Kavanagh**, T. K. Karydas, G. Bertone, P. Di Cintio, M. Pasquato  

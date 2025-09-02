@@ -17,6 +17,8 @@ Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2025_Lect
 - IFIC Colloquium, IFIC, Valencia, 23 Jan 2025  
 Colloquium Title: [*Dark Matter on All Scales*](/assets/slides/DarkMatter_IFIC_KAVANAGH_small.pdf)  
 
+----------------------------
+
 #### 2024
 - Invited Overview Talk, Joint RENATA-MultiDark Meeting, Santander, 8-11 Oct 2024  
 Talk Title: [*Light WIMPs and Light DM*](/assets/slides/KAVANAGH_RENATA_MultiDark_Oct2024.pdf)  
@@ -29,6 +31,8 @@ Talk Title: [*Black Hole Inspirals: Lessons for Dark Matter*](/assets/slides/KAV
 
 - ICMAB Seminar, Barcelona, 18 Mar 2024  
 Seminar Title: [*New Directions in the Search for Dark Matter*](/assets/slides/KAVANAGH_ICMAB_DarkMatter.pdf)
+
+----------------------------
 
 #### 2023
 
