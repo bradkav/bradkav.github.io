@@ -11,13 +11,16 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2025
 
+- [*20th Patras Workshop on Axions, WIMPs and WISPs*](https://agenda.infn.it/event/46273/overview), 22 - 26 Sept 2025  
+Talk Title: [*The Canfranc Axion Detection Experiment (CADEx): a novel haloscope search for Dark Matter axions in the mass range 330–460 μeV*](/assets/slides/CADEx_PATRAS2025_KAVANAGH.pdf)
+
 - Astroparticle Physics Lectures, CERN Summer School, 16-17 July 2025  
 Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2025_Lecture1.pdf) [[Video]](https://cds.cern.ch/record/2938363), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2025_Lecture2.pdf) [[Video]](https://cds.cern.ch/record/2938461)
 
 - IFIC Colloquium, IFIC, Valencia, 23 Jan 2025  
 Colloquium Title: [*Dark Matter on All Scales*](/assets/slides/DarkMatter_IFIC_KAVANAGH_small.pdf)  
 
-----------------------------
+----------------------------  
 
 #### 2024
 - Invited Overview Talk, Joint RENATA-MultiDark Meeting, Santander, 8-11 Oct 2024  
@@ -32,7 +35,7 @@ Talk Title: [*Black Hole Inspirals: Lessons for Dark Matter*](/assets/slides/KAV
 - ICMAB Seminar, Barcelona, 18 Mar 2024  
 Seminar Title: [*New Directions in the Search for Dark Matter*](/assets/slides/KAVANAGH_ICMAB_DarkMatter.pdf)
 
-----------------------------
+----------------------------  
 
 #### 2023
 
@@ -57,7 +60,6 @@ Talk Title: [*Black Holes’ Dark Dress - Detecting Particle Dark Matter around 
 - Invited Overview Talk, [Lunar Gravitational-Wave Antenna (LGWA) White Paper Kick-off Meeting](https://indico.gssi.it/event/450/), GSSI, L'Aquila, 09-10 Feb 2023  
 Talk Title: [*Decihertz Dark Matter: Gravitational Waves from Dark Matter Spikes and Primordial Black Holes*](/assets/slides/KAVANAGH_LGWA_KickOffMeeting_Feb2023.pdf)
 
-
 ----------------------------
 
 #### 2022
@@ -76,8 +78,6 @@ Talk Title: [*Collisionless Dark Matter Spikes: Open questions in formation, evo
 
 - Invited Overview Talk, [3rd Dark Ghosts Workshop](https://indico.cern.ch/event/1075227/), Granada, 1 Apr 2022  
 Talk Title: [*Future Dark Matter Searches: Dark Matter in Extreme Environments*](/assets/slides/KAVANAGH-DarkGhosts_2022_April2022.pdf)
-
-
 
 ----------------------------
 
