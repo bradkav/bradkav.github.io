@@ -26,7 +26,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 F. Scarcella, **B. J. Kavanagh**  
 Submitted to PRD, [arXiv:2510.11635](https://arxiv.org/abs/2510.11635)
 
-2. *First Production of Skipper-CCD Modules for the DAMIC-M Experiment*
+2. *First Production of Skipper-CCD Modules for the DAMIC-M Experiment*  
 H. Lin, M. Traina, S. Paul et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
 arXiv pre-print, [arXiv:2509.06943](https://arxiv.org/abs/2509.06943)
 
