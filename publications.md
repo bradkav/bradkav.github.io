@@ -22,7 +22,19 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Microlensing at Cosmological Distances: Event Rate Predictions in the Warhol Arc of MACS 0416*  
+1. *Hints of Dark Matter Spikes in Low-mass X-ray Binaries: a critical assessment*  
+F. Scarcella, **B. J. Kavanagh**  
+Submitted to PRD, [arXiv:2510.11635](https://arxiv.org/abs/2510.11635)
+
+2. *First Production of Skipper-CCD Modules for the DAMIC-M Experiment*
+H. Lin, M. Traina, S. Paul et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
+arXiv pre-print, [arXiv:2509.06943](https://arxiv.org/abs/2509.06943)
+
+2. *Signatures of Fuzzy Dark Matter Inside Radial Critical Curves*  
+J. M. Palencia et al. (including **B. J. Kavanagh**)  
+[Astronomy & Astrophysics 701, A24 (2025)](https://doi.org/10.1051/0004-6361/202555778), [arXiv:2505.24373](https://arxiv.org/abs/2505.24373)  
+
+2. *Microlensing at Cosmological Distances: Event Rate Predictions in the Warhol Arc of MACS 0416*  
 J. M. Palencia, J. M. Diego, L. Dai et al., (including **B. J. Kavanagh**)  
 [Astronomy & Astrophysics 699, A295 (2025)](https://doi.org/10.1051/0004-6361/202555447), [arXiv:2504.07039](https://arxiv.org/abs/2504.07039)  
 
