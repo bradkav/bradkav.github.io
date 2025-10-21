@@ -11,7 +11,10 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2025
 
-- [*20th Patras Workshop on Axions, WIMPs and WISPs*](https://agenda.infn.it/event/46273/overview), 22 - 26 Sept 2025  
+- LSC Seminar, Canfranc Underground Laboratory, Spain, 21 Oct 2025  
+Seminar Title: [*The Hunt for Axion Dark Matter*](/assets/slides/KAVANAGH_Canfranc_Oct2025_small.pdf)
+
+- [20th Patras Workshop on Axions, WIMPs and WISPs](https://agenda.infn.it/event/46273/overview), Tenerife, Spain, 22 - 26 Sept 2025  
 Talk Title: [*The Canfranc Axion Detection Experiment (CADEx): a novel haloscope search for Dark Matter axions in the mass range 330–460 μeV*](/assets/slides/CADEx_PATRAS2025_KAVANAGH.pdf)
 
 - Astroparticle Physics Lectures, CERN Summer School, 16-17 July 2025  
