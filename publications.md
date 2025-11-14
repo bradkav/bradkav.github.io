@@ -22,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Hints of Dark Matter Spikes in Low-mass X-ray Binaries: a critical assessment*  
+1. *A Fast Earth-scattering Formalism for Light Dark Matter with Dark Photon Mediators*  
+A. Lantero-Barreda, C. Centeno, **B. J. Kavanagh**, N. Castelló-Mor  
+Submitted to PRD, [arXiv:2511.10589](https://arxiv.org/abs/2511.10589)  
+
+2. *Hints of Dark Matter Spikes in Low-mass X-ray Binaries: a critical assessment*  
 F. Scarcella, **B. J. Kavanagh**  
 Submitted to PRD, [arXiv:2510.11635](https://arxiv.org/abs/2510.11635)
 
