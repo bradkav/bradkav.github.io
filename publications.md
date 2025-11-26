@@ -22,7 +22,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Daily Modulation Constraints on Light Dark Matter with DAMIC-M*
+1. *Daily Modulation Constraints on Light Dark Matter with DAMIC-M*  
 K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
 Submitted to PRD, [arXiv:2511.13962](https://arxiv.org/abs/2511.13962)  
 
