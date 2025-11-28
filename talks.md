@@ -11,7 +11,7 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2025
 
-- Invited Overview Talk, Final Meeting of the *Plan Complementario de Astrofísica y Altas Energías*, Santander, Spain, 26 Nov 2025  
+- Invited Overview Talk, [Final Meeting of the *Plan Complementario de Astrofísica y Altas Energías*](https://indico.global/event/15568/overview), Santander, Spain, 26 Nov 2025  
 Talk Title: [*Weakly Interacting Massive Particles (WIMPs) & Light Dark Matter Searches*](/assets/slides/WIMPs_PPCC_KAVANAGH.pdf) 
 
 - LSC Seminar, Canfranc Underground Laboratory, Spain, 21 Oct 2025  
