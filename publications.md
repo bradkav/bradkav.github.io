@@ -22,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Caustic crossings in giant arcs with extended dark matter objects*  
+1. *Dark matter mounds from the collapse of supermassive stars: a general-relativistic analysis*  
+R. Caiozzo, G. Bertone, P. Ullio, R. Vicente, **B. J. Kavanagh**, D. Gaggero  
+Submitted to PRD, [arXiv:2512.09985](https://arxiv.org/abs/2512.09985)
+
+2. *Caustic crossings in giant arcs with extended dark matter objects*  
 D. Croon, B. Crossey, J. M. Diego, **B. J. Kavanagh**, J. M. Palencia  
 Submitted to PRD, [arXiv:2511.20761](https://arxiv.org/abs/2511.20761)  
 
