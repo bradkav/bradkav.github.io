@@ -22,13 +22,17 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Dark matter mounds from the collapse of supermassive stars: a general-relativistic analysis*  
+1. *Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4 GHz*  
+U. Bhura, D. J. E. Marsh, B. R. Johnson, K. van Bibber, M. Helfenbein, **B. J. Kavanagh**, M. Nelson, C. A. J. O'Hare, G. Pierobon, G. Rybka, L. Visinelli  
+Submitted to PRL, [arXiv:2603.13194](https://arxiv.org/abs/2603.13194)
+
+2. *Dark matter mounds from the collapse of supermassive stars: a general-relativistic analysis*  
 R. Caiozzo, G. Bertone, P. Ullio, R. Vicente, **B. J. Kavanagh**, D. Gaggero  
 Submitted to PRD, [arXiv:2512.09985](https://arxiv.org/abs/2512.09985)
 
 2. *Caustic crossings in giant arcs with extended dark matter objects*  
 D. Croon, B. Crossey, J. M. Diego, **B. J. Kavanagh**, J. M. Palencia  
-Submitted to PRD, [arXiv:2511.20761](https://arxiv.org/abs/2511.20761)  
+[Phys. Rev. D 113, 063017 (2026)](https://doi.org/10.1103/4g7h-55r2), [arXiv:2511.20761](https://arxiv.org/abs/2511.20761)  
 
 2. *Daily Modulation Constraints on Light Dark Matter with DAMIC-M*  
 K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
@@ -40,7 +44,7 @@ Submitted to PRD, [arXiv:2511.10589](https://arxiv.org/abs/2511.10589)
 
 2. *Hints of Dark Matter Spikes in Low-mass X-ray Binaries: a critical assessment*  
 F. Scarcella, **B. J. Kavanagh**  
-Submitted to PRD, [arXiv:2510.11635](https://arxiv.org/abs/2510.11635)
+[Phys. Rev. D 113, 043043 (2026)](https://doi.org/10.1103/6zcq-vtz9), [arXiv:2510.11635](https://arxiv.org/abs/2510.11635)
 
 2. *First Production of Skipper-CCD Modules for the DAMIC-M Experiment*  
 H. Lin, M. Traina, S. Paul et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
