@@ -22,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4 GHz*  
+1. *Axions at the meV Crossroads: Theory, Cosmology, Astrophysics, and Experiments*  
+M. Cicoli et al. (including **B. J. Kavanagh**  
+Submitted to JCAP, [arXiv:2603.18167](https://arxiv.org/abs/2603.18167)  
+
+2. *Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4 GHz*  
 U. Bhura, D. J. E. Marsh, B. R. Johnson, K. van Bibber, M. Helfenbein, **B. J. Kavanagh**, M. Nelson, C. A. J. O'Hare, G. Pierobon, G. Rybka, L. Visinelli  
 Submitted to PRL, [arXiv:2603.13194](https://arxiv.org/abs/2603.13194)
 
