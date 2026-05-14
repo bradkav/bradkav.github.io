@@ -9,6 +9,11 @@ weight: 4
 
 Below is a (more or less exhaustive) list of talks, seminars and posters that I've presented. Where possible, I've tried to include the talk slides in PDF format.
 
+#### 2026
+
+- Invited Overview Talk, [LIII International Meeting on Fundamental Physics](https://indico.cern.ch/event/1615834/overview), Granada, Spain, 14 May 2026  
+Talk Title: [*Where should we look for Dark Matter?*](/assets/slides/KAVANAGH_Granada_May2025_small.pdf) 
+
 #### 2025
 
 - Invited Overview Talk, [Final Meeting of the *Plan Complementario de Astrofísica y Altas Energías*](https://indico.global/event/15568/overview), Santander, Spain, 26 Nov 2025  
