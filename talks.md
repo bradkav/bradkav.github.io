@@ -11,11 +11,12 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2026
 
+- Invited Talk, [Active Galactic Nuclei as Dark Sector Laboratories](https://harvard-neutrinos.rc.fas.harvard.edu/event/33/timetable/#20260619), IFPU Focus Week, 17 June 2026  
+Talk Title: [*The birth, life (and death?) of Dark Matter spikes around Black Holes*](/assets/slides/KAVANAGH_Trieste_June2026_small.pdf) 
+
 - Invited Overview Talk, [LIII International Meeting on Fundamental Physics](https://indico.cern.ch/event/1615834/overview), Granada, Spain, 14 May 2026  
 Talk Title: [*Where should we look for Dark Matter?*](/assets/slides/KAVANAGH_Granada_May2025_small.pdf) 
 
-- Invited Talk, [Active Galactic Nuclei as Dark Sector Laboratories](https://harvard-neutrinos.rc.fas.harvard.edu/event/33/timetable/#20260619), IFPU Focus Week, 17 June 2026  
-Talk Title: [*The birth, life (and death?) of Dark Matter spikes around Black Holes*](/assets/slides/KAVANAGH_Trieste_June2026_small.pdf) 
 
 
 ----------------------------  
