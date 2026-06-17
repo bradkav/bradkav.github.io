@@ -22,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *Axions at the meV Crossroads: Theory, Cosmology, Astrophysics, and Experiments*  
+1. *On the survival of dark matter spikes: Stellar and compact-object perturbations*  
+T. K. Karydas, F. Scarcella, **B. J. Kavanagh**, G. Bertone  
+arXiv pre-print, [arXiv:2606.13761](https://arxiv.org/abs/2606.13761)  
+
+2. *Axions at the meV Crossroads: Theory, Cosmology, Astrophysics, and Experiments*  
 M. Cicoli et al. (including **B. J. Kavanagh**  
 Submitted to JCAP, [arXiv:2603.18167](https://arxiv.org/abs/2603.18167)  
 
