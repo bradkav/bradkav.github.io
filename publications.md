@@ -22,7 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *On the survival of dark matter spikes: Stellar and compact-object perturbations*  
+1. *The swallowed spike: the formation of light primordial black hole structures around heavy seeds*  
+A. Tolino, F. Scarcella, **B. J. Kavanagh**, V. De Romeri, D. Gaggero  
+arXiv pre-print, [arXiv:arXiv:2606.25031](https://arxiv.org/abs/2606.25031)
+
+2. *On the survival of dark matter spikes: Stellar and compact-object perturbations*  
 T. K. Karydas, F. Scarcella, **B. J. Kavanagh**, G. Bertone  
 arXiv pre-print, [arXiv:2606.13761](https://arxiv.org/abs/2606.13761)  
 
