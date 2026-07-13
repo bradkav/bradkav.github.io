@@ -22,7 +22,12 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
-1. *The swallowed spike: the formation of light primordial black hole structures around heavy seeds*  
+
+1. *Constraints on Sub-MeV Dark Matter from Solar Reflection with DAMIC-M*  
+K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
+Submitted to PRD, [arXiv:2607.09352](https://arxiv.org/abs/2607.09352)  
+
+2. *The swallowed spike: the formation of light primordial black hole structures around heavy seeds*  
 A. Tolino, F. Scarcella, **B. J. Kavanagh**, V. De Romeri, D. Gaggero  
 arXiv pre-print, [arXiv:arXiv:2606.25031](https://arxiv.org/abs/2606.25031)
 
