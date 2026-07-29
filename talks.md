@@ -12,7 +12,7 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 #### 2026
 
 - Astroparticle Physics Lectures, CERN Summer School, 27-28 July 2026  
-Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2026_Lecture1_small.pdf), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2026_Lecture2_small.pdf)
+Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2026_Lecture1_small.pdf) [[Video]](https://videos.cern.ch/record/3026556), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2026_Lecture2_small.pdf) [[Video]](https://videos.cern.ch/record/3026564)
 
 - Invited Talk, [The Phenomenology of Primordial Black Holes](https://indico.mitp.uni-mainz.de/event/452/), MITP Workshop, 20 -31 July 2026  
 Talk Title: [*Looking for Dark Matter around Primordial Black holes*](/assets/slides/KAVANAGH_MITP_July2026.pdf)
