@@ -22,8 +22,11 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 *** 
 <br>
 
+1. *Gamma Rays from ALP-Photon Conversion and Inverse Compton Reprocessing in Neutron Star Magnetospheres*
+F. Giacchino, C. A. Torres, G. Galanti, **B. J. Kavanagh**, M. A. Pérez-García, J. M. Diego
+Submitted to Physics of the Dark Universe, [arXiv:2608.00589](https://arxiv.org/abs/2608.00589)
 
-1. *Constraints on Sub-MeV Dark Matter from Solar Reflection with DAMIC-M*  
+2. *Constraints on Sub-MeV Dark Matter from Solar Reflection with DAMIC-M*  
 K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
 Submitted to PRD, [arXiv:2607.09352](https://arxiv.org/abs/2607.09352)  
 
@@ -37,7 +40,7 @@ arXiv pre-print, [arXiv:2606.13761](https://arxiv.org/abs/2606.13761)
 
 2. *Axions at the meV Crossroads: Theory, Cosmology, Astrophysics, and Experiments*  
 M. Cicoli et al. (including **B. J. Kavanagh**  
-Submitted to JCAP, [arXiv:2603.18167](https://arxiv.org/abs/2603.18167)  
+[JCAP 07 (2026) 060](https://doi.org/10.1088/1475-7516/2026/07/060), [arXiv:2603.18167](https://arxiv.org/abs/2603.18167)  
 
 2. *Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4 GHz*  
 U. Bhura, D. J. E. Marsh, B. R. Johnson, K. van Bibber, M. Helfenbein, **B. J. Kavanagh**, M. Nelson, C. A. J. O'Hare, G. Pierobon, G. Rybka, L. Visinelli  
@@ -45,7 +48,7 @@ Submitted to PRL, [arXiv:2603.13194](https://arxiv.org/abs/2603.13194)
 
 2. *Dark matter mounds from the collapse of supermassive stars: a general-relativistic analysis*  
 R. Caiozzo, G. Bertone, P. Ullio, R. Vicente, **B. J. Kavanagh**, D. Gaggero  
-Submitted to PRD, [arXiv:2512.09985](https://arxiv.org/abs/2512.09985)
+[Phys. Rev. D 113, 063052 (2026)](https://doi.org/10.1103/lnhp-tffg), [arXiv:2512.09985](https://arxiv.org/abs/2512.09985)
 
 2. *Caustic crossings in giant arcs with extended dark matter objects*  
 D. Croon, B. Crossey, J. M. Diego, **B. J. Kavanagh**, J. M. Palencia  
