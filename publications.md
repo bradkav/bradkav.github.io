@@ -23,7 +23,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 <br>
 
 1. *Gamma Rays from ALP-Photon Conversion and Inverse Compton Reprocessing in Neutron Star Magnetospheres*
-F. Giacchino, C. A. Torres, G. Galanti, **B. J. Kavanagh**, M. A. Pérez-García, J. M. Diego
+F. Giacchino, C. A. Torres, G. Galanti, **B. J. Kavanagh**, M. A. Pérez-García, J. M. Diego  
 Submitted to Physics of the Dark Universe, [arXiv:2608.00589](https://arxiv.org/abs/2608.00589)
 
 2. *Constraints on Sub-MeV Dark Matter from Solar Reflection with DAMIC-M*  
