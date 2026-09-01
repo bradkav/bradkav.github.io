@@ -56,7 +56,7 @@ D. Croon, B. Crossey, J. M. Diego, **B. J. Kavanagh**, J. M. Palencia
 
 2. *Daily Modulation Constraints on Light Dark Matter with DAMIC-M*  
 K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
-Submitted to PRD, [arXiv:2511.13962](https://arxiv.org/abs/2511.13962)  
+[Phys. Rev. D 114, 032010 (2026)](https://doi.org/10.1103/c9fm-ymf2), [arXiv:2511.13962](https://arxiv.org/abs/2511.13962)  
 
 2. *A Fast Earth-scattering Formalism for Light Dark Matter with Dark Photon Mediators*  
 A. Lantero-Barreda, C. Centeno, **B. J. Kavanagh**, N. Castelló-Mor  
