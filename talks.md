@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2026
 
+- Invited Talk, [GDR Deep Underground Physics Plenary Meeting](https://indico.in2p3.fr/event/39848/overview), Paris, 19-21 October 2026  
+Talk title: [Earth-scattering of Dark Matter with Verne](/assets/slides/KAVANAGH_GDR_DYPhy_Oct2026_small.pdf)
+
 - Astroparticle Physics Lectures, CERN Summer School, 27-28 July 2026  
 Links: [*Lecture 1/2*](/assets/slides/Astroparticle_CERN_summer_school_2026_Lecture1_small.pdf) [[Video]](https://videos.cern.ch/record/3026556), [*Lecture 2/2*](/assets/slides/Astroparticle_CERN_summer_school_2026_Lecture2_small.pdf) [[Video]](https://videos.cern.ch/record/3026564)
 
