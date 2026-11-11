@@ -32,7 +32,7 @@ Submitted to PRD, [arXiv:2607.09352](https://arxiv.org/abs/2607.09352)
 
 2. *The swallowed spike: the formation of light primordial black hole structures around heavy seeds*  
 A. Tolino, F. Scarcella, **B. J. Kavanagh**, V. De Romeri, D. Gaggero  
-arXiv pre-print, [arXiv:arXiv:2606.25031](https://arxiv.org/abs/2606.25031)
+arXiv pre-print, [arXiv:2606.25031](https://arxiv.org/abs/2606.25031)
 
 2. *On the survival of dark matter spikes: Stellar and compact-object perturbations*  
 T. K. Karydas, F. Scarcella, **B. J. Kavanagh**, G. Bertone  

@@ -11,6 +11,9 @@ Below is a (more or less exhaustive) list of talks, seminars and posters that I'
 
 #### 2026
 
+- Invited Talk, De Tenebris ERC Kick-off Meeting, Amsterdam, 11-13 November 2026  
+Talk Title: [Feedback on Dark Matter Spikes (Interactions with Stars and Stellar Mass Black Holes)](/assets/slides/KAVANAGH_DeTenebris_Nov2026.pdf)
+
 - Invited Talk, [GDR Deep Underground Physics Plenary Meeting](https://indico.in2p3.fr/event/39848/overview), Paris, 19-21 October 2026  
 Talk title: [Earth-scattering of Dark Matter with Verne](/assets/slides/KAVANAGH_GDR_DYPhy_Oct2026_small.pdf)
 
