@@ -24,7 +24,7 @@ My profile on [ImpactStory](https://impactstory.org/) can be viewed [here](https
 
 1. *Gamma Rays from ALP-Photon Conversion and Inverse Compton Reprocessing in Neutron Star Magnetospheres*
 F. Giacchino, C. A. Torres, G. Galanti, **B. J. Kavanagh**, M. A. Pérez-García, J. M. Diego  
-Submitted to Physics of the Dark Universe, [arXiv:2608.00589](https://arxiv.org/abs/2608.00589)
+[Phys. Dark Univ. (2026)](https://doi.org/10.1016/j.dark.2026.102519), [arXiv:2608.00589](https://arxiv.org/abs/2608.00589)
 
 2. *Constraints on Sub-MeV Dark Matter from Solar Reflection with DAMIC-M*  
 K. Aggarwal et al. (DAMIC-M Collaboration, including **B. J. Kavanagh**)  
@@ -359,7 +359,11 @@ Featured on [Phys.org](http://phys.org/news/2013-07-model-independent-dark-mass-
 ### White Papers
 {: #white-papers }
 
-1. *The Lunar Gravitational-wave Antenna: Mission Studies and Science Case*  
+1. *Active Galactic Nuclei as Beyond the Standard Model Laboratories: a White Paper*  
+G. Herrera, F. Sala, P. Ullio et al. (including **B. J. Kavanagh**)  
+Submitted to JCAP, [arXiv:2611.21736](https://arxiv.org/abs/2611.21736)  
+
+2. *The Lunar Gravitational-wave Antenna: Mission Studies and Science Case*  
 P. Ajith et al. (LGWA Collaboration, including **B. J. Kavanagh**)  
 [JCAP 01 (2025) 108](https://iopscience.iop.org/article/10.1088/1475-7516/2025/01/108), [arXiv:2404.09181](https://arxiv.org/abs/2404.09181)
 
